@@ -15,3 +15,8 @@
 *.fdb_latexmk
 *.lof
 *.lot
+
+# XeLaTeX intermediate files
+*.xdv
+
+AGENTS.md

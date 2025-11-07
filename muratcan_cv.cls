@@ -59,7 +59,7 @@
 
 \newcommand{\name}{%
 {\LARGE \color{\@themecolor} \@firstname \ \textsc{\@lastname}}\\[0.2ex]
-{\large \color{\@themecolor} Senior DevOps \textbar{} Founding Engineer}
+{\large \color{\@themecolor} Senior Platform \& AI Engineer}
 }
 
 \newcommand{\contact}{
