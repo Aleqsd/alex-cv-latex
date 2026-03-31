@@ -48,7 +48,6 @@ test-results/
 # Job-search local artifacts
 dashboard/data/*.json
 data/tmp*
-output/**/*.pdf
 jobs/*/source/source.html
 jobs/*/artifacts/tailored_cv.tex
 jobs/*/artifacts/tailored_cv.pdf
@@ -61,6 +60,7 @@ jobs/*/notes/decision.md
 jobs/*/offer.generated.yaml
 
 # Logs and temporary files
+tmp/
 *.tmp
 *.temp
 *.bak
