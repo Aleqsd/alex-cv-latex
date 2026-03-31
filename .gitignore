@@ -1,22 +1,66 @@
+.tools/
+.vscode/
+build/
+dist/
+.DS_Store
 
----
-
-### 📁 `.gitignore`
-
-```gitignore
-# LaTeX intermediate files
+# LaTeX intermediates
 *.aux
+*.fdb_latexmk
+*.fls
 *.log
 *.out
-*.toc
-*.gz
 *.synctex.gz
-*.fls
-*.fdb_latexmk
-*.lof
-*.lot
-
-# XeLaTeX intermediate files
+*.toc
 *.xdv
 
-AGENTS.md
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node / frontend noise
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local dashboard and browser artifacts
+playwright-report/
+test-results/
+*.har
+
+# Generated previews and exports
+*.png
+*.jpg.tmp
+*.jpeg.tmp
+
+# Generated PDFs outside canonical output folders
+/*.pdf
+
+# Job-search local artifacts
+dashboard/data/*.json
+data/tmp*
+output/**/*.pdf
+jobs/*/source/source.html
+jobs/*/artifacts/tailored_cv.tex
+jobs/*/artifacts/tailored_cv.pdf
+jobs/*/artifacts/fit_report.md
+jobs/*/artifacts/application_plan.md
+jobs/*/artifacts/messages.md
+jobs/*/artifacts/answers.md
+jobs/*/notes/research.md
+jobs/*/notes/decision.md
+jobs/*/offer.generated.yaml
+
+# Logs and temporary files
+*.tmp
+*.temp
+*.bak

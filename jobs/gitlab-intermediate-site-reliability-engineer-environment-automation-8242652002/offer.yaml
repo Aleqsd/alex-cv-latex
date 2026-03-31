@@ -1,0 +1,563 @@
+id: gitlab-intermediate-site-reliability-engineer-environment-automation-8242652002
+company_name: GitLab
+job_title: Intermediate Site Reliability Engineer, Environment Automation
+normalized_role_family: platform_devops_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: gitlab_greenhouse
+external_job_id: '8242652002'
+source_url: https://job-boards.greenhouse.io/gitlab/jobs/8242652002
+source_date: '2026-03-15T20:52:36+00:00'
+posted_at: '2026-03-06T16:19:38-05:00'
+last_seen_at: '2026-03-15T20:56:02+00:00'
+location: Remote, France; Remote, Germany; Remote, Ireland; Remote, Israel; Remote,
+  Netherlands; Remote, Spain; Remote, United Kingdom
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/gitlab/jobs/8242652002
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is\
+  \ the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An\
+  \ overview of this role&lt;/h2&gt; &lt;p&gt;You&#39;ll join the Dedicated team as\
+  \ a Site Reliability Engineer focused on &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/environment-automation/&quot;&gt;Environment\
+  \ Automation&lt;/a&gt;, where your work will help power hundreds of isolated GitLab\
+  \ environments for our customers. In this role, you&#39;ll help keep these environments\
+  \ reliable, scalable, secure, and consistent by treating everything as code and\
+  \ contributing to automation across the entire lifecycle, from initial provisioning\
+  \ to day-to-day operations. Instead of operating a single platform, you&#39;ll collaborate\
+  \ with senior SREs to solve the unique challenges of managing many tenant environments\
+  \ in parallel, each with its own constraints and integration points.&lt;/p&gt; &lt;p&gt;You&#39;ll\
+  \ help define, deploy, and maintain GitLab environments across cloud providers using\
+  \ infrastructure as code, deployment packages, and Kubernetes. You&#39;ll contribute\
+  \ to automation that reduces manual work, assist in building tooling that orchestrates\
+  \ upgrades and configuration changes safely at scale, and support an observability\
+  \ stack that lets us understand and improve the health of every environment. Your\
+  \ work will directly impact how customers experience GitLab Dedicated and other\
+  \ managed offerings, enabling them to focus on building software while we ensure\
+  \ their GitLab environments are always production ready.&lt;/p&gt; &lt;p&gt;Some\
+  \ examples of work you&#39;ll do:&lt;/p&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Contribute\
+  \ to the design and evolution of infrastructure automation using Terraform, Ansible,\
+  \ and Kubernetes to provision, upgrade, and operate many GitLab environments with\
+  \ minimal manual effort&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Help debug and\
+  \ resolve production issues across Kubernetes clusters, GitLab components, and cloud\
+  \ services, then assist in building automation and safeguards that prevent similar\
+  \ issues from recurring&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Assist in creating\
+  \ and maintaining deployment and orchestration tools, such as Helm Charts, omnibus-gitlab\
+  \ configurations, and multi-tenant workflows, that make it easy for teams to manage\
+  \ GitLab environments at scale&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you&#39;ll\
+  \ do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Contribute to automating\
+  \ operational tasks across many GitLab environments, from initial provisioning and\
+  \ configuration updates to upgrades and routine maintenance, helping reduce manual\
+  \ work and improve reliability at scale under the guidance of senior team members.&lt;/li&gt;\
+  \ &lt;li value=&quot;2&quot;&gt;Help build and refine the observability stack for\
+  \ multi-tenant GitLab environments so we monitor the right signals across Kubernetes,\
+  \ cloud services, and GitLab applications, supporting early issue detection and\
+  \ basic capacity tracking.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Assist in responding\
+  \ to platform alerts and incidents, collaborating with Environment Automation SREs\
+  \ and engineering teams to troubleshoot production issues across multiple tenants\
+  \ and document findings.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Support planning\
+  \ and implementation of infrastructure changes, capacity expansions, and new service\
+  \ rollouts for Dedicated and other managed GitLab environments, contributing to\
+  \ efforts that improve resource efficiency and environment isolation.&lt;/li&gt;\
+  \ &lt;li value=&quot;5&quot;&gt;Develop and maintain scripts, automation tools,\
+  \ and infrastructure-as-code workflows that manage parts of the GitLab environment\
+  \ lifecycle, enabling more repeatable, self-service operations over time.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;Apply and help implement best practices for running\
+  \ GitLab on Kubernetes and cloud platforms, focusing on day-to-day reliability,\
+  \ performance, and security while learning how to keep environments consistent.&lt;/li&gt;\
+  \ &lt;li value=&quot;7&quot;&gt;Participate in the on-call rotation for production\
+  \ GitLab environments with appropriate support, helping triage and mitigate incidents\
+  \ across clusters and cloud providers and contributing to post-incident reviews.&lt;/li&gt;\
+  \ &lt;li value=&quot;8&quot;&gt;Document operational tasks, runbooks, and lessons\
+  \ learned so they become clear, repeatable processes and can be candidates for future\
+  \ automation, improving shared knowledge and reducing manual toil across the team.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Experience\
+  \ working as an SRE or in a similar role operating production infrastructure, with\
+  \ an interest in automating the lifecycle of many environments or tenants in parallel,\
+  \ even if you have not yet done so at large scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Hands-on\
+  \ experience with backend programming languages such as Golang, with the ability\
+  \ to read, understand, and modify infrastructure tools.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Hands-on\
+  \ experience running Kubernetes-based workloads in production, including basic understanding\
+  \ of deployments, rollouts, and debugging common issues like crash loops, failed\
+  \ health checks, and scheduling problems.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Familiarity\
+  \ with infrastructure automation and configuration management tools such as Terraform\
+  \ and Ansible, including experience working with modules, variables, and managing\
+  \ state safely for multiple environments.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Solid\
+  \ understanding of Git-based workflows and infrastructure-as-code practices, with\
+  \ the ability to contribute to reusable modules, templates, and pipelines that make\
+  \ automation safer and more consistent.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Experience\
+  \ working in distributed systems or cloud-based production environments, ideally\
+  \ in SaaS or managed service settings, with comfort participating in incident response\
+  \ and on-call rotations under guidance from more senior team members.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;A proactive mindset focused on automation and documentation\u2014\
+  you look for opportunities to remove manual steps, improve runbooks, and turn repetitive\
+  \ tasks into reliable, self-service tools.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Comfort\
+  \ working asynchronously across distributed teams and a desire to contribute to\
+  \ GitLab&#39;s values of collaboration, transparency, and iteration.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;We are responsible for\
+  \ building, running, and evolving the entire lifecycle of the GitLab environments\
+  \ that power the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/&quot;&gt;GitLab\
+  \ Dedicated&lt;/a&gt; platform. You&#39;ll be part of our team focused on owning\
+  \ the reliability, scalability, performance, and security of automated single-tenant\
+  \ GitLab instances and their supporting services. GitLab Dedicated provides fully\
+  \ managed, isolated environments for customers around the world, which means your\
+  \ work directly impacts how organizations of all sizes run their mission-critical\
+  \ software delivery on GitLab. We operate in a fully distributed, asynchronous environment\
+  \ across multiple regions, collaborating on everything from infrastructure automation\
+  \ and environment lifecycle design to incident response and capacity planning. You&#39;ll\
+  \ be solving novel challenges at scale, from orchestrating infrastructure-as-code\
+  \ workflows across hundreds of tenants to designing the automation that keeps those\
+  \ environments consistent, secure, and up to date. We continuously seek to reduce\
+  \ complexity and improve efficiency by leveraging cloud vendor managed products\
+  \ and services where appropriate, ensuring GitLab Dedicated remains a best-in-class\
+  \ managed platform for our customers. For more on how we operate, see the relevant\
+  \ GitLab Dedicated and infrastructure handbook pages.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How\
+  \ GitLab will support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab\
+  \ is the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An\
+  \ overview of this role&lt;/h2&gt; &lt;p&gt;You&#39;ll join the Dedicated team as\
+  \ a Site Reliability Engineer focused on &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/environment-automation/&quot;&gt;Environment\
+  \ Automation&lt;/a&gt;, where your work will help power hundreds of isolated GitLab\
+  \ environments for our customers. In this role, you&#39;ll help keep these environments\
+  \ reliable, scalable, secure, and consistent by treating everything as code and\
+  \ contributing to automation across the entire lifecycle, from initial provisioning\
+  \ to day-to-day operations. Instead of operating a single platform, you&#39;ll collaborate\
+  \ with senior SREs to solve the unique challenges of managing many tenant environments\
+  \ in parallel, each with its own constraints and integration points.&lt;/p&gt; &lt;p&gt;You&#39;ll\
+  \ help define, deploy, and maintain GitLab environments across cloud providers using\
+  \ infrastructure as code, deployment packages, and Kubernetes. You&#39;ll contribute\
+  \ to automation that reduces manual work, assist in building tooling that orchestrates\
+  \ upgrades and configuration changes safely at scale, and support an observability\
+  \ stack that lets us understand and improve the health of every environment. Your\
+  \ work will directly impact how customers experience GitLab Dedicated and other\
+  \ managed offerings, enabling them to focus on building software while we ensure\
+  \ their GitLab environments are always production ready.&lt;/p&gt; &lt;p&gt;Some\
+  \ examples of work you&#39;ll do:&lt;/p&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Contribute\
+  \ to the design and evolution of infrastructure automation using Terraform, Ansible,\
+  \ and Kubernetes to provision, upgrade, and operate many GitLab environments with\
+  \ minimal manual effort&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Help debug and\
+  \ resolve production issues across Kubernetes clusters, GitLab components, and cloud\
+  \ services, then assist in building automation and safeguards that prevent similar\
+  \ issues from recurring&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Assist in creating\
+  \ and maintaining deployment and orchestration tools, such as Helm Charts, omnibus-gitlab\
+  \ configurations, and multi-tenant workflows, that make it easy for teams to manage\
+  \ GitLab environments at scale&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you&#39;ll\
+  \ do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Contribute to automating\
+  \ operational tasks across many GitLab environments, from initial provisioning and\
+  \ configuration updates to upgrades and routine maintenance, helping reduce manual\
+  \ work and improve reliability at scale under the guidance of senior team members.&lt;/li&gt;\
+  \ &lt;li value=&quot;2&quot;&gt;Help build and refine the observability stack for\
+  \ multi-tenant GitLab environments so we monitor the right signals across Kubernetes,\
+  \ cloud services, and GitLab applications, supporting early issue detection and\
+  \ basic capacity tracking.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Assist in responding\
+  \ to platform alerts and incidents, collaborating with Environment Automation SREs\
+  \ and engineering teams to troubleshoot production issues across multiple tenants\
+  \ and document findings.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Support planning\
+  \ and implementation of infrastructure changes, capacity expansions, and new service\
+  \ rollouts for Dedicated and other managed GitLab environments, contributing to\
+  \ efforts that improve resource efficiency and environment isolation.&lt;/li&gt;\
+  \ &lt;li value=&quot;5&quot;&gt;Develop and maintain scripts, automation tools,\
+  \ and infrastructure-as-code workflows that manage parts of the GitLab environment\
+  \ lifecycle, enabling more repeatable, self-service operations over time.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;Apply and help implement best practices for running\
+  \ GitLab on Kubernetes and cloud platforms, focusing on day-to-day reliability,\
+  \ performance, and security while learning how to keep environments consistent.&lt;/li&gt;\
+  \ &lt;li value=&quot;7&quot;&gt;Participate in the on-call rotation for production\
+  \ GitLab environments with appropriate support, helping triage and mitigate incidents\
+  \ across clusters and cloud providers and contributing to post-incident reviews.&lt;/li&gt;\
+  \ &lt;li value=&quot;8&quot;&gt;Document operational tasks, runbooks, and lessons\
+  \ learned so they become clear, repeatable processes and can be candidates for future\
+  \ automation, improving shared knowledge and reducing manual toil across the team.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Experience\
+  \ working as an SRE or in a similar role operating production infrastructure, with\
+  \ an interest in automating the lifecycle of many environments or tenants in parallel,\
+  \ even if you have not yet done so at large scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Hands-on\
+  \ experience with backend programming languages such as Golang, with the ability\
+  \ to read, understand, and modify infrastructure tools.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Hands-on\
+  \ experience running Kubernetes-based workloads in production, including basic understanding\
+  \ of deployments, rollouts, and debugging common issues like crash loops, failed\
+  \ health checks, and scheduling problems.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Familiarity\
+  \ with infrastructure automation and configuration management tools such as Terraform\
+  \ and Ansible, including experience working with modules, variables, and managing\
+  \ state safely for multiple environments.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Solid\
+  \ understanding of Git-based workflows and infrastructure-as-code practices, with\
+  \ the ability to contribute to reusable modules, templates, and pipelines that make\
+  \ automation safer and more consistent.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Experience\
+  \ working in distributed systems or cloud-based production environments, ideally\
+  \ in SaaS or managed service settings, with comfort participating in incident response\
+  \ and on-call rotations under guidance from more senior team members.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;A proactive mindset focused on automation and documentation\u2014\
+  you look for opportunities to remove manual steps, improve runbooks, and turn repetitive\
+  \ tasks into reliable, self-service tools.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Comfort\
+  \ working asynchronously across distributed teams and a desire to contribute to\
+  \ GitLab&#39;s values of collaboration, transparency, and iteration.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;We are responsible for\
+  \ building, running, and evolving the entire lifecycle of the GitLab environments\
+  \ that power the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/&quot;&gt;GitLab\
+  \ Dedicated&lt;/a&gt; platform. You&#39;ll be part of our team focused on owning\
+  \ the reliability, scalability, performance, and security of automated single-tenant\
+  \ GitLab instances and their supporting services. GitLab Dedicated provides fully\
+  \ managed, isolated environments for customers around the world, which means your\
+  \ work directly impacts how organizations of all sizes run their mission-critical\
+  \ software delivery on GitLab. We operate in a fully distributed, asynchronous environment\
+  \ across multiple regions, collaborating on everything from infrastructure automation\
+  \ and environment lifecycle design to incident response and capacity planning. You&#39;ll\
+  \ be solving novel challenges at scale, from orchestrating infrastructure-as-code\
+  \ workflows across hundreds of tenants to designing the automation that keeps those\
+  \ environments consistent, secure, and up to date. We continuously seek to reduce\
+  \ complexity and improve efficiency by leveraging cloud vendor managed products\
+  \ and services where appropriate, ensuring GitLab Dedicated remains a best-in-class\
+  \ managed platform for our customers. For more on how we operate, see the relevant\
+  \ GitLab Dedicated and infrastructure handbook pages.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How\
+  \ GitLab will support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+keywords_required:
+- go
+- kubernetes
+- rag
+- recruiting
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 94
+fit_score_human: 100
+fit_score_strategic: 100
+fit_score_final: 97
+fit_recommendation: apply
+fit_summary: GitLab scores 97 with recommendation apply for role family Platform /
+  DevOps Engineer.
+risks: []
+strengths:
+- Direct keyword overlap with go, kubernetes, rag, recruiting, reliability.
+- 'Role family aligns with preferred target: Platform / DevOps Engineer.'
+- Strong quantified delivery evidence is available for this role family.
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:52:36+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source gitlab_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 17
+  core_skills_match: 20
+  experience_relevance: 20
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 7
+  logistics_fit: 10
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 6
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: multi_region_including_base
+  regions:
+  - France
+  - United Kingdom
+  - Ireland
+  - Germany
+  - Spain
+  - Netherlands
+  label: Remote (France + region limits)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote remote, france; remote, germany; remote, ireland; remote, israel; remote,\
+    \ netherlands; remote, spain; remote, united kingdom intermediate site reliability\
+    \ engineer, environment automation &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;gitlab\
+    \ is the intelligent orchestration platform for devsecops. gitlab enables organizations\
+    \ to increase developer productivity, improve operational efficiency, reduce security\
+    \ and compliance risk, and accelerate digital transformation. more than 50 million\
+    \ registered users and more than 50% of the fortune 100* trust gitlab to ship\
+    \ better, more secure software faster.&lt;/p&gt; &lt;p&gt;the same principles\
+    \ built into our products are reflected in how our team works: we embrace ai as\
+    \ a core productivity multiplier, with all team members expected to incorporate\
+    \ ai into their daily workflows to drive efficiency, innovation, and impact. gitlab\
+    \ is where careers accelerate, innovation flourishes, and every voice is valued.\
+    \ our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+    \ and continuous knowledge exchange, enabling our team members to reach their\
+    \ full potential while collaborating with industry leaders to solve complex problems.\
+    \ &lt;a href=&quot;https://www.youtube.com/watch?v=ouzib5zszqi&quot;&gt;co-create\
+    \ the future with us&lt;/a&gt; as we build technology that transforms how the\
+    \ world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;fortune 500\xAE is a\
+    \ registered trademark of fortune media ip limited, used under license. claim\
+    \ based on gitlab data. fortune 100 refers to the top 20% ranked companies in\
+    \ the 2025 fortune 500 list, published in june 2025. fortune and fortune media\
+    \ ip limited are not affiliated with, and do not endorse products or services\
+    \ of gitlab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;an overview of this role&lt;/h2&gt;\
+    \ &lt;p&gt;you&#39;ll join the dedicated team as a site reliability engineer focused\
+    \ on &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/environment-automation/&quot;&gt;environment\
+    \ automation&lt;/a&gt;, where your work will help power hundreds of isolated gitlab\
+    \ environments for our customers. in this role, you&#39;ll help keep these environments\
+    \ reliable, scalable, secure, and consistent by treating everything as code and\
+    \ contributing to automation across the entire lifecycle, from initial provisioning\
+    \ to day-to-day operations. instead of operating a single platform, you&#39;ll\
+    \ collaborate with senior sres to solve the unique challenges of managing many\
+    \ tenant environments in parallel, each with its own constraints and integration\
+    \ points.&lt;/p&gt; &lt;p&gt;you&#39;ll help define, deploy, and maintain gitlab\
+    \ environments across cloud providers using infrastructure as code, deployment\
+    \ packages, and kubernetes. you&#39;ll contribute to automation that reduces manual\
+    \ work, assist in building tooling that orchestrates upgrades and configuration\
+    \ changes safely at scale, and support an observability stack that lets us understand\
+    \ and improve the health of every environment. your work will directly impact\
+    \ how customers experience gitlab dedicated and other managed offerings, enabling\
+    \ them to focus on building software while we ensure their gitlab environments\
+    \ are always production ready.&lt;/p&gt; &lt;p&gt;some examples of work you&#39;ll\
+    \ do:&lt;/p&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;contribute to the design\
+    \ and evolution of infrastructure automation using terraform, ansible, and kubernetes\
+    \ to provision, upgrade, and operate many gitlab environments with minimal manual\
+    \ effort&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;help debug and resolve production\
+    \ issues across kubernetes clusters, gitlab components, and cloud services, then\
+    \ assist in building automation and safeguards that prevent similar issues from\
+    \ recurring&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;assist in creating and maintaining\
+    \ deployment and orchestration tools, such as helm charts, omnibus-gitlab configurations,\
+    \ and multi-tenant workflows, that make it easy for teams to manage gitlab environments\
+    \ at scale&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;what you&#39;ll do&lt;/h2&gt; &lt;ul&gt;\
+    \ &lt;li value=&quot;1&quot;&gt;contribute to automating operational tasks across\
+    \ many gitlab environments, from initial provisioning and configuration updates\
+    \ to upgrades and routine maintenance, helping reduce manual work and improve\
+    \ reliability at scale under the guidance of senior team members.&lt;/li&gt; &lt;li\
+    \ value=&quot;2&quot;&gt;help build and refine the observability stack for multi-tenant\
+    \ gitlab environments so we monitor the right signals across kubernetes, cloud\
+    \ services, and gitlab applications, supporting early issue detection and basic\
+    \ capacity tracking.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;assist in responding\
+    \ to platform alerts and incidents, collaborating with environment automation\
+    \ sres and engineering teams to troubleshoot production issues across multiple\
+    \ tenants and document findings.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;support\
+    \ planning and implementation of infrastructure changes, capacity expansions,\
+    \ and new service rollouts for dedicated and other managed gitlab environments,\
+    \ contributing to efforts that improve resource efficiency and environment isolation.&lt;/li&gt;\
+    \ &lt;li value=&quot;5&quot;&gt;develop and maintain scripts, automation tools,\
+    \ and infrastructure-as-code workflows that manage parts of the gitlab environment\
+    \ lifecycle, enabling more repeatable, self-service operations over time.&lt;/li&gt;\
+    \ &lt;li value=&quot;6&quot;&gt;apply and help implement best practices for running\
+    \ gitlab on kubernetes and cloud platforms, focusing on day-to-day reliability,\
+    \ performance, and security while learning how to keep environments consistent.&lt;/li&gt;\
+    \ &lt;li value=&quot;7&quot;&gt;participate in the on-call rotation for production\
+    \ gitlab environments with appropriate support, helping triage and mitigate incidents\
+    \ across clusters and cloud providers and contributing to post-incident reviews.&lt;/li&gt;\
+    \ &lt;li value=&quot;8&quot;&gt;document operational tasks, runbooks, and lessons\
+    \ learned so they become clear, repeatable processes and can be candidates for\
+    \ future automation, improving shared knowledge and reducing manual toil across\
+    \ the team.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;what you&#39;ll bring&lt;/h2&gt;\
+    \ &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;experience working as an sre or in\
+    \ a similar role operating production infrastructure, with an interest in automating\
+    \ the lifecycle of many environments or tenants in parallel, even if you have\
+    \ not yet done so at large scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;hands-on\
+    \ experience with backend programming languages such as golang, with the ability\
+    \ to read, understand, and modify infrastructure tools.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;hands-on\
+    \ experience running kubernetes-based workloads in production, including basic\
+    \ understanding of deployments, rollouts, and debugging common issues like crash\
+    \ loops, failed health checks, and scheduling problems.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;familiarity\
+    \ with infrastructure automation and configuration management tools such as terraform\
+    \ and ansible, including experience working with modules, variables, and managing\
+    \ state safely for multiple environments.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;solid\
+    \ understanding of git-based workflows and infrastructure-as-code practices, with\
+    \ the ability to contribute to reusable modules, templates, and pipelines that\
+    \ make automation safer and more consistent.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;experience\
+    \ working in distributed systems or cloud-based production environments, ideally\
+    \ in saas or managed service settings, with comfort participating in incident\
+    \ response and on-call rotations under guidance from more senior team members.&lt;/li&gt;\
+    \ &lt;li value=&quot;6&quot;&gt;a proactive mindset focused on automation and\
+    \ documentation\u2014you look for opportunities to remove manual steps, improve\
+    \ runbooks, and turn repetitive tasks into reliable, self-service tools.&lt;/li&gt;\
+    \ &lt;li value=&quot;7&quot;&gt;comfort working asynchronously across distributed\
+    \ teams and a desire to contribute to gitlab&#39;s values of collaboration, transparency,\
+    \ and iteration.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;about the team&lt;/h2&gt; &lt;p&gt;we\
+    \ are responsible for building, running, and evolving the entire lifecycle of\
+    \ the gitlab environments that power the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/&quot;&gt;gitlab\
+    \ dedicated&lt;/a&gt; platform. you&#39;ll be part of our team focused on owning\
+    \ the reliability, scalability, performance, and security of automated single-tenant\
+    \ gitlab instances and their supporting services. gitlab dedicated provides fully\
+    \ managed, isolated environments for customers around the world, which means your\
+    \ work directly impacts how organizations of all sizes run their mission-critical\
+    \ software delivery on gitlab. we operate in a fully distributed, asynchronous\
+    \ environment across multiple regions, collaborating on everything from infrastructure\
+    \ automation and environment lifecycle design to incident response and capacity\
+    \ planning. you&#39;ll be solving novel challenges at scale, from orchestrating\
+    \ infrastructure-as-code workflows across hundreds of tenants to designing the\
+    \ automation that keeps those environments consistent, secure, and up to date.\
+    \ we continuously seek to reduce complexity and improve efficiency by leveraging\
+    \ cloud vendor managed products and services where appropriate, ensuring gitlab\
+    \ dedicated remains a best-in-class managed platform for our customers. for more\
+    \ on how we operate, see the relevant gitlab dedicated and infrastructure handbook\
+    \ pages.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;how\
+    \ gitlab will support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;benefits\
+    \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;flexible\
+    \ paid time off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=definition%20of%20the%20tmrg%20%2d%20team%20member%20resource%20groups,-tmrgs%20are%20voluntary&amp;amp;text=the%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;team\
+    \ member resource groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;equity\
+    \ compensation &amp;amp; employee stock purchase plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;growth\
+    \ and development fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;parental\
+    \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;home\
+    \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;please note that we\
+    \ welcome interest from candidates with varying levels of experience; many successful\
+    \ candidates do not meet every single requirement. additionally, studies have\
+    \ shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+    \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+    \ qualification. if you&#39;re excited about this role, please apply and allow\
+    \ our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;country\
+    \ hiring guidelines: &lt;/strong&gt;gitlab hires new team members in countries\
+    \ around the world. all of our roles are remote, however some roles may carry\
+    \ specific location-based eligibility requirements. our talent acquisition team\
+    \ can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;privacy policy: &lt;/strong&gt;please review our &lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;recruitment privacy policy.&lt;/a&gt; your privacy\
+    \ is important to us.&lt;/p&gt; &lt;p&gt;gitlab is proud to be an equal opportunity\
+    \ workplace and is an affirmative action employer. gitlab\u2019s policies and\
+    \ practices relating to recruitment, employment, career development and advancement,\
+    \ promotion, and retirement are based solely on merit, regardless of race, color,\
+    \ religion, ancestry, sex (including pregnancy, lactation, sexual orientation,\
+    \ gender identity, or gender expression), national origin, age, citizenship, marital\
+    \ status, mental or physical disability, genetic information (including family\
+    \ medical history), discharge status from the military, protected veteran status\
+    \ (which includes disabled veterans, recently separated veterans, active duty\
+    \ wartime or campaign badge veterans, and armed forces service medal veterans),\
+    \ or any other basis protected by law. gitlab will not tolerate discrimination\
+    \ or harassment based on any of these characteristics. see also&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+    \ target=&quot;_blank&quot;&gt;gitlab\u2019s eeo policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+    \ target=&quot;_blank&quot;&gt;eeo is the law&lt;/a&gt;. if you have a disability\
+    \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+    \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+    \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+    \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T20:59:59+00:00'

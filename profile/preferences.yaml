@@ -1,0 +1,28 @@
+version: 1
+preferred_role_families:
+  - software_engineer
+  - backend_engineer
+  - platform_devops_engineer
+preferred_company_stages:
+  - seed
+  - series_a
+  - scale_up
+preferred_work_modes:
+  - remote
+strategic_biases:
+  favor:
+    - backend_services
+    - ci_cd
+    - release_engineering
+    - developer_productivity
+    - developer_tools
+    - cloud_platform
+    - product_engineering
+    - startups
+    - scale_ups
+  avoid:
+    - kubernetes_heavy_roles
+default_variant_priority:
+  - software_engineer
+  - platform_devops_engineer
+  - founding_engineer

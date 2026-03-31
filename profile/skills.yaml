@@ -1,0 +1,46 @@
+version: 1
+languages:
+  - Python
+  - Go
+  - TypeScript
+  - Rust
+  - C++
+  - Java
+  - Bash
+  - SQL
+frameworks:
+  - React
+  - Node.js
+  - FastAPI
+  - Django
+  - Flask
+cloud_platform:
+  - AWS
+  - GCP
+  - Azure
+  - Firebase
+  - GitHub Actions
+  - GitLab CI
+  - Docker
+  - Kubernetes
+ai_tooling:
+  - OpenAI
+  - Claude
+  - RAG
+  - Pinecone
+  - Google APIs
+  - Slack APIs
+  - Linear
+  - Figma
+practices:
+  - Backend Services
+  - Full-stack
+  - Product Delivery
+  - APIs
+  - CI/CD
+  - Release Engineering
+  - Test Automation
+  - Developer Tooling
+  - Reliability
+  - 0-to-1 Buildout
+  - Recruiting

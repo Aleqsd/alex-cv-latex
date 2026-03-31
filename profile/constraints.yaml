@@ -1,0 +1,10 @@
+version: 1
+location_constraints:
+  base_country: France
+  remote_only_default: true
+  require_explicit_remote: true
+  exclude_remote_us_only: true
+work_authorization_notes: ""
+language_constraints:
+  resume_language: English
+blocked_industries: []

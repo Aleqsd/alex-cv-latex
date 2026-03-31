@@ -1,0 +1,13 @@
+version: 1
+full_name: Alexandre DO-O ALMEIDA
+email: alexandre@zqsdev.com
+location: France
+remote_preference: remote
+links:
+  linkedin: https://www.linkedin.com/in/alexandre-dooalmeida/
+  github: https://github.com/aleqsd
+headline_defaults:
+  software_engineer: Senior Software Engineer
+  backend_engineer: Senior Backend Engineer
+  founding_engineer: Founding Engineer
+  platform_devops_engineer: Senior Platform / DevOps Engineer

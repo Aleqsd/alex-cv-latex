@@ -1,0 +1,491 @@
+id: gitlab-senior-backend-engineer-analytics-instrumentation-golang-8451512002
+company_name: GitLab
+job_title: Senior Backend Engineer, Analytics Instrumentation (Golang)
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: gitlab_greenhouse
+external_job_id: '8451512002'
+source_url: https://job-boards.greenhouse.io/gitlab/jobs/8451512002
+source_date: '2026-03-15T20:42:03+00:00'
+posted_at: '2026-03-12T12:04:49-04:00'
+last_seen_at: '2026-03-15T20:42:03+00:00'
+location: Remote, Americas; Remote, APAC
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/gitlab/jobs/8451512002
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is\
+  \ the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;An\
+  \ overview of this role&lt;/p&gt; &lt;p&gt;As a Senior Backend Engineer, you&#39;ll\
+  \ lead the design and development of a unified, Go-based instrumentation service\
+  \ that consolidates analytics instrumentation across GitLab&#39;s engineering organization.\
+  \ You&#39;ll architect and own critical backend systems that help the company understand\
+  \ customer usage patterns across GitLab SaaS and Self-Managed deployment environments.\
+  \ That data directly informs strategic product decisions. This role offers the opportunity\
+  \ to build foundational infrastructure that simplifies instrumentation for every\
+  \ team at GitLab, replacing the complexity of multiple language-specific SDKs with\
+  \ a single, unified solution that all teams can rely on.&lt;/p&gt; &lt;h2&gt;What\
+  \ you&#39;ll do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Design, build,\
+  \ and maintain a unified Go-based instrumentation service that consolidates instrumentation\
+  \ across the entire company, eliminating the need for multiple language-specific\
+  \ SDKs while maintaining reliability and performance.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Own\
+  \ the responsibility for handling the sending, transit, and quality of instrumentation\
+  \ data across the system, ensuring data integrity that directly impacts the company&#39;s\
+  \ strategic decision-making and usage billing accuracy.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Train\
+  \ and support product development teams across the company on how to instrument\
+  \ their features using the unified service, providing documentation, guidance, and\
+  \ technical support.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Manage on-call responsibilities\
+  \ during working hours for systems responsible for usage billing and instrumentation,\
+  \ ensuring system reliability and quick response to critical issues.&lt;/li&gt;\
+  \ &lt;li value=&quot;5&quot;&gt;Lead collaboration across research and development\
+  \ teams and the enterprise data organization to understand requirements and deliver\
+  \ solutions that serve multiple stakeholders.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Make\
+  \ strategic architectural decisions that balance the needs of product teams (who\
+  \ need ease of use) with data consumers (who need reliability and correctness),\
+  \ ensuring the system serves as a foundational service for the company.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Proficiency\
+  \ in the Go programming language, with experience building and maintaining production\
+  \ services.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Strong backend development\
+  \ experience, with the ability to design scalable, reliable systems serving internal\
+  \ and external customers.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Experience with\
+  \ infrastructure concerns such as system reliability, performance at scale, data\
+  \ quality, and observability.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Experience\
+  \ designing and building APIs (REST, gRPC, or similar) that other teams integrate\
+  \ with.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Experience working in collaborative,\
+  \ cross-functional teams with product teams, data consumers, and other internal\
+  \ stakeholders across team boundaries.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Experience\
+  \ with instrumentation, analytics, data systems, or similar foundational infrastructure\
+  \ is helpful, along with Ruby on Rails experience.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;About\
+  \ the team&lt;/h2&gt; &lt;p&gt;&lt;br&gt;Our team is part of the Data Engineering\
+  \ organization and operates as a foundational service supporting all research and\
+  \ development teams at GitLab. We&#39;re responsible for consolidating and managing\
+  \ the systems that handle instrumentation data sending, transit, and quality across\
+  \ the entire company. Our work directly enables company strategy and decision-making\
+  \ by providing visibility into customer usage patterns across different product\
+  \ offerings and customer types (GitLab SaaS and Self-Managed deployment environments).\
+  \ This work supports usage billing and product decisions. We&#39;re building a unified,\
+  \ Go-based instrumentation service that replaces multiple language-specific SDKs,\
+  \ making it easier for teams to instrument their features while we ensure data integrity\
+  \ for billing and analysis. As a distributed team working asynchronously across\
+  \ multiple time zones, we collaborate closely with product and engineering teams\
+  \ across the company and provide training and support to help them instrument their\
+  \ features effectively.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div\
+  \ class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;The\
+  \ base salary range for this role\u2019s listed level is currently for residents\
+  \ of the&amp;nbsp;United States only. This range is intended to reflect the role&#39;s\
+  \ base salary rate in locations throughout the US.&amp;nbsp;Grade level and salary\
+  \ ranges are determined through interviews and a review of education, experience,\
+  \ knowledge, skills, abilities of the applicant, equity with other team members,\
+  \ alignment with market data,&amp;nbsp;and geographic location.&amp;nbsp;The base\
+  \ salary range does not include any bonuses, equity, or benefits. See more information\
+  \ on our &lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLBeneUS&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+  \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+  \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+  \ Sales roles are also eligible for incentive pay targeted at up to 100% of the\
+  \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United\
+  \ States Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$117,600&lt;/span&gt;&lt;span\
+  \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$252,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab\
+  \ is the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;An\
+  \ overview of this role&lt;/p&gt; &lt;p&gt;As a Senior Backend Engineer, you&#39;ll\
+  \ lead the design and development of a unified, Go-based instrumentation service\
+  \ that consolidates analytics instrumentation across GitLab&#39;s engineering organization.\
+  \ You&#39;ll architect and own critical backend systems that help the company understand\
+  \ customer usage patterns across GitLab SaaS and Self-Managed deployment environments.\
+  \ That data directly informs strategic product decisions. This role offers the opportunity\
+  \ to build foundational infrastructure that simplifies instrumentation for every\
+  \ team at GitLab, replacing the complexity of multiple language-specific SDKs with\
+  \ a single, unified solution that all teams can rely on.&lt;/p&gt; &lt;h2&gt;What\
+  \ you&#39;ll do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Design, build,\
+  \ and maintain a unified Go-based instrumentation service that consolidates instrumentation\
+  \ across the entire company, eliminating the need for multiple language-specific\
+  \ SDKs while maintaining reliability and performance.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Own\
+  \ the responsibility for handling the sending, transit, and quality of instrumentation\
+  \ data across the system, ensuring data integrity that directly impacts the company&#39;s\
+  \ strategic decision-making and usage billing accuracy.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Train\
+  \ and support product development teams across the company on how to instrument\
+  \ their features using the unified service, providing documentation, guidance, and\
+  \ technical support.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Manage on-call responsibilities\
+  \ during working hours for systems responsible for usage billing and instrumentation,\
+  \ ensuring system reliability and quick response to critical issues.&lt;/li&gt;\
+  \ &lt;li value=&quot;5&quot;&gt;Lead collaboration across research and development\
+  \ teams and the enterprise data organization to understand requirements and deliver\
+  \ solutions that serve multiple stakeholders.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Make\
+  \ strategic architectural decisions that balance the needs of product teams (who\
+  \ need ease of use) with data consumers (who need reliability and correctness),\
+  \ ensuring the system serves as a foundational service for the company.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Proficiency\
+  \ in the Go programming language, with experience building and maintaining production\
+  \ services.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Strong backend development\
+  \ experience, with the ability to design scalable, reliable systems serving internal\
+  \ and external customers.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Experience with\
+  \ infrastructure concerns such as system reliability, performance at scale, data\
+  \ quality, and observability.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Experience\
+  \ designing and building APIs (REST, gRPC, or similar) that other teams integrate\
+  \ with.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Experience working in collaborative,\
+  \ cross-functional teams with product teams, data consumers, and other internal\
+  \ stakeholders across team boundaries.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Experience\
+  \ with instrumentation, analytics, data systems, or similar foundational infrastructure\
+  \ is helpful, along with Ruby on Rails experience.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;About\
+  \ the team&lt;/h2&gt; &lt;p&gt;&lt;br&gt;Our team is part of the Data Engineering\
+  \ organization and operates as a foundational service supporting all research and\
+  \ development teams at GitLab. We&#39;re responsible for consolidating and managing\
+  \ the systems that handle instrumentation data sending, transit, and quality across\
+  \ the entire company. Our work directly enables company strategy and decision-making\
+  \ by providing visibility into customer usage patterns across different product\
+  \ offerings and customer types (GitLab SaaS and Self-Managed deployment environments).\
+  \ This work supports usage billing and product decisions. We&#39;re building a unified,\
+  \ Go-based instrumentation service that replaces multiple language-specific SDKs,\
+  \ making it easier for teams to instrument their features while we ensure data integrity\
+  \ for billing and analysis. As a distributed team working asynchronously across\
+  \ multiple time zones, we collaborate closely with product and engineering teams\
+  \ across the company and provide training and support to help them instrument their\
+  \ features effectively.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div\
+  \ class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;The\
+  \ base salary range for this role\u2019s listed level is currently for residents\
+  \ of the&amp;nbsp;United States only. This range is intended to reflect the role&#39;s\
+  \ base salary rate in locations throughout the US.&amp;nbsp;Grade level and salary\
+  \ ranges are determined through interviews and a review of education, experience,\
+  \ knowledge, skills, abilities of the applicant, equity with other team members,\
+  \ alignment with market data,&amp;nbsp;and geographic location.&amp;nbsp;The base\
+  \ salary range does not include any bonuses, equity, or benefits. See more information\
+  \ on our &lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLBeneUS&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+  \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+  \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+  \ Sales roles are also eligible for incentive pay targeted at up to 100% of the\
+  \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United\
+  \ States Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$117,600&lt;/span&gt;&lt;span\
+  \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$252,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+keywords_required:
+- apis
+- go
+- recruiting
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 35
+fit_score_human: 100
+fit_score_strategic: 20
+fit_score_final: 35
+fit_recommendation: skip
+fit_summary: GitLab scores 35 with recommendation skip for role family Backend Engineer.
+risks:
+- Remote scope appears incompatible with the current search geography.
+strengths:
+- Direct keyword overlap with apis, go, recruiting, reliability, rust.
+- 'Role family aligns with preferred target: Backend Engineer.'
+status: archived
+status_history:
+- timestamp: '2026-03-15T20:42:03+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source gitlab_greenhouse.
+- timestamp: '2026-03-15T20:45:53+00:00'
+  from: discovered
+  to: archived
+  note: 'Blocked by location constraint: remote work is restricted outside the current
+    search geography.'
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 0
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 5
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - Americas
+  - APAC
+  label: Remote (Americas, APAC)
+  eligible: false
+  explicit: true
+  reason: Remote scope appears incompatible with the current search geography.
+  raw: "remote remote, americas; remote, apac senior backend engineer, analytics instrumentation\
+    \ (golang) &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;gitlab is the intelligent\
+    \ orchestration platform for devsecops. gitlab enables organizations to increase\
+    \ developer productivity, improve operational efficiency, reduce security and\
+    \ compliance risk, and accelerate digital transformation. more than 50 million\
+    \ registered users and more than 50% of the fortune 100* trust gitlab to ship\
+    \ better, more secure software faster.&lt;/p&gt; &lt;p&gt;the same principles\
+    \ built into our products are reflected in how our team works: we embrace ai as\
+    \ a core productivity multiplier, with all team members expected to incorporate\
+    \ ai into their daily workflows to drive efficiency, innovation, and impact. gitlab\
+    \ is where careers accelerate, innovation flourishes, and every voice is valued.\
+    \ our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+    \ and continuous knowledge exchange, enabling our team members to reach their\
+    \ full potential while collaborating with industry leaders to solve complex problems.\
+    \ &lt;a href=&quot;https://www.youtube.com/watch?v=ouzib5zszqi&quot;&gt;co-create\
+    \ the future with us&lt;/a&gt; as we build technology that transforms how the\
+    \ world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;fortune 500\xAE is a\
+    \ registered trademark of fortune media ip limited, used under license. claim\
+    \ based on gitlab data. fortune 100 refers to the top 20% ranked companies in\
+    \ the 2025 fortune 500 list, published in june 2025. fortune and fortune media\
+    \ ip limited are not affiliated with, and do not endorse products or services\
+    \ of gitlab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;an overview of this role&lt;/p&gt;\
+    \ &lt;p&gt;as a senior backend engineer, you&#39;ll lead the design and development\
+    \ of a unified, go-based instrumentation service that consolidates analytics instrumentation\
+    \ across gitlab&#39;s engineering organization. you&#39;ll architect and own critical\
+    \ backend systems that help the company understand customer usage patterns across\
+    \ gitlab saas and self-managed deployment environments. that data directly informs\
+    \ strategic product decisions. this role offers the opportunity to build foundational\
+    \ infrastructure that simplifies instrumentation for every team at gitlab, replacing\
+    \ the complexity of multiple language-specific sdks with a single, unified solution\
+    \ that all teams can rely on.&lt;/p&gt; &lt;h2&gt;what you&#39;ll do&lt;/h2&gt;\
+    \ &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;design, build, and maintain a unified\
+    \ go-based instrumentation service that consolidates instrumentation across the\
+    \ entire company, eliminating the need for multiple language-specific sdks while\
+    \ maintaining reliability and performance.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;own\
+    \ the responsibility for handling the sending, transit, and quality of instrumentation\
+    \ data across the system, ensuring data integrity that directly impacts the company&#39;s\
+    \ strategic decision-making and usage billing accuracy.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;train\
+    \ and support product development teams across the company on how to instrument\
+    \ their features using the unified service, providing documentation, guidance,\
+    \ and technical support.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;manage on-call\
+    \ responsibilities during working hours for systems responsible for usage billing\
+    \ and instrumentation, ensuring system reliability and quick response to critical\
+    \ issues.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;lead collaboration across research\
+    \ and development teams and the enterprise data organization to understand requirements\
+    \ and deliver solutions that serve multiple stakeholders.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;make\
+    \ strategic architectural decisions that balance the needs of product teams (who\
+    \ need ease of use) with data consumers (who need reliability and correctness),\
+    \ ensuring the system serves as a foundational service for the company.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;h2&gt;what you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;proficiency\
+    \ in the go programming language, with experience building and maintaining production\
+    \ services.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;strong backend development\
+    \ experience, with the ability to design scalable, reliable systems serving internal\
+    \ and external customers.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;experience\
+    \ with infrastructure concerns such as system reliability, performance at scale,\
+    \ data quality, and observability.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;experience\
+    \ designing and building apis (rest, grpc, or similar) that other teams integrate\
+    \ with.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;experience working in collaborative,\
+    \ cross-functional teams with product teams, data consumers, and other internal\
+    \ stakeholders across team boundaries.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;experience\
+    \ with instrumentation, analytics, data systems, or similar foundational infrastructure\
+    \ is helpful, along with ruby on rails experience.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;about\
+    \ the team&lt;/h2&gt; &lt;p&gt;&lt;br&gt;our team is part of the data engineering\
+    \ organization and operates as a foundational service supporting all research\
+    \ and development teams at gitlab. we&#39;re responsible for consolidating and\
+    \ managing the systems that handle instrumentation data sending, transit, and\
+    \ quality across the entire company. our work directly enables company strategy\
+    \ and decision-making by providing visibility into customer usage patterns across\
+    \ different product offerings and customer types (gitlab saas and self-managed\
+    \ deployment environments). this work supports usage billing and product decisions.\
+    \ we&#39;re building a unified, go-based instrumentation service that replaces\
+    \ multiple language-specific sdks, making it easier for teams to instrument their\
+    \ features while we ensure data integrity for billing and analysis. as a distributed\
+    \ team working asynchronously across multiple time zones, we collaborate closely\
+    \ with product and engineering teams across the company and provide training and\
+    \ support to help them instrument their features effectively.&lt;/p&gt;&lt;div\
+    \ class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div\
+    \ class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;the base salary range for\
+    \ this role\u2019s listed level is currently for residents of the&amp;nbsp;united\
+    \ states only. this range is intended to reflect the role&#39;s base salary rate\
+    \ in locations throughout the us.&amp;nbsp;grade level and salary ranges are determined\
+    \ through interviews and a review of education, experience, knowledge, skills,\
+    \ abilities of the applicant, equity with other team members, alignment with market\
+    \ data,&amp;nbsp;and geographic location.&amp;nbsp;the base salary range does\
+    \ not include any bonuses, equity, or benefits. see more information on our &lt;a\
+    \ class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+    \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/glbeneus&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+    \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+    \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+    \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/glequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+    \ sales roles are also eligible for incentive pay targeted at up to 100% of the\
+    \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;united\
+    \ states salary range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$117,600&lt;/span&gt;&lt;span\
+    \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$252,000 usd&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;how gitlab will\
+    \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;benefits\
+    \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;flexible\
+    \ paid time off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=definition%20of%20the%20tmrg%20%2d%20team%20member%20resource%20groups,-tmrgs%20are%20voluntary&amp;amp;text=the%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;team\
+    \ member resource groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;equity\
+    \ compensation &amp;amp; employee stock purchase plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;growth\
+    \ and development fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;parental\
+    \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;home\
+    \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;please note that we\
+    \ welcome interest from candidates with varying levels of experience; many successful\
+    \ candidates do not meet every single requirement. additionally, studies have\
+    \ shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+    \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+    \ qualification. if you&#39;re excited about this role, please apply and allow\
+    \ our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;country\
+    \ hiring guidelines: &lt;/strong&gt;gitlab hires new team members in countries\
+    \ around the world. all of our roles are remote, however some roles may carry\
+    \ specific location-based eligibility requirements. our talent acquisition team\
+    \ can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;privacy policy: &lt;/strong&gt;please review our &lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;recruitment privacy policy.&lt;/a&gt; your privacy\
+    \ is important to us.&lt;/p&gt; &lt;p&gt;gitlab is proud to be an equal opportunity\
+    \ workplace and is an affirmative action employer. gitlab\u2019s policies and\
+    \ practices relating to recruitment, employment, career development and advancement,\
+    \ promotion, and retirement are based solely on merit, regardless of race, color,\
+    \ religion, ancestry, sex (including pregnancy, lactation, sexual orientation,\
+    \ gender identity, or gender expression), national origin, age, citizenship, marital\
+    \ status, mental or physical disability, genetic information (including family\
+    \ medical history), discharge status from the military, protected veteran status\
+    \ (which includes disabled veterans, recently separated veterans, active duty\
+    \ wartime or campaign badge veterans, and armed forces service medal veterans),\
+    \ or any other basis protected by law. gitlab will not tolerate discrimination\
+    \ or harassment based on any of these characteristics. see also&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+    \ target=&quot;_blank&quot;&gt;gitlab\u2019s eeo policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+    \ target=&quot;_blank&quot;&gt;eeo is the law&lt;/a&gt;. if you have a disability\
+    \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+    \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+    \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+    \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T20:56:25+00:00'

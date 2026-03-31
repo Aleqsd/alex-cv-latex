@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offers - Job Search Dashboard</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/dashboard/styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="shell">
+      <nav class="topnav">
+        <a class="brand" href="/dashboard/">Job Search OS</a>
+        <div class="navlinks">
+          <a href="/dashboard/">Overview</a>
+          <a class="active" href="/dashboard/offers.html">Offers</a>
+          <a href="/dashboard/pipeline.html">Pipeline</a>
+          <a href="/dashboard/profile.html">Profile</a>
+        </div>
+      </nav>
+
+      <section class="page-hero">
+        <p class="eyebrow">Offer Registry</p>
+        <h1>All tracked offers, sorted by fit and urgency.</h1>
+        <p class="lede">Use this page to scan the active search surface before deciding what deserves tailoring time.</p>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading tight">
+          <div>
+            <p class="eyebrow">Offers</p>
+            <h2>Repository offers</h2>
+          </div>
+          <p class="section-note" id="offers-summary">Loading offers...</p>
+        </div>
+        <div class="filter-bar">
+          <label class="filter-control">
+            <span>Search</span>
+            <input id="offers-search" type="search" placeholder="Company, role, keyword..." />
+          </label>
+          <label class="filter-control">
+            <span>Status</span>
+            <select id="offers-status"></select>
+          </label>
+          <label class="filter-control">
+            <span>Preset</span>
+            <select id="offers-preset">
+              <option value="">All active</option>
+              <option value="best_fit">Best fit</option>
+              <option value="ready_now">Ready now</option>
+              <option value="needs_review">Needs review</option>
+            </select>
+          </label>
+          <label class="filter-control">
+            <span>Role Family</span>
+            <select id="offers-role-family"></select>
+          </label>
+          <label class="filter-control toggle-control">
+            <span>View</span>
+            <label class="check-row"><input id="offers-duplicates" type="checkbox" /> Show duplicates</label>
+          </label>
+        </div>
+        <div class="empty-state action-output hidden" id="offers-action-output"></div>
+        <div class="offer-table" id="offer-table"></div>
+      </section>
+    </main>
+
+    <script src="/dashboard/offers.js" type="module"></script>
+  </body>
+</html>

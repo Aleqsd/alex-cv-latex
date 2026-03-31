@@ -1,0 +1,556 @@
+id: grafana-labs-staff-backend-engineer-adaptive-telemetry-uk-remote-5801257004
+company_name: Grafana Labs
+job_title: Staff Backend Engineer - Adaptive Telemetry | UK | Remote
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: grafana_greenhouse
+external_job_id: '5801257004'
+source_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5801257004
+source_date: '2026-03-15T20:59:45+00:00'
+posted_at: '2026-03-04T11:19:59-05:00'
+last_seen_at: '2026-03-15T20:59:45+00:00'
+location: United Kingdom (Remote)
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5801257004
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&amp;nbsp;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Staff\
+  \ Backend Engineer - Adaptive Telemetry&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This\
+  \ role is available for candidates located in the UK, Germany, Spain, Ireland and\
+  \ Sweden.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Opportunity:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What is Grafana Cloud?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Grafana\
+  \ Cloud is our composable observability platform that integrates metrics, logs,\
+  \ traces, and profiles with Grafana. It allows our customers to leverage the best\
+  \ open source observability software \u2013 including Prometheus, Mimir, Loki, Tempo,\
+  \ and Pyroscope \u2013 without the overhead of installing, maintaining and scaling\
+  \ their own observability stack.&lt;/p&gt; &lt;p&gt;The Databases department owns\
+  \ and operates the telemetry databases that are&lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;\
+  \ Mimir for metrics&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/loki&quot;&gt;\
+  \ Loki for logs&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/tempo&quot;&gt;\
+  \ Tempo for traces&lt;/a&gt;, and&lt;a href=&quot;https://github.com/grafana/pyroscope&quot;&gt;\
+  \ Pyroscope for profiles&lt;/a&gt;. We offer our databases as a Cloud service supporting\
+  \ Grafana Cloud.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Adaptive Telemetry Group&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;The Adaptive Telemetry group, part of the Databases department, has the\
+  \ mission of ensuring that all telemetry stored in our databases is worthy of attention.\
+  \ Under that mission, the group is responsible for the development of &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/metrics-costs/control-metrics-usage-via-adaptive-metrics/&quot;&gt;Adaptive\
+  \ Metrics&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/logs-costs/adaptive-logs/&quot;&gt;Adaptive\
+  \ Logs&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/adaptive-telemetry/adaptive-traces/&quot;&gt;Adaptive\
+  \ Traces&lt;/a&gt; and Adaptive Profiles.&lt;/p&gt; &lt;p&gt;Our Adaptive Telemetry\
+  \ solutions give users the ability to control and optimize their telemetry data.\
+  \ These solutions ensure that data storage is optimized based on individual usage\
+  \ patterns, so only the most valuable data is retained.&lt;/p&gt; &lt;p&gt;As a\
+  \ company we are remote-first and global, we embrace people of different experiences\
+  \ and backgrounds to build diverse teams where every person brings a new perspective\
+  \ to the software.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What will you be doing:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Drive technical strategy and roadmap.&lt;/strong&gt;\
+  \ Proactively define the architectural vision, prioritize work that unlocks major\
+  \ product or platform improvements, and influence product and engineering decisions.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Lead end-to-end delivery of large, cross-functional projects.&lt;/strong&gt;\
+  \ Own planning, design, execution, rollout and long-term operation of large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Own architecture, reliability, performance and cost for\
+  \ critical systems.&lt;/strong&gt; Make pragmatic architecture choices that balance\
+  \ scalability, availability, latency and cost while ensuring systems remain maintainable\
+  \ and evolvable.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Define SLOs/SLIs\
+  \ and lead incident response.&lt;/strong&gt; Establish measurable reliability targets,\
+  \ run high-severity incident response, lead blameless post-mortems, and drive systemic\
+  \ fixes and automation to prevent recurrence.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Improve\
+  \ observability, automation and operational readiness.&lt;/strong&gt; Champion telemetry,\
+  \ alerting, runbooks, capacity planning and automation efforts that reduce toil,\
+  \ speed debugging and lower MTTR.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Align\
+  \ stakeholders and remove blockers.&lt;/strong&gt; Coordinate across Product, Design\
+  \ and other teams to align priorities, negotiate tradeoffs, and unblock delivery\
+  \ for large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mentor\
+  \ and grow engineering talent.&lt;/strong&gt; Coach senior and mid-level engineers,\
+  \ lead design reviews, raise engineering standards, and help teammates make sound\
+  \ technical tradeoffs.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Represent\
+  \ engineering internally and externally.&lt;/strong&gt; Communicate technical strategy\
+  \ clearly to non-engineering stakeholders and represent the team in cross-team planning.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;We invest heavily in developer productivity. You can use\
+  \ modern AI coding assistants as part of your daily workflow (your choice of tools,\
+  \ within security guidelines), backed by a company-funded usage budget so you can\
+  \ iterate quickly without unnecessary friction.&lt;/p&gt; &lt;p&gt;We encourage\
+  \ pragmatic AI-assisted development: faster prototyping, test generation, refactors,\
+  \ documentation, and incident follow-ups\u2014always paired with strong code review\
+  \ and quality standards.&lt;/p&gt; &lt;p&gt;You\u2019ll also have access to frontier\
+  \ models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ makes you a great fit:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You are\
+  \ a motivated self starter with a bias towards action. You are customer focused.\
+  \ We build everything with our users in mind. You have a passion for creating intuitive\
+  \ products that fit customers\u2019 needs&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Proven delivery of large distributed systems.&lt;/strong&gt;\
+  \ Experience shipping and operating complex systems that span multiple teams, with\
+  \ clear evidence of technical leadership and impact.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Strong systems-design instincts.&lt;/strong&gt; Deep understanding\
+  \ of tradeoffs around latency, consistency, availability, scaling and cost.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Hands-on cloud and platform experience.&lt;/strong&gt;\
+  \ Solid experience with cloud-native architectures (microservices, containers/Kubernetes,\
+  \ IaC) and the operational practices that keep them healthy.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Reliability and performance ownership.&lt;/strong&gt;\
+  \ Comfortable defining SLOs/SLIs, doing capacity planning, tuning performance, and\
+  \ driving reliability work end-to-end.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Excellent\
+  \ coding and design skills.&lt;/strong&gt; You write clear, maintainable, well-tested\
+  \ code and can lead technical designs \u2014 we use Go, but Python/C/C++/Rust or\
+  \ similar translate well.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Comfort\
+  \ with AI-assisted development. &lt;/strong&gt;We embrace AI and agentic development\
+  \ so we expect you to be curious and comfortable using AI-powered developer tools\
+  \ and ideally have practical experience folding them into a team\u2019s workflow.\
+  \ &lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience with messaging\
+  \ and telemetry.&lt;/strong&gt; Familiarity with streaming/messaging systems (e.g.,\
+  \ Kafka) and observability tooling (Prometheus/Grafana or equivalents).&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Influence without authority.&lt;/strong&gt; Ability to\
+  \ align cross-functional stakeholders, set priorities and drive outcomes in a remote-first\
+  \ environment.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Strong communicator.&lt;/strong&gt;\
+  \ Clear written and verbal communication that works across engineers and non-technical\
+  \ stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compensation\
+  \ &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In the UK, the Base compensation\
+  \ range for this role is &lt;span data-sheets-root=&quot;1&quot;&gt;\xA3100,000\
+  \ - \xA3124,000.&lt;/span&gt;&amp;nbsp;Actual compensation may vary based on level,\
+  \ experience, and skillset as assessed in the interview process. Benefits include\
+  \ equity, bonus (if applicable) and other benefits listed &lt;a class=&quot;c-link&quot;\
+  \ href=&quot;https://grafana.com/about/careers/#jobs&quot; target=&quot;_blank&quot;\
+  \ data-stringify-link=&quot;https://grafana.com/about/careers/#jobs&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&amp;nbsp;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Staff\
+  \ Backend Engineer - Adaptive Telemetry&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This\
+  \ role is available for candidates located in the UK, Germany, Spain, Ireland and\
+  \ Sweden.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Opportunity:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What is Grafana Cloud?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Grafana\
+  \ Cloud is our composable observability platform that integrates metrics, logs,\
+  \ traces, and profiles with Grafana. It allows our customers to leverage the best\
+  \ open source observability software \u2013 including Prometheus, Mimir, Loki, Tempo,\
+  \ and Pyroscope \u2013 without the overhead of installing, maintaining and scaling\
+  \ their own observability stack.&lt;/p&gt; &lt;p&gt;The Databases department owns\
+  \ and operates the telemetry databases that are&lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;\
+  \ Mimir for metrics&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/loki&quot;&gt;\
+  \ Loki for logs&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/tempo&quot;&gt;\
+  \ Tempo for traces&lt;/a&gt;, and&lt;a href=&quot;https://github.com/grafana/pyroscope&quot;&gt;\
+  \ Pyroscope for profiles&lt;/a&gt;. We offer our databases as a Cloud service supporting\
+  \ Grafana Cloud.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Adaptive Telemetry Group&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;The Adaptive Telemetry group, part of the Databases department, has the\
+  \ mission of ensuring that all telemetry stored in our databases is worthy of attention.\
+  \ Under that mission, the group is responsible for the development of &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/metrics-costs/control-metrics-usage-via-adaptive-metrics/&quot;&gt;Adaptive\
+  \ Metrics&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/logs-costs/adaptive-logs/&quot;&gt;Adaptive\
+  \ Logs&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/adaptive-telemetry/adaptive-traces/&quot;&gt;Adaptive\
+  \ Traces&lt;/a&gt; and Adaptive Profiles.&lt;/p&gt; &lt;p&gt;Our Adaptive Telemetry\
+  \ solutions give users the ability to control and optimize their telemetry data.\
+  \ These solutions ensure that data storage is optimized based on individual usage\
+  \ patterns, so only the most valuable data is retained.&lt;/p&gt; &lt;p&gt;As a\
+  \ company we are remote-first and global, we embrace people of different experiences\
+  \ and backgrounds to build diverse teams where every person brings a new perspective\
+  \ to the software.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What will you be doing:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Drive technical strategy and roadmap.&lt;/strong&gt;\
+  \ Proactively define the architectural vision, prioritize work that unlocks major\
+  \ product or platform improvements, and influence product and engineering decisions.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Lead end-to-end delivery of large, cross-functional projects.&lt;/strong&gt;\
+  \ Own planning, design, execution, rollout and long-term operation of large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Own architecture, reliability, performance and cost for\
+  \ critical systems.&lt;/strong&gt; Make pragmatic architecture choices that balance\
+  \ scalability, availability, latency and cost while ensuring systems remain maintainable\
+  \ and evolvable.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Define SLOs/SLIs\
+  \ and lead incident response.&lt;/strong&gt; Establish measurable reliability targets,\
+  \ run high-severity incident response, lead blameless post-mortems, and drive systemic\
+  \ fixes and automation to prevent recurrence.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Improve\
+  \ observability, automation and operational readiness.&lt;/strong&gt; Champion telemetry,\
+  \ alerting, runbooks, capacity planning and automation efforts that reduce toil,\
+  \ speed debugging and lower MTTR.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Align\
+  \ stakeholders and remove blockers.&lt;/strong&gt; Coordinate across Product, Design\
+  \ and other teams to align priorities, negotiate tradeoffs, and unblock delivery\
+  \ for large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mentor\
+  \ and grow engineering talent.&lt;/strong&gt; Coach senior and mid-level engineers,\
+  \ lead design reviews, raise engineering standards, and help teammates make sound\
+  \ technical tradeoffs.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Represent\
+  \ engineering internally and externally.&lt;/strong&gt; Communicate technical strategy\
+  \ clearly to non-engineering stakeholders and represent the team in cross-team planning.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;We invest heavily in developer productivity. You can use\
+  \ modern AI coding assistants as part of your daily workflow (your choice of tools,\
+  \ within security guidelines), backed by a company-funded usage budget so you can\
+  \ iterate quickly without unnecessary friction.&lt;/p&gt; &lt;p&gt;We encourage\
+  \ pragmatic AI-assisted development: faster prototyping, test generation, refactors,\
+  \ documentation, and incident follow-ups\u2014always paired with strong code review\
+  \ and quality standards.&lt;/p&gt; &lt;p&gt;You\u2019ll also have access to frontier\
+  \ models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ makes you a great fit:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You are\
+  \ a motivated self starter with a bias towards action. You are customer focused.\
+  \ We build everything with our users in mind. You have a passion for creating intuitive\
+  \ products that fit customers\u2019 needs&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Proven delivery of large distributed systems.&lt;/strong&gt;\
+  \ Experience shipping and operating complex systems that span multiple teams, with\
+  \ clear evidence of technical leadership and impact.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Strong systems-design instincts.&lt;/strong&gt; Deep understanding\
+  \ of tradeoffs around latency, consistency, availability, scaling and cost.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Hands-on cloud and platform experience.&lt;/strong&gt;\
+  \ Solid experience with cloud-native architectures (microservices, containers/Kubernetes,\
+  \ IaC) and the operational practices that keep them healthy.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Reliability and performance ownership.&lt;/strong&gt;\
+  \ Comfortable defining SLOs/SLIs, doing capacity planning, tuning performance, and\
+  \ driving reliability work end-to-end.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Excellent\
+  \ coding and design skills.&lt;/strong&gt; You write clear, maintainable, well-tested\
+  \ code and can lead technical designs \u2014 we use Go, but Python/C/C++/Rust or\
+  \ similar translate well.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Comfort\
+  \ with AI-assisted development. &lt;/strong&gt;We embrace AI and agentic development\
+  \ so we expect you to be curious and comfortable using AI-powered developer tools\
+  \ and ideally have practical experience folding them into a team\u2019s workflow.\
+  \ &lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience with messaging\
+  \ and telemetry.&lt;/strong&gt; Familiarity with streaming/messaging systems (e.g.,\
+  \ Kafka) and observability tooling (Prometheus/Grafana or equivalents).&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Influence without authority.&lt;/strong&gt; Ability to\
+  \ align cross-functional stakeholders, set priorities and drive outcomes in a remote-first\
+  \ environment.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Strong communicator.&lt;/strong&gt;\
+  \ Clear written and verbal communication that works across engineers and non-technical\
+  \ stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compensation\
+  \ &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In the UK, the Base compensation\
+  \ range for this role is &lt;span data-sheets-root=&quot;1&quot;&gt;\xA3100,000\
+  \ - \xA3124,000.&lt;/span&gt;&amp;nbsp;Actual compensation may vary based on level,\
+  \ experience, and skillset as assessed in the interview process. Benefits include\
+  \ equity, bonus (if applicable) and other benefits listed &lt;a class=&quot;c-link&quot;\
+  \ href=&quot;https://grafana.com/about/careers/#jobs&quot; target=&quot;_blank&quot;\
+  \ data-stringify-link=&quot;https://grafana.com/about/careers/#jobs&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+keywords_required:
+- c++
+- claude
+- go
+- kubernetes
+- python
+- rag
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: staff
+fit_score_ats: 98
+fit_score_human: 77
+fit_score_strategic: 88
+fit_score_final: 81
+fit_recommendation: maybe
+fit_summary: Grafana Labs scores 81 with recommendation maybe for role family Backend
+  Engineer.
+risks:
+- Offer may require broader staff-level organizational influence.
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with c++, claude, go, kubernetes, python.
+- 'Role family aligns with preferred target: Backend Engineer.'
+- 'Remote fit is acceptable under current constraints: Remote (United Kingdom).'
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:59:45+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source grafana_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 2
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 8
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 8
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - United Kingdom
+  label: Remote (United Kingdom)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote united kingdom (remote) staff backend engineer - adaptive telemetry\
+    \ | uk | remote &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;grafana labs\
+    \ is a remote-first, open-source powerhouse. there are more than 20m users of\
+    \ grafana, the open source visualization tool, around the globe, monitoring everything\
+    \ from beehives to climate change in the alps. the instantly recognizable dashboards\
+    \ have been spotted everywhere from a nasa launch and minecraft hq to wimbledon\
+    \ and the tour de france. grafana labs also helps more than 3,000 companies --\
+    \ including bloomberg, jpmorgan chase, and ebay -- manage their observability\
+    \ strategies with the grafana lgtm stack, which can be run fully managed with\
+    \ &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;grafana cloud&lt;/a&gt;\
+    \ or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;grafana\
+    \ enterprise stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;grafana\
+    \ mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;grafana\
+    \ loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;grafana\
+    \ tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying true\
+    \ to what makes us different: an open-source legacy, a global collaborative culture,\
+    \ and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\
+    \ &lt;p&gt;&lt;strong&gt;staff backend engineer - adaptive telemetry&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;this role is available for candidates located in the\
+    \ uk, germany, spain, ireland and sweden.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;the\
+    \ opportunity:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what is grafana\
+    \ cloud?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;grafana cloud is our composable observability\
+    \ platform that integrates metrics, logs, traces, and profiles with grafana. it\
+    \ allows our customers to leverage the best open source observability software\
+    \ \u2013 including prometheus, mimir, loki, tempo, and pyroscope \u2013 without\
+    \ the overhead of installing, maintaining and scaling their own observability\
+    \ stack.&lt;/p&gt; &lt;p&gt;the databases department owns and operates the telemetry\
+    \ databases that are&lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;\
+    \ mimir for metrics&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/loki&quot;&gt;\
+    \ loki for logs&lt;/a&gt;,&lt;a href=&quot;https://github.com/grafana/tempo&quot;&gt;\
+    \ tempo for traces&lt;/a&gt;, and&lt;a href=&quot;https://github.com/grafana/pyroscope&quot;&gt;\
+    \ pyroscope for profiles&lt;/a&gt;. we offer our databases as a cloud service\
+    \ supporting grafana cloud.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;adaptive telemetry\
+    \ group&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;the adaptive telemetry group, part of\
+    \ the databases department, has the mission of ensuring that all telemetry stored\
+    \ in our databases is worthy of attention. under that mission, the group is responsible\
+    \ for the development of &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/metrics-costs/control-metrics-usage-via-adaptive-metrics/&quot;&gt;adaptive\
+    \ metrics&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/cost-management-and-billing/reduce-costs/logs-costs/adaptive-logs/&quot;&gt;adaptive\
+    \ logs&lt;/a&gt;, &lt;a href=&quot;https://grafana.com/docs/grafana-cloud/adaptive-telemetry/adaptive-traces/&quot;&gt;adaptive\
+    \ traces&lt;/a&gt; and adaptive profiles.&lt;/p&gt; &lt;p&gt;our adaptive telemetry\
+    \ solutions give users the ability to control and optimize their telemetry data.\
+    \ these solutions ensure that data storage is optimized based on individual usage\
+    \ patterns, so only the most valuable data is retained.&lt;/p&gt; &lt;p&gt;as\
+    \ a company we are remote-first and global, we embrace people of different experiences\
+    \ and backgrounds to build diverse teams where every person brings a new perspective\
+    \ to the software.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what will you be\
+    \ doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;drive technical\
+    \ strategy and roadmap.&lt;/strong&gt; proactively define the architectural vision,\
+    \ prioritize work that unlocks major product or platform improvements, and influence\
+    \ product and engineering decisions.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;lead\
+    \ end-to-end delivery of large, cross-functional projects.&lt;/strong&gt; own\
+    \ planning, design, execution, rollout and long-term operation of large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;own architecture, reliability, performance and cost\
+    \ for critical systems.&lt;/strong&gt; make pragmatic architecture choices that\
+    \ balance scalability, availability, latency and cost while ensuring systems remain\
+    \ maintainable and evolvable.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;define\
+    \ slos/slis and lead incident response.&lt;/strong&gt; establish measurable reliability\
+    \ targets, run high-severity incident response, lead blameless post-mortems, and\
+    \ drive systemic fixes and automation to prevent recurrence.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;improve observability, automation and operational readiness.&lt;/strong&gt;\
+    \ champion telemetry, alerting, runbooks, capacity planning and automation efforts\
+    \ that reduce toil, speed debugging and lower mttr.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;align stakeholders and remove blockers.&lt;/strong&gt;\
+    \ coordinate across product, design and other teams to align priorities, negotiate\
+    \ tradeoffs, and unblock delivery for large initiatives.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;mentor and grow engineering talent.&lt;/strong&gt; coach\
+    \ senior and mid-level engineers, lead design reviews, raise engineering standards,\
+    \ and help teammates make sound technical tradeoffs.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;represent engineering internally and externally.&lt;/strong&gt;\
+    \ communicate technical strategy clearly to non-engineering stakeholders and represent\
+    \ the team in cross-team planning.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;we invest heavily\
+    \ in developer productivity. you can use modern ai coding assistants as part of\
+    \ your daily workflow (your choice of tools, within security guidelines), backed\
+    \ by a company-funded usage budget so you can iterate quickly without unnecessary\
+    \ friction.&lt;/p&gt; &lt;p&gt;we encourage pragmatic ai-assisted development:\
+    \ faster prototyping, test generation, refactors, documentation, and incident\
+    \ follow-ups\u2014always paired with strong code review and quality standards.&lt;/p&gt;\
+    \ &lt;p&gt;you\u2019ll also have access to frontier models (e.g., gpt-codex 5/3,\
+    \ claude opus 4.6, gemini 3 pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what makes\
+    \ you a great fit:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;you are a motivated\
+    \ self starter with a bias towards action. you are customer focused. we build\
+    \ everything with our users in mind. you have a passion for creating intuitive\
+    \ products that fit customers\u2019 needs&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+    \ &lt;li&gt;&lt;strong&gt;proven delivery of large distributed systems.&lt;/strong&gt;\
+    \ experience shipping and operating complex systems that span multiple teams,\
+    \ with clear evidence of technical leadership and impact.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;strong systems-design instincts.&lt;/strong&gt; deep\
+    \ understanding of tradeoffs around latency, consistency, availability, scaling\
+    \ and cost.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;hands-on cloud\
+    \ and platform experience.&lt;/strong&gt; solid experience with cloud-native architectures\
+    \ (microservices, containers/kubernetes, iac) and the operational practices that\
+    \ keep them healthy.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;reliability\
+    \ and performance ownership.&lt;/strong&gt; comfortable defining slos/slis, doing\
+    \ capacity planning, tuning performance, and driving reliability work end-to-end.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;excellent coding and design skills.&lt;/strong&gt; you\
+    \ write clear, maintainable, well-tested code and can lead technical designs \u2014\
+    \ we use go, but python/c/c++/rust or similar translate well.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;comfort with ai-assisted development. &lt;/strong&gt;we\
+    \ embrace ai and agentic development so we expect you to be curious and comfortable\
+    \ using ai-powered developer tools and ideally have practical experience folding\
+    \ them into a team\u2019s workflow. &lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;experience\
+    \ with messaging and telemetry.&lt;/strong&gt; familiarity with streaming/messaging\
+    \ systems (e.g., kafka) and observability tooling (prometheus/grafana or equivalents).&lt;br&gt;&lt;br&gt;&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;influence without authority.&lt;/strong&gt; ability\
+    \ to align cross-functional stakeholders, set priorities and drive outcomes in\
+    \ a remote-first environment.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;strong\
+    \ communicator.&lt;/strong&gt; clear written and verbal communication that works\
+    \ across engineers and non-technical stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;compensation &amp;amp; rewards:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;p&gt;in the uk, the base compensation range for this role is &lt;span data-sheets-root=&quot;1&quot;&gt;\xA3\
+    100,000 - \xA3124,000.&lt;/span&gt;&amp;nbsp;actual compensation may vary based\
+    \ on level, experience, and skillset as assessed in the interview process. benefits\
+    \ include equity, bonus (if applicable) and other benefits listed &lt;a class=&quot;c-link&quot;\
+    \ href=&quot;https://grafana.com/about/careers/#jobs&quot; target=&quot;_blank&quot;\
+    \ data-stringify-link=&quot;https://grafana.com/about/careers/#jobs&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation\
+    \ ranges are country specific. if you are applying for this role from a different\
+    \ location than listed above, your recruiter will discuss your specific market\u2019\
+    s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;why you\u2019ll thrive at grafana labs:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100%\
+    \ remote, global culture -&amp;nbsp;&lt;/strong&gt;as a remote-only company, we\
+    \ bring together talent from around the world, united by a culture of collaboration\
+    \ and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;scaling organization&lt;/strong&gt;\
+    \ \u2013 tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;transparent communication&lt;/strong&gt; \u2013 expect\
+    \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;innovation-driven&lt;/strong&gt;\
+    \ \u2013 autonomy and support to ship great work and try new things.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;open source roots&lt;/strong&gt; \u2013 built on community-driven\
+    \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;empowered\
+    \ teams&lt;/strong&gt; \u2013 high trust, low ego culture that values outcomes\
+    \ over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;career growth pathways&lt;/strong&gt;\
+    \ \u2013 defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;approachable\
+    \ leadership&lt;/strong&gt; \u2013 transparent execs who are involved, visible,\
+    \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;passionate people&lt;/strong&gt;\
+    \ \u2013 join a team of smart, supportive folks who care deeply about what they\
+    \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;in-person onboarding &lt;/strong&gt;-\
+    \ we want you to thrive from day 1 with your fellow new \u2018grafanistas\u2019\
+    \ to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;balance\
+    \ is key&lt;/strong&gt; - we operate a global annual leave policy of 30 days per\
+    \ annum. 3 days of your annual leave entitlement are reserved for grafana shutdown\
+    \ days to allow the team to really disconnect. &lt;em&gt;*we will comply with\
+    \ local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;equal\
+    \ opportunity employer:&lt;/strong&gt; we will recruit, train, compensate and\
+    \ promote regardless of race, religion, color, national origin, gender, disability,\
+    \ age, veteran status, and all the other fascinating characteristics that make\
+    \ us different and unique. we believe that equality and diversity builds a strong\
+    \ organization and we\u2019re working hard to make sure that\u2019s the foundation\
+    \ of our organization as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;grafana\
+    \ labs may utilize ai tools in its recruitment process to assist in matching information\
+    \ provided in cvs to job postings. the recruitment team will continue to review\
+    \ inbound cvs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;#li-remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;for information\
+    \ about how your personal data is used once you\u2019ve applied to a job, check\
+    \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T21:00:01+00:00'

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile - Job Search Dashboard</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/dashboard/styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="shell">
+      <nav class="topnav">
+        <a class="brand" href="/dashboard/">Job Search OS</a>
+        <div class="navlinks">
+          <a href="/dashboard/">Overview</a>
+          <a href="/dashboard/offers.html">Offers</a>
+          <a href="/dashboard/pipeline.html">Pipeline</a>
+          <a class="active" href="/dashboard/profile.html">Profile</a>
+        </div>
+      </nav>
+
+      <section class="page-hero">
+        <p class="eyebrow">Candidate Profile</p>
+        <h1 id="profile-title">Loading profile...</h1>
+        <p class="lede" id="profile-meta">Reading preferred targets, skills, and quantified signals.</p>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Targets</p>
+              <h2>Role and company preferences</h2>
+            </div>
+          </div>
+          <div class="detail-grid">
+            <div>
+              <h3 class="subheading">Preferred Role Families</h3>
+              <div class="chip-wrap" id="profile-roles"></div>
+            </div>
+            <div>
+              <h3 class="subheading">Work Modes and Stages</h3>
+              <div class="chip-wrap" id="profile-preferences"></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel emphasis">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Strategy</p>
+              <h2>Biases and default variants</h2>
+            </div>
+          </div>
+          <div class="detail-grid">
+            <div>
+              <h3 class="subheading">Strategic Biases</h3>
+              <div class="chip-wrap" id="profile-biases"></div>
+            </div>
+            <div>
+              <h3 class="subheading">Variant Priority</h3>
+              <div class="chip-wrap" id="profile-variants"></div>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Skills Surface</p>
+            <h2>Searchable inventory</h2>
+          </div>
+          <p class="section-note">Structured from canonical profile YAML, not from ad hoc resume text.</p>
+        </div>
+        <div class="profile-skill-grid" id="profile-skills"></div>
+      </section>
+
+      <section class="split-layout lower">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Proof</p>
+              <h2>Quantified achievements</h2>
+            </div>
+          </div>
+          <div class="achievement-grid" id="profile-achievements"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Experience Map</p>
+              <h2>Where the evidence comes from</h2>
+            </div>
+          </div>
+          <div class="experience-list" id="profile-experience"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="/dashboard/profile.js" type="module"></script>
+  </body>
+</html>

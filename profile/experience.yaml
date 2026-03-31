@@ -1,0 +1,148 @@
+version: 1
+experiences:
+  - id: sony_playstation
+    company: Sony Interactive Entertainment (PlayStation)
+    titles:
+      actual: Software Engineer, CI/CD and Test Automation Infrastructure
+      normalized:
+        - software_engineer
+        - platform_devops_engineer
+    dates:
+      start: 2023-02
+      end: 2026-03
+    location: San Francisco (Remote)
+    bullets:
+      - evidence_id: sony_ci_cd_001
+        text: Built CI/CD and automated test infrastructure for Sony PlayStation emulators used in the Classics Catalog on PS4 and PS5.
+        supported_technologies:
+          - Python
+          - GitHub Actions
+          - AWS
+        supported_metrics: []
+        supported_themes:
+          - ci_cd
+          - developer_tooling
+          - release_engineering
+          - test_automation
+      - evidence_id: sony_scale_002
+        text: Automated testing of 5000+ retro games across console devkits and OS environments using Python, GitHub Actions, AWS, and external APIs.
+        supported_technologies:
+          - Python
+          - GitHub Actions
+          - AWS
+          - Google APIs
+          - Slack APIs
+          - Linear
+        supported_metrics:
+          - 5000+ games
+        supported_themes:
+          - scale
+          - test_automation
+          - ci_cd
+      - evidence_id: sony_release_003
+        text: Ensured non-regression testing for 50+ PlayStation Classics, including major catalog titles.
+        supported_technologies: []
+        supported_metrics:
+          - 50+ PlayStation Classics
+        supported_themes:
+          - release_engineering
+          - product_delivery
+      - evidence_id: sony_org_004
+        text: Maintained CI/CD pipelines and release workflows used by 15+ engineers and supported a 60+ person QA organization.
+        supported_technologies:
+          - GitHub Actions
+          - AWS
+        supported_metrics:
+          - 15+ engineers
+          - 60+ QA testers
+        supported_themes:
+          - ci_cd
+          - developer_tooling
+          - qa_enablement
+  - id: jam_gg
+    company: Jam.gg
+    titles:
+      actual: Founding Engineer
+      normalized:
+        - software_engineer
+        - backend_engineer
+        - founding_engineer
+    dates:
+      start: 2020-03
+      end: 2023-02
+    location: San Francisco (Remote)
+    bullets:
+      - evidence_id: jam_scale_001
+        text: Part of the cofounding team of a YC-backed cloud gaming platform that scaled to 2M users, 500K MAU, 60+ employees, and a $12M Series A.
+        supported_technologies: []
+        supported_metrics:
+          - 2M users
+          - 500K MAU
+          - 60+ employees
+          - $12M Series A
+        supported_themes:
+          - founding
+          - startup
+          - scale
+      - evidence_id: jam_fullstack_002
+        text: Built backend, frontend, and cloud systems with Go, TypeScript, React, Firebase, and GCP.
+        supported_technologies:
+          - Go
+          - TypeScript
+          - React
+          - Firebase
+          - GCP
+        supported_metrics: []
+        supported_themes:
+          - backend_services
+          - full_stack
+          - cloud_platform
+          - product_delivery
+      - evidence_id: jam_product_003
+        text: Led specs and delivery for integrations, browser-based Twitch streaming, and a game upload and catalog system.
+        supported_technologies:
+          - Go
+          - TypeScript
+          - React
+        supported_metrics: []
+        supported_themes:
+          - product_delivery
+          - integrations
+          - 0_to_1
+      - evidence_id: jam_hiring_004
+        text: Created and led product and QA teams and managed recruitment of the first 30 hires.
+        supported_technologies: []
+        supported_metrics:
+          - first 30 hires
+        supported_themes:
+          - recruiting
+          - cross_functional_execution
+          - founding
+  - id: atos
+    company: Atos
+    titles:
+      actual: Backend Engineer / Innovation Project Manager
+      normalized:
+        - software_engineer
+        - backend_engineer
+    dates:
+      start: 2018-09
+      end: 2020-07
+    location: Aix-en-Provence, France
+    bullets:
+      - evidence_id: atos_backend_001
+        text: Developed Java backend for a secure geolocation tool used by the French Army.
+        supported_technologies:
+          - Java
+        supported_metrics: []
+        supported_themes:
+          - backend_services
+      - evidence_id: atos_dashboard_002
+        text: Built a Grafana dashboard to visualize code quality for a team of 50+ engineers.
+        supported_technologies:
+          - Grafana
+        supported_metrics:
+          - 50+ engineers
+        supported_themes:
+          - developer_tooling
+          - observability

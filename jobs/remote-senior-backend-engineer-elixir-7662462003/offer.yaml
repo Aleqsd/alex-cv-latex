@@ -1,0 +1,548 @@
+id: remote-senior-backend-engineer-elixir-7662462003
+company_name: Remote
+job_title: Senior Backend Engineer - Elixir
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: remote_greenhouse
+external_job_id: '7662462003'
+source_url: https://job-boards.greenhouse.io/remotecom/jobs/7662462003
+source_date: '2026-03-15T20:56:14+00:00'
+posted_at: '2026-03-12T10:35:36-04:00'
+last_seen_at: '2026-03-15T20:56:14+00:00'
+location: Remote-Global
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/remotecom/jobs/7662462003
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About\
+  \ Remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style=&quot;font-size: 12pt;\
+  \ font-family: helvetica, arial, sans-serif;&quot;&gt;Remote is solving modern organizations\u2019\
+  \ biggest challenge \u2013 navigating global employment compliantly with ease. We\
+  \ make it possible for businesses of all sizes to recruit, pay, and manage international\
+  \ teams. With our core values at heart and future focused work culture, our team\
+  \ works tirelessly on ambitious problems, asynchronously, around the world. You\
+  \ can find Remoters working from 6 different continents (Antarctica left to go!)\
+  \ and all of our positions are fully remote.&lt;br&gt;&lt;br&gt;&lt;span class=&quot;discussion-id-2f7cb4da-dab4-8068-a80f-001c50b2d808\
+  \ suggestion-update notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;With\
+  \ Innovation as one of the core values, we have built Automation and AI capabilities\
+  \ into the requirements for every role.&lt;/span&gt;&lt;br&gt;&lt;br&gt;We encourage\
+  \ every member of the Remote team to bring their talents, experiences and culture\
+  \ to the table to help us build the best-in-class HR platform.&lt;/span&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;font-size: 12pt;\
+  \ font-family: helvetica, arial, sans-serif;&quot;&gt;If you are energetic, curious,\
+  \ motivated and ambitious, be part of our world. Apply now and define the future\
+  \ of work!&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;The position&lt;/h2&gt;\
+  \ &lt;p&gt;You&#39;ll be joining a team of engineers across Frontend, Backend, SRE\
+  \ and QA. We&#39;re organised into cross-functional development teams assigned to\
+  \ specific verticals.&lt;/p&gt; &lt;p&gt;This role is open for several teams, and\
+  \ we will define the exact team that you will be joining during the interview process\
+  \ based on the business needs and your preferences.&lt;/p&gt; &lt;p&gt;Regardless\
+  \ of the specific team, you will be working on building tools, APIs and integrations\
+  \ for one of our products.&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;discussion-level-1\
+  \ discussion-id-1ef18a0b-804d-46bf-8480-aaec7f18761e notion-enable-hover&quot; data-token-index=&quot;0&quot;\
+  \ data-reactroot=&quot;&quot;&gt;Our backend is built with Elixir and Phoenix, with\
+  \ a Postgres database. We use React and Nextjs for our front-end. Gitlab is used\
+  \ as a version control tool, issue tracker and a CI/CD solution. Our applications\
+  \ are hosted on AWS. We fully rely on our CI for deployments and deploy multiple\
+  \ times per day.&lt;/span&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What this job can\
+  \ offer you&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Complex and meaningful\
+  \ challenges \u2014 solving them will enable people and businesses to live and operate\
+  \ in any country of the world.&lt;/li&gt; &lt;li&gt;Opportunity to have a significant\
+  \ impact on the business \u2014 we are still very early in our journey as a company,\
+  \ and each change you make today is amplified by the company&#39;s growth.&lt;/li&gt;\
+  \ &lt;li&gt;A lot of freedom to organize your work and life \u2014&amp;nbsp;you\
+  \ are not bound to daily standups, recurring meetings or other ceremonies.&lt;/li&gt;\
+  \ &lt;li&gt;Competitive salary, stock options, flexible paid time off, and a set\
+  \ of perks and benefits.&lt;/li&gt; &lt;li&gt;A supportive and kind work environment\
+  \ where we would like you to challenge the dogmas and pursue innovation!&lt;/li&gt;\
+  \ &lt;li&gt;Strong team of experienced engineers who will support and facilitate\
+  \ your professional growth.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you bring&lt;/h2&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Must have (professional experience):&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Significant experience as a Backend Engineer working with\
+  \ Elixir, which includes building, shipping and maintaining a complicated software\
+  \ project&lt;/li&gt; &lt;li&gt;Postgres (or similar)&lt;/li&gt; &lt;li&gt;CI/CD\
+  \ (GitLab, Github, Jenkins or similar)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Nice\
+  \ to have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kubernetes&lt;/li&gt; &lt;li&gt;Docker&lt;/li&gt;\
+  \ &lt;li&gt;AWS&lt;/li&gt; &lt;li&gt;Nextjs&lt;/li&gt; &lt;li&gt;React/Vue/Angular&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;Key\
+  \ Responsibilities&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Lead the development\
+  \ of major team-scoped projects, participate in cross-team initiatives&lt;/li&gt;\
+  \ &lt;li&gt;Actively participate in product work in the team: provide feedback,\
+  \ suggest solutions to the problems. Use technical insights and expertise to suggest\
+  \ product improvements&lt;/li&gt; &lt;li&gt;Maintain good understanding of the team\u2019\
+  s domain, both from product and engineering sides&lt;/li&gt; &lt;li&gt;Provide feedback\
+  \ on code reviews&lt;/li&gt; &lt;li&gt;Contribute to the shared codebase&lt;/li&gt;\
+  \ &lt;li&gt;Debug and solve technical and business issues&lt;/li&gt; &lt;li&gt;Participate\
+  \ in non-team activities, such as support rotations, hiring process, RFC discussions,\
+  \ etc&lt;/li&gt; &lt;li&gt;Mentor and provide guidance to other engineers&lt;/li&gt;\
+  \ &lt;li&gt;Investigate, propose and participate in implementation of improvements\
+  \ to our platform&lt;/li&gt; &lt;li&gt;Design and implement APIs with performance,\
+  \ scalability, and maintainability in mind&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Practicals&lt;/h2&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Reporting line: &lt;/strong&gt;Engineering\
+  \ Team Leader&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Engineering&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Anywhere in the World&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Start date&lt;/strong&gt;: As soon as possible&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Application process&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;ol&gt; &lt;li&gt;Interview with our recruiter&lt;/li&gt; &lt;li&gt;Interview\
+  \ with an Engineering Leader&lt;/li&gt; &lt;li&gt;(async) Code exercise and&amp;nbsp;review&lt;/li&gt;\
+  \ &lt;li&gt;Interview with members of the engineering team&lt;/li&gt; &lt;li&gt;Bar\
+  \ Raiser Interview&lt;/li&gt; &lt;li&gt;Executive Interview with VP of Engineering&lt;/li&gt;\
+  \ &lt;li&gt;Offer and&amp;nbsp;&lt;a href=&quot;https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21&quot;&gt;Prior\
+  \ employment verification check&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;div class=&quot;p-rich_text_section&quot;&gt; &lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;Our full benefits &amp;amp; perks are explained\
+  \ in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot;\
+  \ target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot;\
+  \ data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global\
+  \ company, each country works differently, but some benefits/perks are for all Remoters:&lt;/span&gt;&lt;/div&gt;\
+  \ &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot;\
+  \ data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;work from anywhere&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;flexible\
+  \ paid time off&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;\
+  \ data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a\
+  \ class=&quot;c-link&quot; href=&quot;https://remote.com/async&quot; target=&quot;_blank&quot;\
+  \ data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot;\
+  \ data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;16\
+  \ weeks paid parental leave&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;mental health support services&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;stock\
+  \ options&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;learning\
+  \ budget&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;home\
+  \ office budget &amp;amp; IT equipment&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;budget for local in-person social events\
+  \ or co-working spaces&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h2&gt;&lt;strong&gt;How\
+  \ you\u2019ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We\
+  \ work async at Remote which means you can plan your schedule around your life (and\
+  \ not around meetings). Read more at &lt;a href=&quot;https://remote.com/async&quot;\
+  \ target=&quot;_blank&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;You will be empowered to take ownership and be proactive.\
+  \ When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work\
+  \ balance&lt;/strong&gt; is important and you will be encouraged to put yourself\
+  \ and your family first, and fit work around your needs.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;If that sounds like something you want, apply now!&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt; &lt;ol&gt; &lt;li\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Please\
+  \ fill out the form below and upload your CV with a PDF format.&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong\
+  \ data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application\
+  \ and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;\
+  \ text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family:\
+  \ helvetica, arial, sans-serif;&quot;&gt;If you don\u2019t have an up to date CV\
+  \ but you are still interested in talking to us, please feel free to add a copy\
+  \ of your LinkedIn profile instead.&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Not\
+  \ only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities,\
+  \ disability status and any other under-represented group to apply, but we prioritize\
+  \ a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in\
+  \ Tech) who meet regularly with the People team. During your interviews and beyond,\
+  \ we ask &amp;amp; encourage anybody who needs an accommodation to request one from\
+  \ their recruiter.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:\
+  \ 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We will ask you to voluntarily\
+  \ tell us your pronouns at interview stage, and you will have the option to answer\
+  \ our anonymous demographic questionnaire when you apply below. As an equal employment\
+  \ opportunity employer it\u2019s important to us that our workforce reflects people\
+  \ of all backgrounds, identities, and experiences and this data will help us to\
+  \ stay accountable. We thank you for providing this data, if you chose to.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;At Remote, we embrace AI as a valuable tool while prioritizing\
+  \ human creativity and authenticity.&amp;nbsp;We look forward to meeting candidates\
+  \ who balance innovation with genuine expertise and experience.&amp;nbsp;To learn\
+  \ more about Remote&#39;s AI guidelines check see&amp;nbsp;&lt;a href=&quot;https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f&quot;\
+  \ target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f&amp;amp;source=gmail&amp;amp;ust=1733927526443000&amp;amp;usg=AOvVaw2sIVooKuyGfRra1PtGXreV&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;em&gt;Please\
+  \ note we accept applications on an ongoing basis.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About\
+  \ Remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style=&quot;font-size: 12pt;\
+  \ font-family: helvetica, arial, sans-serif;&quot;&gt;Remote is solving modern organizations\u2019\
+  \ biggest challenge \u2013 navigating global employment compliantly with ease. We\
+  \ make it possible for businesses of all sizes to recruit, pay, and manage international\
+  \ teams. With our core values at heart and future focused work culture, our team\
+  \ works tirelessly on ambitious problems, asynchronously, around the world. You\
+  \ can find Remoters working from 6 different continents (Antarctica left to go!)\
+  \ and all of our positions are fully remote.&lt;br&gt;&lt;br&gt;&lt;span class=&quot;discussion-id-2f7cb4da-dab4-8068-a80f-001c50b2d808\
+  \ suggestion-update notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;With\
+  \ Innovation as one of the core values, we have built Automation and AI capabilities\
+  \ into the requirements for every role.&lt;/span&gt;&lt;br&gt;&lt;br&gt;We encourage\
+  \ every member of the Remote team to bring their talents, experiences and culture\
+  \ to the table to help us build the best-in-class HR platform.&lt;/span&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;font-size: 12pt;\
+  \ font-family: helvetica, arial, sans-serif;&quot;&gt;If you are energetic, curious,\
+  \ motivated and ambitious, be part of our world. Apply now and define the future\
+  \ of work!&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;The position&lt;/h2&gt;\
+  \ &lt;p&gt;You&#39;ll be joining a team of engineers across Frontend, Backend, SRE\
+  \ and QA. We&#39;re organised into cross-functional development teams assigned to\
+  \ specific verticals.&lt;/p&gt; &lt;p&gt;This role is open for several teams, and\
+  \ we will define the exact team that you will be joining during the interview process\
+  \ based on the business needs and your preferences.&lt;/p&gt; &lt;p&gt;Regardless\
+  \ of the specific team, you will be working on building tools, APIs and integrations\
+  \ for one of our products.&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;discussion-level-1\
+  \ discussion-id-1ef18a0b-804d-46bf-8480-aaec7f18761e notion-enable-hover&quot; data-token-index=&quot;0&quot;\
+  \ data-reactroot=&quot;&quot;&gt;Our backend is built with Elixir and Phoenix, with\
+  \ a Postgres database. We use React and Nextjs for our front-end. Gitlab is used\
+  \ as a version control tool, issue tracker and a CI/CD solution. Our applications\
+  \ are hosted on AWS. We fully rely on our CI for deployments and deploy multiple\
+  \ times per day.&lt;/span&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What this job can\
+  \ offer you&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Complex and meaningful\
+  \ challenges \u2014 solving them will enable people and businesses to live and operate\
+  \ in any country of the world.&lt;/li&gt; &lt;li&gt;Opportunity to have a significant\
+  \ impact on the business \u2014 we are still very early in our journey as a company,\
+  \ and each change you make today is amplified by the company&#39;s growth.&lt;/li&gt;\
+  \ &lt;li&gt;A lot of freedom to organize your work and life \u2014&amp;nbsp;you\
+  \ are not bound to daily standups, recurring meetings or other ceremonies.&lt;/li&gt;\
+  \ &lt;li&gt;Competitive salary, stock options, flexible paid time off, and a set\
+  \ of perks and benefits.&lt;/li&gt; &lt;li&gt;A supportive and kind work environment\
+  \ where we would like you to challenge the dogmas and pursue innovation!&lt;/li&gt;\
+  \ &lt;li&gt;Strong team of experienced engineers who will support and facilitate\
+  \ your professional growth.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you bring&lt;/h2&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Must have (professional experience):&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Significant experience as a Backend Engineer working with\
+  \ Elixir, which includes building, shipping and maintaining a complicated software\
+  \ project&lt;/li&gt; &lt;li&gt;Postgres (or similar)&lt;/li&gt; &lt;li&gt;CI/CD\
+  \ (GitLab, Github, Jenkins or similar)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Nice\
+  \ to have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kubernetes&lt;/li&gt; &lt;li&gt;Docker&lt;/li&gt;\
+  \ &lt;li&gt;AWS&lt;/li&gt; &lt;li&gt;Nextjs&lt;/li&gt; &lt;li&gt;React/Vue/Angular&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;Key\
+  \ Responsibilities&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Lead the development\
+  \ of major team-scoped projects, participate in cross-team initiatives&lt;/li&gt;\
+  \ &lt;li&gt;Actively participate in product work in the team: provide feedback,\
+  \ suggest solutions to the problems. Use technical insights and expertise to suggest\
+  \ product improvements&lt;/li&gt; &lt;li&gt;Maintain good understanding of the team\u2019\
+  s domain, both from product and engineering sides&lt;/li&gt; &lt;li&gt;Provide feedback\
+  \ on code reviews&lt;/li&gt; &lt;li&gt;Contribute to the shared codebase&lt;/li&gt;\
+  \ &lt;li&gt;Debug and solve technical and business issues&lt;/li&gt; &lt;li&gt;Participate\
+  \ in non-team activities, such as support rotations, hiring process, RFC discussions,\
+  \ etc&lt;/li&gt; &lt;li&gt;Mentor and provide guidance to other engineers&lt;/li&gt;\
+  \ &lt;li&gt;Investigate, propose and participate in implementation of improvements\
+  \ to our platform&lt;/li&gt; &lt;li&gt;Design and implement APIs with performance,\
+  \ scalability, and maintainability in mind&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Practicals&lt;/h2&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Reporting line: &lt;/strong&gt;Engineering\
+  \ Team Leader&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Engineering&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Anywhere in the World&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Start date&lt;/strong&gt;: As soon as possible&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Application process&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;ol&gt; &lt;li&gt;Interview with our recruiter&lt;/li&gt; &lt;li&gt;Interview\
+  \ with an Engineering Leader&lt;/li&gt; &lt;li&gt;(async) Code exercise and&amp;nbsp;review&lt;/li&gt;\
+  \ &lt;li&gt;Interview with members of the engineering team&lt;/li&gt; &lt;li&gt;Bar\
+  \ Raiser Interview&lt;/li&gt; &lt;li&gt;Executive Interview with VP of Engineering&lt;/li&gt;\
+  \ &lt;li&gt;Offer and&amp;nbsp;&lt;a href=&quot;https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21&quot;&gt;Prior\
+  \ employment verification check&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;div class=&quot;p-rich_text_section&quot;&gt; &lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;Our full benefits &amp;amp; perks are explained\
+  \ in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot;\
+  \ target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot;\
+  \ data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global\
+  \ company, each country works differently, but some benefits/perks are for all Remoters:&lt;/span&gt;&lt;/div&gt;\
+  \ &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot;\
+  \ data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;work from anywhere&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;flexible\
+  \ paid time off&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;\
+  \ data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a\
+  \ class=&quot;c-link&quot; href=&quot;https://remote.com/async&quot; target=&quot;_blank&quot;\
+  \ data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot;\
+  \ data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;16\
+  \ weeks paid parental leave&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;mental health support services&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;stock\
+  \ options&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;learning\
+  \ budget&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+  \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;home\
+  \ office budget &amp;amp; IT equipment&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+  \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt;&quot;&gt;budget for local in-person social events\
+  \ or co-working spaces&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h2&gt;&lt;strong&gt;How\
+  \ you\u2019ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We\
+  \ work async at Remote which means you can plan your schedule around your life (and\
+  \ not around meetings). Read more at &lt;a href=&quot;https://remote.com/async&quot;\
+  \ target=&quot;_blank&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;You will be empowered to take ownership and be proactive.\
+  \ When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work\
+  \ balance&lt;/strong&gt; is important and you will be encouraged to put yourself\
+  \ and your family first, and fit work around your needs.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;If that sounds like something you want, apply now!&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt; &lt;ol&gt; &lt;li\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Please\
+  \ fill out the form below and upload your CV with a PDF format.&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong\
+  \ data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application\
+  \ and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;\
+  \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;\
+  \ text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family:\
+  \ helvetica, arial, sans-serif;&quot;&gt;If you don\u2019t have an up to date CV\
+  \ but you are still interested in talking to us, please feel free to add a copy\
+  \ of your LinkedIn profile instead.&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Not\
+  \ only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities,\
+  \ disability status and any other under-represented group to apply, but we prioritize\
+  \ a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in\
+  \ Tech) who meet regularly with the People team. During your interviews and beyond,\
+  \ we ask &amp;amp; encourage anybody who needs an accommodation to request one from\
+  \ their recruiter.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:\
+  \ 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We will ask you to voluntarily\
+  \ tell us your pronouns at interview stage, and you will have the option to answer\
+  \ our anonymous demographic questionnaire when you apply below. As an equal employment\
+  \ opportunity employer it\u2019s important to us that our workforce reflects people\
+  \ of all backgrounds, identities, and experiences and this data will help us to\
+  \ stay accountable. We thank you for providing this data, if you chose to.&lt;/span&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+  \ sans-serif;&quot;&gt;At Remote, we embrace AI as a valuable tool while prioritizing\
+  \ human creativity and authenticity.&amp;nbsp;We look forward to meeting candidates\
+  \ who balance innovation with genuine expertise and experience.&amp;nbsp;To learn\
+  \ more about Remote&#39;s AI guidelines check see&amp;nbsp;&lt;a href=&quot;https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f&quot;\
+  \ target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f&amp;amp;source=gmail&amp;amp;ust=1733927526443000&amp;amp;usg=AOvVaw2sIVooKuyGfRra1PtGXreV&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span\
+  \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;em&gt;Please\
+  \ note we accept applications on an ongoing basis.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"
+keywords_required:
+- apis
+- aws
+- ci/cd
+- docker
+- go
+- kubernetes
+- rag
+- react
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 100
+fit_score_human: 100
+fit_score_strategic: 100
+fit_score_final: 100
+fit_recommendation: apply
+fit_summary: Remote scores 100 with recommendation apply for role family Backend Engineer.
+risks: []
+strengths:
+- Direct keyword overlap with apis, aws, ci/cd, docker, go.
+- 'Role family aligns with preferred target: Backend Engineer.'
+- 'Remote fit is acceptable under current constraints: Remote (Global).'
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:56:14+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source remote_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 10
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 8
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: global
+  regions:
+  - Worldwide
+  label: Remote (Global)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote remote-global senior backend engineer - elixir &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;about\
+    \ remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style=&quot;font-size:\
+    \ 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;remote is solving\
+    \ modern organizations\u2019 biggest challenge \u2013 navigating global employment\
+    \ compliantly with ease. we make it possible for businesses of all sizes to recruit,\
+    \ pay, and manage international teams. with our core values at heart and future\
+    \ focused work culture, our team works tirelessly on ambitious problems, asynchronously,\
+    \ around the world. you can find remoters working from 6 different continents\
+    \ (antarctica left to go!) and all of our positions are fully remote.&lt;br&gt;&lt;br&gt;&lt;span\
+    \ class=&quot;discussion-id-2f7cb4da-dab4-8068-a80f-001c50b2d808 suggestion-update\
+    \ notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;with innovation\
+    \ as one of the core values, we have built automation and ai capabilities into\
+    \ the requirements for every role.&lt;/span&gt;&lt;br&gt;&lt;br&gt;we encourage\
+    \ every member of the remote team to bring their talents, experiences and culture\
+    \ to the table to help us build the best-in-class hr platform.&lt;/span&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;font-size:\
+    \ 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;if you are energetic,\
+    \ curious, motivated and ambitious, be part of our world. apply now and define\
+    \ the future of work!&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;the position&lt;/h2&gt;\
+    \ &lt;p&gt;you&#39;ll be joining a team of engineers across frontend, backend,\
+    \ sre and qa. we&#39;re organised into cross-functional development teams assigned\
+    \ to specific verticals.&lt;/p&gt; &lt;p&gt;this role is open for several teams,\
+    \ and we will define the exact team that you will be joining during the interview\
+    \ process based on the business needs and your preferences.&lt;/p&gt; &lt;p&gt;regardless\
+    \ of the specific team, you will be working on building tools, apis and integrations\
+    \ for one of our products.&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;discussion-level-1\
+    \ discussion-id-1ef18a0b-804d-46bf-8480-aaec7f18761e notion-enable-hover&quot;\
+    \ data-token-index=&quot;0&quot; data-reactroot=&quot;&quot;&gt;our backend is\
+    \ built with elixir and phoenix, with a postgres database. we use react and nextjs\
+    \ for our front-end. gitlab is used as a version control tool, issue tracker and\
+    \ a ci/cd solution. our applications are hosted on aws. we fully rely on our ci\
+    \ for deployments and deploy multiple times per day.&lt;/span&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;what\
+    \ this job can offer you&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;complex\
+    \ and meaningful challenges \u2014 solving them will enable people and businesses\
+    \ to live and operate in any country of the world.&lt;/li&gt; &lt;li&gt;opportunity\
+    \ to have a significant impact on the business \u2014 we are still very early\
+    \ in our journey as a company, and each change you make today is amplified by\
+    \ the company&#39;s growth.&lt;/li&gt; &lt;li&gt;a lot of freedom to organize\
+    \ your work and life \u2014&amp;nbsp;you are not bound to daily standups, recurring\
+    \ meetings or other ceremonies.&lt;/li&gt; &lt;li&gt;competitive salary, stock\
+    \ options, flexible paid time off, and a set of perks and benefits.&lt;/li&gt;\
+    \ &lt;li&gt;a supportive and kind work environment where we would like you to\
+    \ challenge the dogmas and pursue innovation!&lt;/li&gt; &lt;li&gt;strong team\
+    \ of experienced engineers who will support and facilitate your professional growth.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;h2&gt;what you bring&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;must\
+    \ have (professional experience):&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;significant\
+    \ experience as a backend engineer working with elixir, which includes building,\
+    \ shipping and maintaining a complicated software project&lt;/li&gt; &lt;li&gt;postgres\
+    \ (or similar)&lt;/li&gt; &lt;li&gt;ci/cd (gitlab, github, jenkins or similar)&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;nice to have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+    \ &lt;li&gt;kubernetes&lt;/li&gt; &lt;li&gt;docker&lt;/li&gt; &lt;li&gt;aws&lt;/li&gt;\
+    \ &lt;li&gt;nextjs&lt;/li&gt; &lt;li&gt;react/vue/angular&lt;/li&gt; &lt;/ul&gt;\
+    \ &lt;h2&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot;&gt;key\
+    \ responsibilities&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;lead the development\
+    \ of major team-scoped projects, participate in cross-team initiatives&lt;/li&gt;\
+    \ &lt;li&gt;actively participate in product work in the team: provide feedback,\
+    \ suggest solutions to the problems. use technical insights and expertise to suggest\
+    \ product improvements&lt;/li&gt; &lt;li&gt;maintain good understanding of the\
+    \ team\u2019s domain, both from product and engineering sides&lt;/li&gt; &lt;li&gt;provide\
+    \ feedback on code reviews&lt;/li&gt; &lt;li&gt;contribute to the shared codebase&lt;/li&gt;\
+    \ &lt;li&gt;debug and solve technical and business issues&lt;/li&gt; &lt;li&gt;participate\
+    \ in non-team activities, such as support rotations, hiring process, rfc discussions,\
+    \ etc&lt;/li&gt; &lt;li&gt;mentor and provide guidance to other engineers&lt;/li&gt;\
+    \ &lt;li&gt;investigate, propose and participate in implementation of improvements\
+    \ to our platform&lt;/li&gt; &lt;li&gt;design and implement apis with performance,\
+    \ scalability, and maintainability in mind&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;practicals&lt;/h2&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;reporting line: &lt;/strong&gt;engineering\
+    \ team leader&lt;/li&gt; &lt;li&gt;&lt;strong&gt;team:&lt;/strong&gt; engineering&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;location&lt;/strong&gt;: anywhere in the world&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;start date&lt;/strong&gt;: as soon as possible&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;application process&lt;/strong&gt;&lt;/h2&gt;\
+    \ &lt;ol&gt; &lt;li&gt;interview with our recruiter&lt;/li&gt; &lt;li&gt;interview\
+    \ with an engineering leader&lt;/li&gt; &lt;li&gt;(async) code exercise and&amp;nbsp;review&lt;/li&gt;\
+    \ &lt;li&gt;interview with members of the engineering team&lt;/li&gt; &lt;li&gt;bar\
+    \ raiser interview&lt;/li&gt; &lt;li&gt;executive interview with vp of engineering&lt;/li&gt;\
+    \ &lt;li&gt;offer and&amp;nbsp;&lt;a href=&quot;https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21&quot;&gt;prior\
+    \ employment verification check&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;benefits&lt;/strong&gt;&lt;/h2&gt;\
+    \ &lt;div class=&quot;p-rich_text_section&quot;&gt; &lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt;&quot;&gt;our full benefits &amp;amp; perks are\
+    \ explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot;\
+    \ target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot;\
+    \ data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. as a\
+    \ global company, each country works differently, but some benefits/perks are\
+    \ for all remoters:&lt;/span&gt;&lt;/div&gt; &lt;ul class=&quot;p-rich_text_list\
+    \ p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot;\
+    \ data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt; &lt;li style=&quot;font-size:\
+    \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt;&quot;&gt;work from anywhere&lt;/span&gt;&lt;/li&gt;\
+    \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+    \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;flexible\
+    \ paid time off&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;\
+    \ data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt;&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a\
+    \ class=&quot;c-link&quot; href=&quot;https://remote.com/async&quot; target=&quot;_blank&quot;\
+    \ data-stringify-link=&quot;https://www.notion.so/remotecom/working-async-at-remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot;\
+    \ data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;\
+    \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+    \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;16\
+    \ weeks paid parental leave&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+    \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt;&quot;&gt;mental health support services&lt;/span&gt;&lt;/li&gt;\
+    \ &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+    \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;stock\
+    \ options&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+    \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;learning\
+    \ budget&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot; data-stringify-indent=&quot;0&quot;\
+    \ data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;home\
+    \ office budget &amp;amp; it equipment&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:\
+    \ 12pt;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt;&quot;&gt;budget for local in-person social events\
+    \ or co-working spaces&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h2&gt;&lt;strong&gt;how\
+    \ you\u2019ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;we\
+    \ work async at remote which means you can plan your schedule around your life\
+    \ (and not around meetings). read more at &lt;a href=&quot;https://remote.com/async&quot;\
+    \ target=&quot;_blank&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+    \ sans-serif;&quot;&gt;you will be empowered to take ownership and be proactive.\
+    \ when in doubt you will default to action instead of waiting. your &lt;strong&gt;life-work\
+    \ balance&lt;/strong&gt; is important and you will be encouraged to put yourself\
+    \ and your family first, and fit work around your needs.&lt;/span&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial,\
+    \ sans-serif;&quot;&gt;if that sounds like something you want, apply now!&lt;/span&gt;&lt;/p&gt;\
+    \ &lt;h2&gt;&lt;strong&gt;how to apply&lt;/strong&gt;&lt;/h2&gt; &lt;ol&gt; &lt;li\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;please\
+    \ fill out the form below and upload your cv with a pdf format.&lt;/span&gt;&lt;/li&gt;\
+    \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong\
+    \ data-stringify-type=&quot;bold&quot;&gt;we kindly ask you to submit your application\
+    \ and cv in english, as this is the standardised language we use here at remote.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;\
+    \ &lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;\
+    \ text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family:\
+    \ helvetica, arial, sans-serif;&quot;&gt;if you don\u2019t have an up to date\
+    \ cv but you are still interested in talking to us, please feel free to add a\
+    \ copy of your linkedin profile instead.&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;not\
+    \ only do we encourage folks from all ethnic groups, genders, sexuality, age,\
+    \ abilities, disability status and any other under-represented group to apply,\
+    \ but we prioritize a sense of belonging. we have 4 ergs (women, disability, queer,\
+    \ minorities in tech) who meet regularly with the people team. during your interviews\
+    \ and beyond, we ask &amp;amp; encourage anybody who needs an accommodation to\
+    \ request one from their recruiter.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;we\
+    \ will ask you to voluntarily tell us your pronouns at interview stage, and you\
+    \ will have the option to answer our anonymous demographic questionnaire when\
+    \ you apply below. as an equal employment opportunity employer it\u2019s important\
+    \ to us that our workforce reflects people of all backgrounds, identities, and\
+    \ experiences and this data will help us to stay accountable. we thank you for\
+    \ providing this data, if you chose to.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;at\
+    \ remote, we embrace ai as a valuable tool while prioritizing human creativity\
+    \ and authenticity.&amp;nbsp;we look forward to meeting candidates who balance\
+    \ innovation with genuine expertise and experience.&amp;nbsp;to learn more about\
+    \ remote&#39;s ai guidelines check see&amp;nbsp;&lt;a href=&quot;https://www.notion.so/remotecom/guidelines-on-using-ai-when-applying-for-a-job-at-remote-11ccb4dadab4805f80a7c73b6567bd8f&quot;\
+    \ target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.notion.so/remotecom/guidelines-on-using-ai-when-applying-for-a-job-at-remote-11ccb4dadab4805f80a7c73b6567bd8f&amp;amp;source=gmail&amp;amp;ust=1733927526443000&amp;amp;usg=aovvaw2sivookuygfrra1ptgxrev&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span\
+    \ style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;em&gt;please\
+    \ note we accept applications on an ongoing basis.&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T20:59:59+00:00'

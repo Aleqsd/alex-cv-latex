@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offer Detail - Job Search Dashboard</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/dashboard/styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="shell">
+      <nav class="topnav">
+        <a class="brand" href="/dashboard/">Job Search OS</a>
+        <div class="navlinks">
+          <a href="/dashboard/">Overview</a>
+          <a class="active" href="/dashboard/offers.html">Offers</a>
+          <a href="/dashboard/pipeline.html">Pipeline</a>
+          <a href="/dashboard/profile.html">Profile</a>
+        </div>
+      </nav>
+
+      <section class="page-hero detail-hero">
+        <p class="eyebrow">Offer Detail</p>
+        <h1 id="detail-title">Loading offer...</h1>
+        <p class="lede" id="detail-meta">Reading repository data...</p>
+        <div class="action-bar compact-row" id="detail-source-links"></div>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel emphasis">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Next Step</p>
+              <h2>Immediate action</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="detail-next-action"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Actions</p>
+              <h2>Run local workflows</h2>
+            </div>
+          </div>
+          <div class="action-bar" id="detail-actions"></div>
+          <div class="empty-state action-output hidden" id="detail-action-output"></div>
+        </article>
+      </section>
+
+      <section class="score-grid" id="detail-scores"></section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">ATS Surface</p>
+              <h2>Keywords and evidence</h2>
+            </div>
+          </div>
+          <div class="detail-grid">
+            <div>
+              <h3 class="subheading">Required Keywords</h3>
+              <div class="chip-wrap" id="detail-required"></div>
+            </div>
+            <div>
+              <h3 class="subheading">Evidence Quality</h3>
+              <div class="metric-list" id="detail-evidence"></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Decision</p>
+              <h2>Strengths and risks</h2>
+            </div>
+          </div>
+          <div class="detail-grid">
+            <div>
+              <h3 class="subheading">Strengths</h3>
+              <ul class="plain-list" id="detail-strengths"></ul>
+            </div>
+            <div>
+              <h3 class="subheading">Risks</h3>
+              <ul class="plain-list" id="detail-risks"></ul>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="split-layout lower">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Description</p>
+              <h2>Offer text snapshot</h2>
+            </div>
+          </div>
+          <div class="description-box" id="detail-description"></div>
+        </article>
+
+        <article class="panel emphasis">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Artifacts</p>
+              <h2>Repository files</h2>
+            </div>
+          </div>
+          <div class="asset-list" id="detail-assets"></div>
+        </article>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Artifact Preview</p>
+              <h2>Fit analysis and notes</h2>
+            </div>
+          </div>
+          <div class="preview-grid" id="detail-markdown-previews"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Resume Preview</p>
+              <h2>Source snapshot</h2>
+            </div>
+          </div>
+          <div id="detail-pdf-preview"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading tight">
+          <div>
+            <p class="eyebrow">Duplicates</p>
+            <h2>Related offers and reposts</h2>
+          </div>
+        </div>
+        <div class="decision-cards" id="detail-duplicates"></div>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Application Flow</p>
+              <h2>Where to apply and what was detected</h2>
+            </div>
+          </div>
+          <div class="metric-list" id="detail-application-meta"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Detected Questions</p>
+              <h2>Copy-paste preparation surface</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="detail-questions"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="/dashboard/offer.js" type="module"></script>
+  </body>
+</html>

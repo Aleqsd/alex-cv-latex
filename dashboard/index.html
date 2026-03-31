@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Search Dashboard</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/dashboard/styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="shell">
+      <nav class="topnav">
+        <a class="brand" href="/dashboard/">Job Search OS</a>
+        <div class="navlinks">
+          <a class="active" href="/dashboard/">Overview</a>
+          <a href="/dashboard/offers.html">Offers</a>
+          <a href="/dashboard/pipeline.html">Pipeline</a>
+          <a href="/dashboard/profile.html">Profile</a>
+        </div>
+      </nav>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Private Local Dashboard</p>
+          <h1>Job search, tailored like a product pipeline.</h1>
+          <p class="lede">
+            Local-only control room for offer intake, fit scoring, CV tailoring,
+            application prep, and pipeline tracking.
+          </p>
+        </div>
+        <div class="hero-panel">
+          <p class="panel-label">Current Focus</p>
+          <div class="focus-row">
+            <span class="focus-title" id="focus-role">Senior Software Engineer</span>
+            <span class="badge" id="focus-mode">Scale-up</span>
+          </div>
+          <p class="focus-meta" id="focus-meta">3 tailored assets pending review</p>
+          <div class="progress-track">
+            <div class="progress-fill" id="focus-progress"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="score-grid" id="score-grid"></section>
+
+      <section class="panel-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Operating Signals</p>
+            <h2>System health and queue pressure</h2>
+          </div>
+          <p class="section-note">These numbers are meant to answer what needs attention before opening any detailed page.</p>
+        </div>
+        <div class="score-grid compact-grid" id="ops-grid"></div>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Pipeline</p>
+            <h2>Active job flow</h2>
+          </div>
+          <p class="section-note">Prioritize what deserves tailoring, not just what exists.</p>
+        </div>
+        <div class="pipeline" id="pipeline"></div>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Top Matches</p>
+              <h2>Best current opportunities</h2>
+            </div>
+            <a class="text-link" href="/dashboard/offers.html">View all offers</a>
+          </div>
+          <div class="opportunity-list" id="opportunity-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Application Pack</p>
+              <h2>Asset readiness</h2>
+            </div>
+            <a class="text-link" href="/dashboard/pipeline.html">Open pipeline</a>
+          </div>
+          <div class="asset-list" id="asset-list"></div>
+        </article>
+      </section>
+
+      <section class="split-layout lower">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Strategic Notes</p>
+              <h2>Decision layer</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="decision-cards"></div>
+        </article>
+
+        <article class="panel emphasis">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Source Ranking</p>
+              <h2>Best current job feeds</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="source-ranking"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="/dashboard/app.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+version: 1
+achievements:
+  - id: sony_games_scale
+    label: Retro games covered by automated testing
+    value: "5000+"
+    themes:
+      - ci_cd
+      - test_automation
+      - scale
+  - id: sony_classics_release
+    label: PlayStation Classics supported
+    value: "50+"
+    themes:
+      - release_engineering
+      - product_delivery
+  - id: sony_engineering_users
+    label: Engineers using Sony pipelines
+    value: "15+"
+    themes:
+      - ci_cd
+      - developer_tooling
+  - id: sony_qa_scope
+    label: QA testers supported
+    value: "60+"
+    themes:
+      - qa_enablement
+      - release_engineering
+  - id: jam_users
+    label: Jam.gg users
+    value: "2M"
+    themes:
+      - scale
+      - product_delivery
+  - id: jam_mau
+    label: Jam.gg monthly active users
+    value: "500K"
+    themes:
+      - scale
+      - product_delivery
+  - id: jam_series_a
+    label: Jam.gg Series A
+    value: "$12M"
+    themes:
+      - startup
+      - founding

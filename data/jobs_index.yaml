@@ -1,0 +1,484 @@
+version: 1
+jobs:
+- id: gitlab-senior-backend-engineer-analytics-instrumentation-golang-8451512002
+  company_name: GitLab
+  job_title: Senior Backend Engineer, Analytics Instrumentation (Golang)
+  normalized_role_family: backend_engineer
+  status: archived
+  fit_score_final: 35
+  path: jobs/gitlab-senior-backend-engineer-analytics-instrumentation-golang-8451512002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: gitlab-senior-backend-engineer-ruby-on-rails-plan-knowledge-8455304002
+  company_name: GitLab
+  job_title: 'Senior Backend Engineer (Ruby on Rails), Plan: Knowledge'
+  normalized_role_family: backend_engineer
+  status: archived
+  fit_score_final: 35
+  path: jobs/gitlab-senior-backend-engineer-ruby-on-rails-plan-knowledge-8455304002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: gitlab-staff-backend-engineer-software-supply-chain-security-secrets-management-8432235002
+  company_name: GitLab
+  job_title: 'Staff Backend Engineer, Software Supply Chain Security: Secrets Management'
+  normalized_role_family: backend_engineer
+  status: archived
+  fit_score_final: 68
+  path: jobs/gitlab-staff-backend-engineer-software-supply-chain-security-secrets-management-8432235002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: gitlab-intermediate-backend-engineer-verify-runner-core-8343309002
+  company_name: GitLab
+  job_title: 'Intermediate Backend Engineer, Verify: Runner Core'
+  normalized_role_family: backend_engineer
+  status: archived
+  fit_score_final: 35
+  path: jobs/gitlab-intermediate-backend-engineer-verify-runner-core-8343309002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: gitlab-intermediate-backend-go-engineer-gitlab-delivery-operate-8323706002
+  company_name: GitLab
+  job_title: Intermediate Backend (Go) Engineer, Gitlab Delivery -Operate
+  normalized_role_family: platform_devops_engineer
+  status: archived
+  fit_score_final: 35
+  path: jobs/gitlab-intermediate-backend-go-engineer-gitlab-delivery-operate-8323706002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: gitlab-intermediate-site-reliability-engineer-environment-automation-8242652002
+  company_name: GitLab
+  job_title: Intermediate Site Reliability Engineer, Environment Automation
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 97
+  path: jobs/gitlab-intermediate-site-reliability-engineer-environment-automation-8242652002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: mixmax-senior-software-engineer-platform-8400009002
+  company_name: Mixmax
+  job_title: Senior Software Engineer (Platform)
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 89
+  path: jobs/mixmax-senior-software-engineer-platform-8400009002
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-senior-backend-engineer-elixir-7662462003
+  company_name: Remote
+  job_title: Senior Backend Engineer - Elixir
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/remote-senior-backend-engineer-elixir-7662462003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-senior-backend-developer-7660515003
+  company_name: Remote
+  job_title: Senior Backend Developer
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/remote-senior-backend-developer-7660515003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-6529610003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-engineering-team-leader-6529610003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-senior-frontend-engineer-7579312003
+  company_name: Remote
+  job_title: Senior Frontend Engineer
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-senior-frontend-engineer-7579312003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571481003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-7571481003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571482003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-engineering-team-leader-7571482003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571483003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-engineering-team-leader-7571483003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571484003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-7571484003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571485003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-7571485003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7571486003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-7571486003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-6553896003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-engineering-team-leader-6553896003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7491226003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-7491226003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-6553903003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 71
+  path: jobs/remote-engineering-team-leader-6553903003
+  updated_at: '2026-03-15T20:59:59+00:00'
+- id: remote-engineering-team-leader-7491227003
+  company_name: Remote
+  job_title: Engineering Team Leader
+  normalized_role_family: software_engineer
+  status: archived
+  fit_score_final: 82
+  path: jobs/remote-engineering-team-leader-7491227003
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-mimir-oss-united-kingdom-remote-5783164004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer | Mimir OSS | United Kingdom | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-mimir-oss-united-kingdom-remote-5783164004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-mimir-oss-sweden-remote-5783162004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer | Mimir OSS | Sweden | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 86
+  path: jobs/grafana-labs-senior-backend-engineer-mimir-oss-sweden-remote-5783162004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-mimir-oss-spain-remote-5783159004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer | Mimir OSS | Spain | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-mimir-oss-spain-remote-5783159004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-mimir-oss-germany-remote-5783167004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer | Mimir OSS | Germany | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-mimir-oss-germany-remote-5783167004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-backend-software-engineer-mimir-ingest-sweden-remote-5799037004
+  company_name: Grafana Labs
+  job_title: Backend Software Engineer - Mimir Ingest | Sweden | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 89
+  path: jobs/grafana-labs-backend-software-engineer-mimir-ingest-sweden-remote-5799037004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-backend-software-engineer-mimir-ingest-uk-remote-5799038004
+  company_name: Grafana Labs
+  job_title: Backend Software Engineer - Mimir Ingest | UK | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/grafana-labs-backend-software-engineer-mimir-ingest-uk-remote-5799038004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-backend-software-engineer-mimir-ingest-spain-remote-5799036004
+  company_name: Grafana Labs
+  job_title: Backend Software Engineer - Mimir Ingest | Spain | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/grafana-labs-backend-software-engineer-mimir-ingest-spain-remote-5799036004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-backend-software-engineer-mimir-ingest-germany-remote-5799039004
+  company_name: Grafana Labs
+  job_title: Backend Software Engineer - Mimir Ingest | Germany | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/grafana-labs-backend-software-engineer-mimir-ingest-germany-remote-5799039004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-synthetic-monitoring-spain-remote-5693690004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Synthetic Monitoring | Spain | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-synthetic-monitoring-spain-remote-5693690004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-synthetic-monitoring-sweden-remote-5693691004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Synthetic Monitoring | Sweden | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 86
+  path: jobs/grafana-labs-senior-backend-engineer-synthetic-monitoring-sweden-remote-5693691004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-synthetic-monitoring-uk-remote-5785653004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Synthetic Monitoring | UK | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-synthetic-monitoring-uk-remote-5785653004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-synthetic-monitoring-germany-remote-5785663004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Synthetic Monitoring | Germany | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-synthetic-monitoring-germany-remote-5785663004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-usa-est-only-remote-5811262004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | USA - EST only | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-usa-est-only-remote-5811262004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-united-kingdom-remote-5809260004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | United Kingdom | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-united-kingdom-remote-5809260004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-sweden-remote-5809259004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | Sweden | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 77
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-sweden-remote-5809259004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-spain-remote-5809258004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | Spain | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-spain-remote-5809258004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-germany-remote-5809261004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | Germany | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-germany-remote-5809261004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-canada-remote-5811265004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+    | Canada | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-canada-remote-5811265004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-software-engineer-platform-infrasec-usa-remote-5819644004
+  company_name: Grafana Labs
+  job_title: Software Engineer - Platform InfraSec | USA | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 96
+  path: jobs/grafana-labs-software-engineer-platform-infrasec-usa-remote-5819644004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-software-engineer-platform-infrasec-canada-remote-5819646004
+  company_name: Grafana Labs
+  job_title: Software Engineer - Platform InfraSec | Canada | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 96
+  path: jobs/grafana-labs-software-engineer-platform-infrasec-canada-remote-5819646004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-grafana-app-platform-canada-remote-5711140004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Grafana App Platform | Canada | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-grafana-app-platform-canada-remote-5711140004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-senior-backend-engineer-grafana-app-platform-us-est-remote-5711137004
+  company_name: Grafana Labs
+  job_title: Senior Backend Engineer - Grafana App Platform | US (EST) | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 98
+  path: jobs/grafana-labs-senior-backend-engineer-grafana-app-platform-us-est-remote-5711137004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-software-engineer-platform-infracore-usa-remote-5809023004
+  company_name: Grafana Labs
+  job_title: Software Engineer - Platform InfraCore | USA | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 96
+  path: jobs/grafana-labs-software-engineer-platform-infracore-usa-remote-5809023004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-software-engineer-platform-infracore-usa-remote-5809025004
+  company_name: Grafana Labs
+  job_title: Software Engineer - Platform InfraCore | USA | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 96
+  path: jobs/grafana-labs-software-engineer-platform-infracore-usa-remote-5809025004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-backend-engineer-databases-pyroscope-canada-remote-5807088004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Databases Pyroscope | Canada | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-databases-pyroscope-canada-remote-5807088004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-backend-engineer-databases-pyroscope-us-remote-5807096004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Databases Pyroscope | US | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-databases-pyroscope-us-remote-5807096004
+  updated_at: '2026-03-15T21:00:00+00:00'
+- id: grafana-labs-staff-backend-engineer-adaptive-telemetry-germany-remote-5801256004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Adaptive Telemetry | Germany | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-adaptive-telemetry-germany-remote-5801256004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-backend-engineer-adaptive-telemetry-spain-remote-5801259004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Adaptive Telemetry | Spain | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-adaptive-telemetry-spain-remote-5801259004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-backend-engineer-adaptive-telemetry-sweden-remote-5801260004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Adaptive Telemetry | Sweden | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 68
+  path: jobs/grafana-labs-staff-backend-engineer-adaptive-telemetry-sweden-remote-5801260004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-backend-engineer-adaptive-telemetry-uk-remote-5801257004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer - Adaptive Telemetry | UK | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-adaptive-telemetry-uk-remote-5801257004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-databases-managed-services-canada-remote-5802016004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Databases, Managed Services | Canada
+    | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-databases-managed-services-canada-remote-5802016004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-databases-managed-services-usa-remote-5802014004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Databases, Managed Services | USA |
+    Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 88
+  path: jobs/grafana-labs-staff-software-engineer-grafana-databases-managed-services-usa-remote-5802014004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-k6-canada-remote-5800230004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud k6 | Canada | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 82
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-k6-canada-remote-5800230004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-software-engineer-grafana-cloud-k6-usa-remote-5800213004
+  company_name: Grafana Labs
+  job_title: Staff Software Engineer - Grafana Cloud k6 | USA | Remote
+  normalized_role_family: platform_devops_engineer
+  status: discovered
+  fit_score_final: 82
+  path: jobs/grafana-labs-staff-software-engineer-grafana-cloud-k6-usa-remote-5800213004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-backend-engineer-observability-knowledge-graph-backend-canada-remote-5778253004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer -  Observability Knowledge Graph Backend | Canada
+    | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-observability-knowledge-graph-backend-canada-remote-5778253004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-staff-backend-engineer-observability-knowledge-graph-backend-usa-remote-5778252004
+  company_name: Grafana Labs
+  job_title: Staff Backend Engineer -  Observability Knowledge Graph Backend | USA
+    | Remote
+  normalized_role_family: backend_engineer
+  status: discovered
+  fit_score_final: 81
+  path: jobs/grafana-labs-staff-backend-engineer-observability-knowledge-graph-backend-usa-remote-5778252004
+  updated_at: '2026-03-15T21:00:01+00:00'
+- id: grafana-labs-senior-software-engineer-grafana-k6-germany-remote-5764241004
+  company_name: Grafana Labs
+  job_title: Senior Software Engineer - Grafana k6 | Germany | Remote
+  normalized_role_family: software_engineer
+  status: ready_to_apply
+  fit_score_final: 100
+  path: jobs/grafana-labs-senior-software-engineer-grafana-k6-germany-remote-5764241004
+  updated_at: '2026-03-17T16:12:05+00:00'
+- id: grafana-labs-senior-software-engineer-grafana-k6-spain-remote-5764239004
+  company_name: Grafana Labs
+  job_title: Senior Software Engineer - Grafana k6 | Spain | Remote
+  normalized_role_family: software_engineer
+  status: discovered
+  fit_score_final: 100
+  path: jobs/grafana-labs-senior-software-engineer-grafana-k6-spain-remote-5764239004
+  updated_at: '2026-03-15T21:00:01+00:00'

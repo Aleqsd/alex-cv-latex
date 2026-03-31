@@ -1,0 +1,10 @@
+version: 1
+prompt_families:
+  - id: offer_parsing
+    purpose: Normalize a job offer into canonical repository fields.
+  - id: scoring
+    purpose: Score an offer against profile truth and generate a fit report.
+  - id: cv_tailoring
+    purpose: Tailor a role-family CV variant to one offer without inventing facts.
+  - id: outreach
+    purpose: Generate short recruiter and referral messages.

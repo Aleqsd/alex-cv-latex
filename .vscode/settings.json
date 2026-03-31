@@ -10,14 +10,26 @@
         "-synctex=1",
         "-interaction=nonstopmode",
         "-file-line-error",
+        "-output-directory=../build/main",
         "-jobname=CV_Alexandre_DO_O_ALMEIDA_2025",
         "%DOCFILE%"
       ]
     },
-    { "name": "pdf_to_png", "command": "python", "args": ["pdf_to_png.py"] }
+    {
+      "name": "pdf_to_png",
+      "command": "python",
+      "args": [
+        "scripts/pdf_to_png.py",
+        "--input",
+        "build/main/CV_Alexandre_DO_O_ALMEIDA_2025.pdf",
+        "--output",
+        "output/main/CV_Alexandre_DO_O_ALMEIDA_2025.png"
+      ]
+    }
   ],
   "latex-workshop.latex.autoBuild.run": "onSave",
   "latex-workshop.latex.recipe.default": "xelatex + png",
   "latex-workshop.formatting.latex": "latexindent",
-  "latex-workshop.formatting.latexindent.path": "latexindent"
+  "latex-workshop.formatting.latexindent.path": "latexindent",
+  "latex-workshop.latex.rootFile.useSubFile": false
 }

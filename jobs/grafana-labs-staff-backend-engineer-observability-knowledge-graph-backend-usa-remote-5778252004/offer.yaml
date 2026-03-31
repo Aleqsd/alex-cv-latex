@@ -1,0 +1,483 @@
+id: grafana-labs-staff-backend-engineer-observability-knowledge-graph-backend-usa-remote-5778252004
+company_name: Grafana Labs
+job_title: Staff Backend Engineer -  Observability Knowledge Graph Backend | USA |
+  Remote
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: grafana_greenhouse
+external_job_id: '5778252004'
+source_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5778252004
+source_date: '2026-03-15T20:59:49+00:00'
+posted_at: '2026-03-04T11:19:55-05:00'
+last_seen_at: '2026-03-15T20:59:49+00:00'
+location: United States (Remote)
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5778252004
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a full-time remote\
+  \ position, and we&#39;re seeking candidates in the US or Canada.&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;h4&gt;The Opportunity&lt;/h4&gt; &lt;p&gt;The Grafana Observability (O11y)\
+  \ group builds end-to-end observability solutions that span &lt;strong&gt;Application&lt;/strong&gt;,\
+  \ &lt;strong&gt;Infrastructure&lt;/strong&gt;, &lt;strong&gt;Database&lt;/strong&gt;,\
+  \ &lt;strong&gt;Browser&lt;/strong&gt; and &lt;strong&gt;Mobile&lt;/strong&gt; observability.\
+  \ At the core of this experience is the &lt;strong&gt;Grafana Knowledge Graph&lt;/strong&gt;\u2014\
+  the platform that powers true full-stack observability across Grafana Cloud.&lt;/p&gt;\
+  \ &lt;p&gt;The &lt;strong&gt;Knowledge Graph&lt;/strong&gt; is a suite of distributed,\
+  \ multi-tenant microservices that connects signals across the stack and delivers\
+  \ automated Root Cause Insights by actively analyzing Metrics, Traces, and Logs\
+  \ stored in Grafana Cloud. These services process and store data across SQL, graph,\
+  \ and time-series databases and are designed for high availability and scale.&lt;/p&gt;\
+  \ &lt;p&gt;Used by thousands of self-service customers and trusted by some of the\
+  \ world\u2019s largest organizations to monitor mission-critical infrastructure,\
+  \ the Knowledge Graph is a foundational platform at Grafana. As adoption continues\
+  \ to grow, our focus is on continuously improving performance, increasing reliability,\
+  \ and scaling efficiently\u2014without compromising on quality.&lt;/p&gt; &lt;p&gt;At\
+  \ Grafana, we value collective creativity and diverse perspectives. Every team member\
+  \ is encouraged to bring ideas forward and help shape a platform that our users\
+  \ depend on every day.&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What will you be doing?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Work with your team to build and roll out new features, then\
+  \ use the results to iterate and improve.&lt;/li&gt; &lt;li&gt;Drive projects from\
+  \ initial ideation all the way to operations once it is in the hands of customers.&lt;/li&gt;\
+  \ &lt;li&gt;Take on complex challenges and break them down to achieve short feedback\
+  \ loops: to analyze, design, and build modular solutions, deliver MVPs, gather data\
+  \ and feedback, and then progress iteratively&lt;/li&gt; &lt;li&gt;Maintain critical\
+  \ systems, and own their reliability, performance, and availability.&lt;/li&gt;\
+  \ &lt;li&gt;Be a part of your team\u2019s on-call rotations and take ownership of\
+  \ the services you\u2019re running.&lt;/li&gt; &lt;li&gt;Mentor and support other\
+  \ team members, participate in design discussions, and collaborate with the team&lt;/li&gt;\
+  \ &lt;li&gt;Learn new skills by gaining a deeper understanding of our cloud product\
+  \ and our customers and getting to know the codebase.&lt;/li&gt; &lt;li&gt;Take\
+  \ an active role in influencing our roadmap and your own career objectives&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit?&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You are a motivated self starter with a bias towards action.&lt;/li&gt;\
+  \ &lt;li&gt;You have strong coding skills and operational experience; you were responsible\
+  \ for operating the software you have built.&amp;nbsp;&lt;/li&gt; &lt;li&gt;You\
+  \ have worked on a SaaS platform and dealt with common distributed systems problems\
+  \ (e.g. scalability, multi-tenancy, data isolation, HA, \u2026)&lt;/li&gt; &lt;li&gt;You\
+  \ have excellent written and spoken communication skills. You\u2019ll be working\
+  \ with your team mates in a fully remote setup. Good communication skills are a\
+  \ must.&lt;/li&gt; &lt;li&gt;You are willing to work across teams. Your work has\
+  \ to be aligned with the needs of other squads and external stakeholders. You make\
+  \ your plans transparent, bring stakeholders on board, and are open to feedback\
+  \ and suggestions.&lt;/li&gt; &lt;li&gt;You are pragmatic; you prioritize progress\
+  \ over perfection; you can handle ambiguity.&lt;/li&gt; &lt;li&gt;We use Java on\
+  \ the backend and deploy on AWS/Azure/GCP Clouds using Kubernetes. You must have\
+  \ programming experience in Java and experience with Kubernetes and any one of the\
+  \ cloud platforms.&lt;/li&gt; &lt;li&gt;You are customer focused. We build everything\
+  \ with our users in mind.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In the United States, the Base compensation range for this role is USD\
+  \ 174,986&lt;span data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;- USD\
+  \ 209,983. Actual compensation may vary based on level, experience, and skillset\
+  \ as assessed in the interview process. Benefits include equity, bonus (if applicable)\
+  \ and other benefits listed&amp;nbsp;&lt;a href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+  \ &lt;p&gt;All of our roles include Restricted Stock Units (RSUs), giving every\
+  \ team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014\
+  RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges\
+  \ are country specific. If you are applying for this role from a different location\
+  \ than listed above, your recruiter will discuss your specific market\u2019s defined\
+  \ pay range &amp;amp; benefits at the beginning of the process&lt;/em&gt;&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a full-time remote\
+  \ position, and we&#39;re seeking candidates in the US or Canada.&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;h4&gt;The Opportunity&lt;/h4&gt; &lt;p&gt;The Grafana Observability (O11y)\
+  \ group builds end-to-end observability solutions that span &lt;strong&gt;Application&lt;/strong&gt;,\
+  \ &lt;strong&gt;Infrastructure&lt;/strong&gt;, &lt;strong&gt;Database&lt;/strong&gt;,\
+  \ &lt;strong&gt;Browser&lt;/strong&gt; and &lt;strong&gt;Mobile&lt;/strong&gt; observability.\
+  \ At the core of this experience is the &lt;strong&gt;Grafana Knowledge Graph&lt;/strong&gt;\u2014\
+  the platform that powers true full-stack observability across Grafana Cloud.&lt;/p&gt;\
+  \ &lt;p&gt;The &lt;strong&gt;Knowledge Graph&lt;/strong&gt; is a suite of distributed,\
+  \ multi-tenant microservices that connects signals across the stack and delivers\
+  \ automated Root Cause Insights by actively analyzing Metrics, Traces, and Logs\
+  \ stored in Grafana Cloud. These services process and store data across SQL, graph,\
+  \ and time-series databases and are designed for high availability and scale.&lt;/p&gt;\
+  \ &lt;p&gt;Used by thousands of self-service customers and trusted by some of the\
+  \ world\u2019s largest organizations to monitor mission-critical infrastructure,\
+  \ the Knowledge Graph is a foundational platform at Grafana. As adoption continues\
+  \ to grow, our focus is on continuously improving performance, increasing reliability,\
+  \ and scaling efficiently\u2014without compromising on quality.&lt;/p&gt; &lt;p&gt;At\
+  \ Grafana, we value collective creativity and diverse perspectives. Every team member\
+  \ is encouraged to bring ideas forward and help shape a platform that our users\
+  \ depend on every day.&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What will you be doing?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Work with your team to build and roll out new features, then\
+  \ use the results to iterate and improve.&lt;/li&gt; &lt;li&gt;Drive projects from\
+  \ initial ideation all the way to operations once it is in the hands of customers.&lt;/li&gt;\
+  \ &lt;li&gt;Take on complex challenges and break them down to achieve short feedback\
+  \ loops: to analyze, design, and build modular solutions, deliver MVPs, gather data\
+  \ and feedback, and then progress iteratively&lt;/li&gt; &lt;li&gt;Maintain critical\
+  \ systems, and own their reliability, performance, and availability.&lt;/li&gt;\
+  \ &lt;li&gt;Be a part of your team\u2019s on-call rotations and take ownership of\
+  \ the services you\u2019re running.&lt;/li&gt; &lt;li&gt;Mentor and support other\
+  \ team members, participate in design discussions, and collaborate with the team&lt;/li&gt;\
+  \ &lt;li&gt;Learn new skills by gaining a deeper understanding of our cloud product\
+  \ and our customers and getting to know the codebase.&lt;/li&gt; &lt;li&gt;Take\
+  \ an active role in influencing our roadmap and your own career objectives&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit?&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You are a motivated self starter with a bias towards action.&lt;/li&gt;\
+  \ &lt;li&gt;You have strong coding skills and operational experience; you were responsible\
+  \ for operating the software you have built.&amp;nbsp;&lt;/li&gt; &lt;li&gt;You\
+  \ have worked on a SaaS platform and dealt with common distributed systems problems\
+  \ (e.g. scalability, multi-tenancy, data isolation, HA, \u2026)&lt;/li&gt; &lt;li&gt;You\
+  \ have excellent written and spoken communication skills. You\u2019ll be working\
+  \ with your team mates in a fully remote setup. Good communication skills are a\
+  \ must.&lt;/li&gt; &lt;li&gt;You are willing to work across teams. Your work has\
+  \ to be aligned with the needs of other squads and external stakeholders. You make\
+  \ your plans transparent, bring stakeholders on board, and are open to feedback\
+  \ and suggestions.&lt;/li&gt; &lt;li&gt;You are pragmatic; you prioritize progress\
+  \ over perfection; you can handle ambiguity.&lt;/li&gt; &lt;li&gt;We use Java on\
+  \ the backend and deploy on AWS/Azure/GCP Clouds using Kubernetes. You must have\
+  \ programming experience in Java and experience with Kubernetes and any one of the\
+  \ cloud platforms.&lt;/li&gt; &lt;li&gt;You are customer focused. We build everything\
+  \ with our users in mind.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In the United States, the Base compensation range for this role is USD\
+  \ 174,986&lt;span data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;- USD\
+  \ 209,983. Actual compensation may vary based on level, experience, and skillset\
+  \ as assessed in the interview process. Benefits include equity, bonus (if applicable)\
+  \ and other benefits listed&amp;nbsp;&lt;a href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+  \ &lt;p&gt;All of our roles include Restricted Stock Units (RSUs), giving every\
+  \ team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014\
+  RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges\
+  \ are country specific. If you are applying for this role from a different location\
+  \ than listed above, your recruiter will discuss your specific market\u2019s defined\
+  \ pay range &amp;amp; benefits at the beginning of the process&lt;/em&gt;&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+keywords_required:
+- aws
+- azure
+- full-stack
+- gcp
+- go
+- java
+- kubernetes
+- rag
+- reliability
+- rust
+- sql
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: staff
+fit_score_ats: 98
+fit_score_human: 77
+fit_score_strategic: 88
+fit_score_final: 81
+fit_recommendation: maybe
+fit_summary: Grafana Labs scores 81 with recommendation maybe for role family Backend
+  Engineer.
+risks:
+- Offer may require broader staff-level organizational influence.
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with aws, azure, full-stack, gcp, go.
+- 'Role family aligns with preferred target: Backend Engineer.'
+- 'Remote fit is acceptable under current constraints: Remote (United States).'
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:59:49+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source grafana_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 2
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 8
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 11
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - United States
+  label: Remote (United States)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote united states (remote) staff backend engineer -  observability knowledge\
+    \ graph backend | usa | remote &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;grafana\
+    \ labs is a remote-first, open-source powerhouse. there are more than 20m users\
+    \ of grafana, the open source visualization tool, around the globe, monitoring\
+    \ everything from beehives to climate change in the alps. the instantly recognizable\
+    \ dashboards have been spotted everywhere from a nasa launch and minecraft hq\
+    \ to wimbledon and the tour de france. grafana labs also helps more than 3,000\
+    \ companies -- including bloomberg, jpmorgan chase, and ebay -- manage their observability\
+    \ strategies with the grafana lgtm stack, which can be run fully managed with\
+    \ &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;grafana cloud&lt;/a&gt;\
+    \ or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;grafana\
+    \ enterprise stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;grafana\
+    \ mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;grafana\
+    \ loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;grafana\
+    \ tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying true\
+    \ to what makes us different: an open-source legacy, a global collaborative culture,\
+    \ and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;this\
+    \ is a full-time remote position, and we&#39;re seeking candidates in the us or\
+    \ canada.&lt;/strong&gt;&lt;/p&gt; &lt;h4&gt;the opportunity&lt;/h4&gt; &lt;p&gt;the\
+    \ grafana observability (o11y) group builds end-to-end observability solutions\
+    \ that span &lt;strong&gt;application&lt;/strong&gt;, &lt;strong&gt;infrastructure&lt;/strong&gt;,\
+    \ &lt;strong&gt;database&lt;/strong&gt;, &lt;strong&gt;browser&lt;/strong&gt;\
+    \ and &lt;strong&gt;mobile&lt;/strong&gt; observability. at the core of this experience\
+    \ is the &lt;strong&gt;grafana knowledge graph&lt;/strong&gt;\u2014the platform\
+    \ that powers true full-stack observability across grafana cloud.&lt;/p&gt; &lt;p&gt;the\
+    \ &lt;strong&gt;knowledge graph&lt;/strong&gt; is a suite of distributed, multi-tenant\
+    \ microservices that connects signals across the stack and delivers automated\
+    \ root cause insights by actively analyzing metrics, traces, and logs stored in\
+    \ grafana cloud. these services process and store data across sql, graph, and\
+    \ time-series databases and are designed for high availability and scale.&lt;/p&gt;\
+    \ &lt;p&gt;used by thousands of self-service customers and trusted by some of\
+    \ the world\u2019s largest organizations to monitor mission-critical infrastructure,\
+    \ the knowledge graph is a foundational platform at grafana. as adoption continues\
+    \ to grow, our focus is on continuously improving performance, increasing reliability,\
+    \ and scaling efficiently\u2014without compromising on quality.&lt;/p&gt; &lt;p&gt;at\
+    \ grafana, we value collective creativity and diverse perspectives. every team\
+    \ member is encouraged to bring ideas forward and help shape a platform that our\
+    \ users depend on every day.&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying\
+    \ true to what makes us different: an open-source legacy, a global collaborative\
+    \ culture, and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what will you\
+    \ be doing?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;work with\
+    \ your team to build and roll out new features, then use the results to iterate\
+    \ and improve.&lt;/li&gt; &lt;li&gt;drive projects from initial ideation all the\
+    \ way to operations once it is in the hands of customers.&lt;/li&gt; &lt;li&gt;take\
+    \ on complex challenges and break them down to achieve short feedback loops: to\
+    \ analyze, design, and build modular solutions, deliver mvps, gather data and\
+    \ feedback, and then progress iteratively&lt;/li&gt; &lt;li&gt;maintain critical\
+    \ systems, and own their reliability, performance, and availability.&lt;/li&gt;\
+    \ &lt;li&gt;be a part of your team\u2019s on-call rotations and take ownership\
+    \ of the services you\u2019re running.&lt;/li&gt; &lt;li&gt;mentor and support\
+    \ other team members, participate in design discussions, and collaborate with\
+    \ the team&lt;/li&gt; &lt;li&gt;learn new skills by gaining a deeper understanding\
+    \ of our cloud product and our customers and getting to know the codebase.&lt;/li&gt;\
+    \ &lt;li&gt;take an active role in influencing our roadmap and your own career\
+    \ objectives&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;what makes you a great\
+    \ fit?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;you are a motivated self\
+    \ starter with a bias towards action.&lt;/li&gt; &lt;li&gt;you have strong coding\
+    \ skills and operational experience; you were responsible for operating the software\
+    \ you have built.&amp;nbsp;&lt;/li&gt; &lt;li&gt;you have worked on a saas platform\
+    \ and dealt with common distributed systems problems (e.g. scalability, multi-tenancy,\
+    \ data isolation, ha, \u2026)&lt;/li&gt; &lt;li&gt;you have excellent written\
+    \ and spoken communication skills. you\u2019ll be working with your team mates\
+    \ in a fully remote setup. good communication skills are a must.&lt;/li&gt; &lt;li&gt;you\
+    \ are willing to work across teams. your work has to be aligned with the needs\
+    \ of other squads and external stakeholders. you make your plans transparent,\
+    \ bring stakeholders on board, and are open to feedback and suggestions.&lt;/li&gt;\
+    \ &lt;li&gt;you are pragmatic; you prioritize progress over perfection; you can\
+    \ handle ambiguity.&lt;/li&gt; &lt;li&gt;we use java on the backend and deploy\
+    \ on aws/azure/gcp clouds using kubernetes. you must have programming experience\
+    \ in java and experience with kubernetes and any one of the cloud platforms.&lt;/li&gt;\
+    \ &lt;li&gt;you are customer focused. we build everything with our users in mind.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&amp;nbsp;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;compensation\
+    \ &amp;amp; rewards:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;in the united states, the\
+    \ base compensation range for this role is usd 174,986&lt;span data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;-\
+    \ usd 209,983. actual compensation may vary based on level, experience, and skillset\
+    \ as assessed in the interview process. benefits include equity, bonus (if applicable)\
+    \ and other benefits listed&amp;nbsp;&lt;a href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+    \ &lt;p&gt;all of our roles include restricted stock units (rsus), giving every\
+    \ team member ownership in grafana labs&#39; success. we believe in shared outcomes\u2014\
+    rsus help us stay aligned and invested as we scale globally.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation ranges\
+    \ are country specific. if you are applying for this role from a different location\
+    \ than listed above, your recruiter will discuss your specific market\u2019s defined\
+    \ pay range &amp;amp; benefits at the beginning of the process&lt;/em&gt;&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation\
+    \ ranges are country specific. if you are applying for this role from a different\
+    \ location than listed above, your recruiter will discuss your specific market\u2019\
+    s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;why you\u2019ll thrive at grafana labs:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100%\
+    \ remote, global culture -&amp;nbsp;&lt;/strong&gt;as a remote-only company, we\
+    \ bring together talent from around the world, united by a culture of collaboration\
+    \ and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;scaling organization&lt;/strong&gt;\
+    \ \u2013 tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;transparent communication&lt;/strong&gt; \u2013 expect\
+    \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;innovation-driven&lt;/strong&gt;\
+    \ \u2013 autonomy and support to ship great work and try new things.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;open source roots&lt;/strong&gt; \u2013 built on community-driven\
+    \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;empowered\
+    \ teams&lt;/strong&gt; \u2013 high trust, low ego culture that values outcomes\
+    \ over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;career growth pathways&lt;/strong&gt;\
+    \ \u2013 defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;approachable\
+    \ leadership&lt;/strong&gt; \u2013 transparent execs who are involved, visible,\
+    \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;passionate people&lt;/strong&gt;\
+    \ \u2013 join a team of smart, supportive folks who care deeply about what they\
+    \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;in-person onboarding &lt;/strong&gt;-\
+    \ we want you to thrive from day 1 with your fellow new \u2018grafanistas\u2019\
+    \ to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;balance\
+    \ is key&lt;/strong&gt; - we operate a global annual leave policy of 30 days per\
+    \ annum. 3 days of your annual leave entitlement are reserved for grafana shutdown\
+    \ days to allow the team to really disconnect. &lt;em&gt;*we will comply with\
+    \ local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;equal\
+    \ opportunity employer:&lt;/strong&gt; we will recruit, train, compensate and\
+    \ promote regardless of race, religion, color, national origin, gender, disability,\
+    \ age, veteran status, and all the other fascinating characteristics that make\
+    \ us different and unique. we believe that equality and diversity builds a strong\
+    \ organization and we\u2019re working hard to make sure that\u2019s the foundation\
+    \ of our organization as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;grafana\
+    \ labs may utilize ai tools in its recruitment process to assist in matching information\
+    \ provided in cvs to job postings. the recruitment team will continue to review\
+    \ inbound cvs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;#li-remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;for information\
+    \ about how your personal data is used once you\u2019ve applied to a job, check\
+    \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T21:00:01+00:00'

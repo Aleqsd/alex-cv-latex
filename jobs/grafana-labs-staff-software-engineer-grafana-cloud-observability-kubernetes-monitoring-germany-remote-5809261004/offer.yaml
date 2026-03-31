@@ -1,0 +1,593 @@
+id: grafana-labs-staff-software-engineer-grafana-cloud-observability-kubernetes-monitoring-germany-remote-5809261004
+company_name: Grafana Labs
+job_title: Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring
+  | Germany | Remote
+normalized_role_family: software_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: grafana_greenhouse
+external_job_id: '5809261004'
+source_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5809261004
+source_date: '2026-03-15T20:59:40+00:00'
+posted_at: '2026-03-09T11:36:05-04:00'
+last_seen_at: '2026-03-15T20:59:40+00:00'
+location: Germany (Remote)
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5809261004
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity\
+  \ and we would be interested in applicants based in Spain, Germany, the UK or Sweden\
+  \ at this time.&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;Staff Software Engineer - Grafana\
+  \ Cloud Observability, Kubernetes Monitoring&lt;/h2&gt; &lt;h4&gt;&lt;strong&gt;The\
+  \ Opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Grafana Cloud is our\
+  \ composable observability platform that integrates metrics, logs, and traces with\
+  \ Grafana. It allows our customers to leverage the best open source observability\
+  \ software \u2013 including Prometheus, Mimir, Loki, and Tempo \u2013 without the\
+  \ overhead of installing, maintaining and scaling their own observability stack&lt;/p&gt;\
+  \ &lt;p&gt;The Observability department is focused on enabling developers to understand\
+  \ the health and performance of their applications and infrastructure in any environment\
+  \ by providing tools to instrument their code, ingest observability data into Grafana\
+  \ Cloud and visualize and explore it.&lt;/p&gt; &lt;p&gt;In this role, you will\
+  \ be part of the team that builds our Cloud Observability stack that allows customers\
+  \ to collect and visualize metrics from various systems and applications. We build\
+  \ and maintain the backend of opinionated applications such as Cloud Provider Observability,\
+  \ Database Observability, and Kubernetes Monitoring. This includes the dashboards,\
+  \ alerts, documentation, and infrastructure while working closely with other teams\
+  \ to ensure seamless experiences. We also strive to incorporate OSS contributions\
+  \ in our work by contributing to projects such as Alloy, Prometheus, OpenTelemetry,\
+  \ and Beyla. The Observability department provides a core building block for customers\
+  \ using Grafana Cloud.&lt;/p&gt; &lt;p&gt;As a company we are remote-first and global,\
+  \ we embrace people of different experiences and backgrounds to build diverse teams\
+  \ where every person brings a unique perspective to the software. We are looking\
+  \ for Engineers that are passionate about communicating with data and providing\
+  \ seamless experiences for our customers to join our growing team! Engineers at\
+  \ Grafana also have the opportunity to contribute to Open Source communities.&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What You\u2019ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At\
+  \ Grafana Labs, our engineers have a dedicated career path and do not have to become\
+  \ managers to progress in their career. Staff Software Engineers at Grafana have\
+  \ a large amount of experience across multiple areas. They are able to estimate,\
+  \ plan, coordinate and deliver large tasks spanning multiple systems. They actively\
+  \ coach and mentor other team members in their team and are able to identify and\
+  \ resolve issues with technology and product processes.&lt;/p&gt; &lt;p&gt;You will\
+  \ bring your passion for observability and software engineering expertise to help\
+  \ us take our infrastructure monitoring capabilities within Grafana Cloud to the\
+  \ next level. This will include working with our Kubernetes monitoring solution.&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Design and implement high-quality, scalable integrations\
+  \ for various infrastructure components, applications, and data ingestion pipelines&amp;nbsp;&lt;/li&gt;\
+  \ &lt;li&gt;Create middleware components and libraries that simplify development\
+  \ and maintenance of observability solutions&lt;/li&gt; &lt;li&gt;When necessary,\
+  \ represent Grafana Labs in open source forums, working groups, and events&lt;/li&gt;\
+  \ &lt;li&gt;Work with product teams, in addition to design and docs, to develop\
+  \ features that align with wider product strategy and customer needs&lt;/li&gt;\
+  \ &lt;li&gt;Lead the technical direction and vision of the team, contributing to\
+  \ strategic discussions and future development of observability solutions&lt;/li&gt;\
+  \ &lt;li&gt;Work with other departments including Sales, Product, and Support teams\
+  \ to deliver a holistic product experience&lt;/li&gt; &lt;li&gt;Take ownership of\
+  \ the services you\u2019re running by deploying well tested clean code&lt;/li&gt;\
+  \ &lt;li&gt;Embrace our open-source culture and contribute to other projects that\
+  \ may not directly fall within your team\u2019s scope&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;As\
+  \ we are remote-first and our engineering organization is entirely remote, we provide\
+  \ guidance and meet regularly using video calls, so an independent attitude, good\
+  \ communication skills, and transparency are a must.&lt;/p&gt; &lt;p&gt;We invest\
+  \ heavily in developer productivity. You can use modern AI coding assistants as\
+  \ part of your daily workflow (your choice of tools, within security guidelines),\
+  \ backed by a company-funded usage budget so you can iterate quickly without unnecessary\
+  \ friction.&amp;nbsp;We encourage pragmatic AI-assisted development: faster prototyping,\
+  \ test generation, refactors, documentation, and incident follow-ups\u2014always\
+  \ paired with strong code review and quality standards.&amp;nbsp;You\u2019ll also\
+  \ have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3\
+  \ Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You have a passion for observability and like to share your\
+  \ knowledge by writing documentation and blog posts.&lt;/li&gt; &lt;li&gt;You love\
+  \ to engage with customers and help them out.&lt;/li&gt; &lt;li&gt;You have excellent\
+  \ communication skills.&lt;/li&gt; &lt;li&gt;You have relevant open source experience,\
+  \ ideally in the observability domain.&lt;/li&gt; &lt;li&gt;You are willing to become\
+  \ an active member of the OpenTelemetry and Prometheus communities.&lt;/li&gt; &lt;li&gt;You\u2019\
+  re curious and you enjoy learning new programming languages and frameworks, setting\
+  \ up examples, and figuring out how things work.&lt;/li&gt; &lt;li&gt;You have a\
+  \ good understanding of typical production environments. Ideally you have been responsible\
+  \ for operating production services and organizing on-call.&lt;/li&gt; &lt;li&gt;You\
+  \ actively mentor other team members, identifying areas for focus and improvement.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;Strong 8+ years of experience with at least one programming language\
+  \ - any major language (Python, .NET, Java, Go, Rust, etc) is acceptable&lt;/li&gt;\
+  \ &lt;li&gt;Demonstrated working experience in operating high-scale production systems\
+  \ running on Kubernetes and monitoring it, including on-call participation, incident\
+  \ response, and postmortem practices&lt;/li&gt; &lt;li&gt;Familiarity with observability\
+  \ tooling (e.g. Grafana)&lt;/li&gt; &lt;li&gt;Strong understanding of time-series\
+  \ data, metrics cardinality challenges, and cost/performance tradeoffs/optimizations\
+  \ in observability systems&lt;/li&gt; &lt;li&gt;Experience in a hands-on technical\
+  \ leadership role - setting technical direction, leading project teams, and influencing\
+  \ architectural decisions beyond your immediate team&lt;/li&gt; &lt;li&gt;Deep understanding\
+  \ of distributed systems concepts including scalability, consistency, high availability,\
+  \ and failure modes in large-scale systems&lt;/li&gt; &lt;li&gt;Experience writing\
+  \ clean, maintainable, robust, and performant software&lt;/li&gt; &lt;li&gt;Experience\
+  \ with delivering projects from start to finish in a self-driven manner&lt;/li&gt;\
+  \ &lt;li&gt;Excellent problem-solving and debugging skills&lt;/li&gt; &lt;li&gt;Strong\
+  \ mentoring and leadership skills&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus\
+  \ Points For:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience operating\
+  \ or scaling Prometheus in high-cardinality, multi-tenant environments&lt;/li&gt;\
+  \ &lt;li&gt;Experience working with OpenTelemetry Collector pipelines or similar\
+  \ telemetry ingestion systems&lt;/li&gt; &lt;li&gt;Certified Kubernetes Administrator\
+  \ (CKA)/ Certified Kubernetes Application Developer (CKAD) or any other Kubernetes\
+  \ related certification from CNCF&lt;/li&gt; &lt;li&gt;Experience developing Kubernetes\
+  \ operators, controllers, or custom resources&lt;/li&gt; &lt;li&gt;Strong understanding\
+  \ of metrics collection, visualization, and alerting concepts&lt;/li&gt; &lt;li&gt;Experience\
+  \ contributing to or maintaining open source projects, with evidence of successful\
+  \ pull requests and community collaboration&lt;/li&gt; &lt;li&gt;Experience designing\
+  \ and building observability backends for various systems and applications&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In Germany, the compensation range for this role is EUR &lt;span data-sheets-root=&quot;1&quot;&gt;109,709&lt;/span&gt;\
+  \ - EUR &lt;span data-sheets-root=&quot;1&quot;&gt;131,651&lt;/span&gt;. Actual\
+  \ compensation may vary based on level, experience, and skillset as assessed throughout\
+  \ the interview process. All of our roles include Restricted Stock Units (RSUs),\
+  \ giving every team member ownership in Grafana Labs&#39; success. We believe in\
+  \ shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity\
+  \ and we would be interested in applicants based in Spain, Germany, the UK or Sweden\
+  \ at this time.&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;Staff Software Engineer - Grafana\
+  \ Cloud Observability, Kubernetes Monitoring&lt;/h2&gt; &lt;h4&gt;&lt;strong&gt;The\
+  \ Opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Grafana Cloud is our\
+  \ composable observability platform that integrates metrics, logs, and traces with\
+  \ Grafana. It allows our customers to leverage the best open source observability\
+  \ software \u2013 including Prometheus, Mimir, Loki, and Tempo \u2013 without the\
+  \ overhead of installing, maintaining and scaling their own observability stack&lt;/p&gt;\
+  \ &lt;p&gt;The Observability department is focused on enabling developers to understand\
+  \ the health and performance of their applications and infrastructure in any environment\
+  \ by providing tools to instrument their code, ingest observability data into Grafana\
+  \ Cloud and visualize and explore it.&lt;/p&gt; &lt;p&gt;In this role, you will\
+  \ be part of the team that builds our Cloud Observability stack that allows customers\
+  \ to collect and visualize metrics from various systems and applications. We build\
+  \ and maintain the backend of opinionated applications such as Cloud Provider Observability,\
+  \ Database Observability, and Kubernetes Monitoring. This includes the dashboards,\
+  \ alerts, documentation, and infrastructure while working closely with other teams\
+  \ to ensure seamless experiences. We also strive to incorporate OSS contributions\
+  \ in our work by contributing to projects such as Alloy, Prometheus, OpenTelemetry,\
+  \ and Beyla. The Observability department provides a core building block for customers\
+  \ using Grafana Cloud.&lt;/p&gt; &lt;p&gt;As a company we are remote-first and global,\
+  \ we embrace people of different experiences and backgrounds to build diverse teams\
+  \ where every person brings a unique perspective to the software. We are looking\
+  \ for Engineers that are passionate about communicating with data and providing\
+  \ seamless experiences for our customers to join our growing team! Engineers at\
+  \ Grafana also have the opportunity to contribute to Open Source communities.&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What You\u2019ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At\
+  \ Grafana Labs, our engineers have a dedicated career path and do not have to become\
+  \ managers to progress in their career. Staff Software Engineers at Grafana have\
+  \ a large amount of experience across multiple areas. They are able to estimate,\
+  \ plan, coordinate and deliver large tasks spanning multiple systems. They actively\
+  \ coach and mentor other team members in their team and are able to identify and\
+  \ resolve issues with technology and product processes.&lt;/p&gt; &lt;p&gt;You will\
+  \ bring your passion for observability and software engineering expertise to help\
+  \ us take our infrastructure monitoring capabilities within Grafana Cloud to the\
+  \ next level. This will include working with our Kubernetes monitoring solution.&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;Design and implement high-quality, scalable integrations\
+  \ for various infrastructure components, applications, and data ingestion pipelines&amp;nbsp;&lt;/li&gt;\
+  \ &lt;li&gt;Create middleware components and libraries that simplify development\
+  \ and maintenance of observability solutions&lt;/li&gt; &lt;li&gt;When necessary,\
+  \ represent Grafana Labs in open source forums, working groups, and events&lt;/li&gt;\
+  \ &lt;li&gt;Work with product teams, in addition to design and docs, to develop\
+  \ features that align with wider product strategy and customer needs&lt;/li&gt;\
+  \ &lt;li&gt;Lead the technical direction and vision of the team, contributing to\
+  \ strategic discussions and future development of observability solutions&lt;/li&gt;\
+  \ &lt;li&gt;Work with other departments including Sales, Product, and Support teams\
+  \ to deliver a holistic product experience&lt;/li&gt; &lt;li&gt;Take ownership of\
+  \ the services you\u2019re running by deploying well tested clean code&lt;/li&gt;\
+  \ &lt;li&gt;Embrace our open-source culture and contribute to other projects that\
+  \ may not directly fall within your team\u2019s scope&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;As\
+  \ we are remote-first and our engineering organization is entirely remote, we provide\
+  \ guidance and meet regularly using video calls, so an independent attitude, good\
+  \ communication skills, and transparency are a must.&lt;/p&gt; &lt;p&gt;We invest\
+  \ heavily in developer productivity. You can use modern AI coding assistants as\
+  \ part of your daily workflow (your choice of tools, within security guidelines),\
+  \ backed by a company-funded usage budget so you can iterate quickly without unnecessary\
+  \ friction.&amp;nbsp;We encourage pragmatic AI-assisted development: faster prototyping,\
+  \ test generation, refactors, documentation, and incident follow-ups\u2014always\
+  \ paired with strong code review and quality standards.&amp;nbsp;You\u2019ll also\
+  \ have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3\
+  \ Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You have a passion for observability and like to share your\
+  \ knowledge by writing documentation and blog posts.&lt;/li&gt; &lt;li&gt;You love\
+  \ to engage with customers and help them out.&lt;/li&gt; &lt;li&gt;You have excellent\
+  \ communication skills.&lt;/li&gt; &lt;li&gt;You have relevant open source experience,\
+  \ ideally in the observability domain.&lt;/li&gt; &lt;li&gt;You are willing to become\
+  \ an active member of the OpenTelemetry and Prometheus communities.&lt;/li&gt; &lt;li&gt;You\u2019\
+  re curious and you enjoy learning new programming languages and frameworks, setting\
+  \ up examples, and figuring out how things work.&lt;/li&gt; &lt;li&gt;You have a\
+  \ good understanding of typical production environments. Ideally you have been responsible\
+  \ for operating production services and organizing on-call.&lt;/li&gt; &lt;li&gt;You\
+  \ actively mentor other team members, identifying areas for focus and improvement.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;Strong 8+ years of experience with at least one programming language\
+  \ - any major language (Python, .NET, Java, Go, Rust, etc) is acceptable&lt;/li&gt;\
+  \ &lt;li&gt;Demonstrated working experience in operating high-scale production systems\
+  \ running on Kubernetes and monitoring it, including on-call participation, incident\
+  \ response, and postmortem practices&lt;/li&gt; &lt;li&gt;Familiarity with observability\
+  \ tooling (e.g. Grafana)&lt;/li&gt; &lt;li&gt;Strong understanding of time-series\
+  \ data, metrics cardinality challenges, and cost/performance tradeoffs/optimizations\
+  \ in observability systems&lt;/li&gt; &lt;li&gt;Experience in a hands-on technical\
+  \ leadership role - setting technical direction, leading project teams, and influencing\
+  \ architectural decisions beyond your immediate team&lt;/li&gt; &lt;li&gt;Deep understanding\
+  \ of distributed systems concepts including scalability, consistency, high availability,\
+  \ and failure modes in large-scale systems&lt;/li&gt; &lt;li&gt;Experience writing\
+  \ clean, maintainable, robust, and performant software&lt;/li&gt; &lt;li&gt;Experience\
+  \ with delivering projects from start to finish in a self-driven manner&lt;/li&gt;\
+  \ &lt;li&gt;Excellent problem-solving and debugging skills&lt;/li&gt; &lt;li&gt;Strong\
+  \ mentoring and leadership skills&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus\
+  \ Points For:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience operating\
+  \ or scaling Prometheus in high-cardinality, multi-tenant environments&lt;/li&gt;\
+  \ &lt;li&gt;Experience working with OpenTelemetry Collector pipelines or similar\
+  \ telemetry ingestion systems&lt;/li&gt; &lt;li&gt;Certified Kubernetes Administrator\
+  \ (CKA)/ Certified Kubernetes Application Developer (CKAD) or any other Kubernetes\
+  \ related certification from CNCF&lt;/li&gt; &lt;li&gt;Experience developing Kubernetes\
+  \ operators, controllers, or custom resources&lt;/li&gt; &lt;li&gt;Strong understanding\
+  \ of metrics collection, visualization, and alerting concepts&lt;/li&gt; &lt;li&gt;Experience\
+  \ contributing to or maintaining open source projects, with evidence of successful\
+  \ pull requests and community collaboration&lt;/li&gt; &lt;li&gt;Experience designing\
+  \ and building observability backends for various systems and applications&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In Germany, the compensation range for this role is EUR &lt;span data-sheets-root=&quot;1&quot;&gt;109,709&lt;/span&gt;\
+  \ - EUR &lt;span data-sheets-root=&quot;1&quot;&gt;131,651&lt;/span&gt;. Actual\
+  \ compensation may vary based on level, experience, and skillset as assessed throughout\
+  \ the interview process. All of our roles include Restricted Stock Units (RSUs),\
+  \ giving every team member ownership in Grafana Labs&#39; success. We believe in\
+  \ shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+keywords_required:
+- claude
+- go
+- java
+- kubernetes
+- python
+- rag
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: staff
+fit_score_ats: 100
+fit_score_human: 90
+fit_score_strategic: 92
+fit_score_final: 88
+fit_recommendation: apply
+fit_summary: Grafana Labs scores 88 with recommendation apply for role family Software
+  Engineer.
+risks:
+- Offer may require broader staff-level organizational influence.
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with claude, go, java, kubernetes, python.
+- 'Role family aligns with preferred target: Software Engineer.'
+- Strong quantified delivery evidence is available for this role family.
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:59:40+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source grafana_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 22
+  core_skills_match: 20
+  experience_relevance: 20
+  seniority_alignment: 2
+  domain_relevance: 5
+  achievement_relevance: 7
+  logistics_fit: 8
+  strategic_fit: 6
+confidence: high
+evidence_quality:
+  direct: 7
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - Germany
+  label: Remote (Germany)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote germany (remote) staff software engineer - grafana cloud observability,\
+    \ kubernetes monitoring | germany | remote &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;grafana\
+    \ labs is a remote-first, open-source powerhouse. there are more than 20m users\
+    \ of grafana, the open source visualization tool, around the globe, monitoring\
+    \ everything from beehives to climate change in the alps. the instantly recognizable\
+    \ dashboards have been spotted everywhere from a nasa launch and minecraft hq\
+    \ to wimbledon and the tour de france. grafana labs also helps more than 3,000\
+    \ companies -- including bloomberg, jpmorgan chase, and ebay -- manage their observability\
+    \ strategies with the grafana lgtm stack, which can be run fully managed with\
+    \ &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;grafana cloud&lt;/a&gt;\
+    \ or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;grafana\
+    \ enterprise stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;grafana\
+    \ mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;grafana\
+    \ loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;grafana\
+    \ tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying true\
+    \ to what makes us different: an open-source legacy, a global collaborative culture,\
+    \ and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;this\
+    \ is a remote opportunity and we would be interested in applicants based in spain,\
+    \ germany, the uk or sweden at this time.&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;staff\
+    \ software engineer - grafana cloud observability, kubernetes monitoring&lt;/h2&gt;\
+    \ &lt;h4&gt;&lt;strong&gt;the opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\
+    \ &lt;p&gt;grafana cloud is our composable observability platform that integrates\
+    \ metrics, logs, and traces with grafana. it allows our customers to leverage\
+    \ the best open source observability software \u2013 including prometheus, mimir,\
+    \ loki, and tempo \u2013 without the overhead of installing, maintaining and scaling\
+    \ their own observability stack&lt;/p&gt; &lt;p&gt;the observability department\
+    \ is focused on enabling developers to understand the health and performance of\
+    \ their applications and infrastructure in any environment by providing tools\
+    \ to instrument their code, ingest observability data into grafana cloud and visualize\
+    \ and explore it.&lt;/p&gt; &lt;p&gt;in this role, you will be part of the team\
+    \ that builds our cloud observability stack that allows customers to collect and\
+    \ visualize metrics from various systems and applications. we build and maintain\
+    \ the backend of opinionated applications such as cloud provider observability,\
+    \ database observability, and kubernetes monitoring. this includes the dashboards,\
+    \ alerts, documentation, and infrastructure while working closely with other teams\
+    \ to ensure seamless experiences. we also strive to incorporate oss contributions\
+    \ in our work by contributing to projects such as alloy, prometheus, opentelemetry,\
+    \ and beyla. the observability department provides a core building block for customers\
+    \ using grafana cloud.&lt;/p&gt; &lt;p&gt;as a company we are remote-first and\
+    \ global, we embrace people of different experiences and backgrounds to build\
+    \ diverse teams where every person brings a unique perspective to the software.\
+    \ we are looking for engineers that are passionate about communicating with data\
+    \ and providing seamless experiences for our customers to join our growing team!\
+    \ engineers at grafana also have the opportunity to contribute to open source\
+    \ communities.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what you\u2019ll be doing:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;p&gt;at grafana labs, our engineers have a dedicated career path and do\
+    \ not have to become managers to progress in their career. staff software engineers\
+    \ at grafana have a large amount of experience across multiple areas. they are\
+    \ able to estimate, plan, coordinate and deliver large tasks spanning multiple\
+    \ systems. they actively coach and mentor other team members in their team and\
+    \ are able to identify and resolve issues with technology and product processes.&lt;/p&gt;\
+    \ &lt;p&gt;you will bring your passion for observability and software engineering\
+    \ expertise to help us take our infrastructure monitoring capabilities within\
+    \ grafana cloud to the next level. this will include working with our kubernetes\
+    \ monitoring solution.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;design and implement high-quality,\
+    \ scalable integrations for various infrastructure components, applications, and\
+    \ data ingestion pipelines&amp;nbsp;&lt;/li&gt; &lt;li&gt;create middleware components\
+    \ and libraries that simplify development and maintenance of observability solutions&lt;/li&gt;\
+    \ &lt;li&gt;when necessary, represent grafana labs in open source forums, working\
+    \ groups, and events&lt;/li&gt; &lt;li&gt;work with product teams, in addition\
+    \ to design and docs, to develop features that align with wider product strategy\
+    \ and customer needs&lt;/li&gt; &lt;li&gt;lead the technical direction and vision\
+    \ of the team, contributing to strategic discussions and future development of\
+    \ observability solutions&lt;/li&gt; &lt;li&gt;work with other departments including\
+    \ sales, product, and support teams to deliver a holistic product experience&lt;/li&gt;\
+    \ &lt;li&gt;take ownership of the services you\u2019re running by deploying well\
+    \ tested clean code&lt;/li&gt; &lt;li&gt;embrace our open-source culture and contribute\
+    \ to other projects that may not directly fall within your team\u2019s scope&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;as we are remote-first and our engineering organization\
+    \ is entirely remote, we provide guidance and meet regularly using video calls,\
+    \ so an independent attitude, good communication skills, and transparency are\
+    \ a must.&lt;/p&gt; &lt;p&gt;we invest heavily in developer productivity. you\
+    \ can use modern ai coding assistants as part of your daily workflow (your choice\
+    \ of tools, within security guidelines), backed by a company-funded usage budget\
+    \ so you can iterate quickly without unnecessary friction.&amp;nbsp;we encourage\
+    \ pragmatic ai-assisted development: faster prototyping, test generation, refactors,\
+    \ documentation, and incident follow-ups\u2014always paired with strong code review\
+    \ and quality standards.&amp;nbsp;you\u2019ll also have access to frontier models\
+    \ (e.g., gpt-codex 5/3, claude opus 4.6, gemini 3 pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what\
+    \ makes you a great fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;you have\
+    \ a passion for observability and like to share your knowledge by writing documentation\
+    \ and blog posts.&lt;/li&gt; &lt;li&gt;you love to engage with customers and help\
+    \ them out.&lt;/li&gt; &lt;li&gt;you have excellent communication skills.&lt;/li&gt;\
+    \ &lt;li&gt;you have relevant open source experience, ideally in the observability\
+    \ domain.&lt;/li&gt; &lt;li&gt;you are willing to become an active member of the\
+    \ opentelemetry and prometheus communities.&lt;/li&gt; &lt;li&gt;you\u2019re curious\
+    \ and you enjoy learning new programming languages and frameworks, setting up\
+    \ examples, and figuring out how things work.&lt;/li&gt; &lt;li&gt;you have a\
+    \ good understanding of typical production environments. ideally you have been\
+    \ responsible for operating production services and organizing on-call.&lt;/li&gt;\
+    \ &lt;li&gt;you actively mentor other team members, identifying areas for focus\
+    \ and improvement.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;requirements:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;strong 8+ years of experience with at least one programming\
+    \ language - any major language (python, .net, java, go, rust, etc) is acceptable&lt;/li&gt;\
+    \ &lt;li&gt;demonstrated working experience in operating high-scale production\
+    \ systems running on kubernetes and monitoring it, including on-call participation,\
+    \ incident response, and postmortem practices&lt;/li&gt; &lt;li&gt;familiarity\
+    \ with observability tooling (e.g. grafana)&lt;/li&gt; &lt;li&gt;strong understanding\
+    \ of time-series data, metrics cardinality challenges, and cost/performance tradeoffs/optimizations\
+    \ in observability systems&lt;/li&gt; &lt;li&gt;experience in a hands-on technical\
+    \ leadership role - setting technical direction, leading project teams, and influencing\
+    \ architectural decisions beyond your immediate team&lt;/li&gt; &lt;li&gt;deep\
+    \ understanding of distributed systems concepts including scalability, consistency,\
+    \ high availability, and failure modes in large-scale systems&lt;/li&gt; &lt;li&gt;experience\
+    \ writing clean, maintainable, robust, and performant software&lt;/li&gt; &lt;li&gt;experience\
+    \ with delivering projects from start to finish in a self-driven manner&lt;/li&gt;\
+    \ &lt;li&gt;excellent problem-solving and debugging skills&lt;/li&gt; &lt;li&gt;strong\
+    \ mentoring and leadership skills&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;bonus\
+    \ points for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;experience operating\
+    \ or scaling prometheus in high-cardinality, multi-tenant environments&lt;/li&gt;\
+    \ &lt;li&gt;experience working with opentelemetry collector pipelines or similar\
+    \ telemetry ingestion systems&lt;/li&gt; &lt;li&gt;certified kubernetes administrator\
+    \ (cka)/ certified kubernetes application developer (ckad) or any other kubernetes\
+    \ related certification from cncf&lt;/li&gt; &lt;li&gt;experience developing kubernetes\
+    \ operators, controllers, or custom resources&lt;/li&gt; &lt;li&gt;strong understanding\
+    \ of metrics collection, visualization, and alerting concepts&lt;/li&gt; &lt;li&gt;experience\
+    \ contributing to or maintaining open source projects, with evidence of successful\
+    \ pull requests and community collaboration&lt;/li&gt; &lt;li&gt;experience designing\
+    \ and building observability backends for various systems and applications&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;compensation &amp;amp; rewards:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;p&gt;in germany, the compensation range for this role is eur &lt;span data-sheets-root=&quot;1&quot;&gt;109,709&lt;/span&gt;\
+    \ - eur &lt;span data-sheets-root=&quot;1&quot;&gt;131,651&lt;/span&gt;. actual\
+    \ compensation may vary based on level, experience, and skillset as assessed throughout\
+    \ the interview process. all of our roles include restricted stock units (rsus),\
+    \ giving every team member ownership in grafana labs&#39; success. we believe\
+    \ in shared outcomes\u2014rsus help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation\
+    \ ranges are country specific. if you are applying for this role from a different\
+    \ location than listed above, your recruiter will discuss your specific market\u2019\
+    s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;why you\u2019ll thrive at grafana labs:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100%\
+    \ remote, global culture -&amp;nbsp;&lt;/strong&gt;as a remote-only company, we\
+    \ bring together talent from around the world, united by a culture of collaboration\
+    \ and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;scaling organization&lt;/strong&gt;\
+    \ \u2013 tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;transparent communication&lt;/strong&gt; \u2013 expect\
+    \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;innovation-driven&lt;/strong&gt;\
+    \ \u2013 autonomy and support to ship great work and try new things.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;open source roots&lt;/strong&gt; \u2013 built on community-driven\
+    \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;empowered\
+    \ teams&lt;/strong&gt; \u2013 high trust, low ego culture that values outcomes\
+    \ over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;career growth pathways&lt;/strong&gt;\
+    \ \u2013 defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;approachable\
+    \ leadership&lt;/strong&gt; \u2013 transparent execs who are involved, visible,\
+    \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;passionate people&lt;/strong&gt;\
+    \ \u2013 join a team of smart, supportive folks who care deeply about what they\
+    \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;in-person onboarding &lt;/strong&gt;-\
+    \ we want you to thrive from day 1 with your fellow new \u2018grafanistas\u2019\
+    \ to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;balance\
+    \ is key&lt;/strong&gt; - we operate a global annual leave policy of 30 days per\
+    \ annum. 3 days of your annual leave entitlement are reserved for grafana shutdown\
+    \ days to allow the team to really disconnect. &lt;em&gt;*we will comply with\
+    \ local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;equal\
+    \ opportunity employer:&lt;/strong&gt; we will recruit, train, compensate and\
+    \ promote regardless of race, religion, color, national origin, gender, disability,\
+    \ age, veteran status, and all the other fascinating characteristics that make\
+    \ us different and unique. we believe that equality and diversity builds a strong\
+    \ organization and we\u2019re working hard to make sure that\u2019s the foundation\
+    \ of our organization as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;grafana\
+    \ labs may utilize ai tools in its recruitment process to assist in matching information\
+    \ provided in cvs to job postings. the recruitment team will continue to review\
+    \ inbound cvs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;#li-remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;for information\
+    \ about how your personal data is used once you\u2019ve applied to a job, check\
+    \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T21:00:00+00:00'

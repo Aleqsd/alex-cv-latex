@@ -1,0 +1,568 @@
+id: grafana-labs-software-engineer-platform-infracore-usa-remote-5809023004
+company_name: Grafana Labs
+job_title: Software Engineer - Platform InfraCore | USA | Remote
+normalized_role_family: platform_devops_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: grafana_greenhouse
+external_job_id: '5809023004'
+source_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5809023004
+source_date: '2026-03-15T20:59:42+00:00'
+posted_at: '2026-03-04T11:20:01-05:00'
+last_seen_at: '2026-03-15T20:59:42+00:00'
+location: United States (Remote)
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5809023004
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity,\
+  \ and we would be interested in applicants from USA time zones only at this time.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;h2&gt;Senior Software Engineer - Platform InfraCore&lt;/h2&gt; &lt;h4&gt;&lt;strong&gt;The\
+  \ Opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;About\
+  \ our Platform:&lt;/strong&gt;&lt;br&gt;Grafana Cloud moves millions of metrics,\
+  \ log lines, and traces per second from our customers&#39; environments into a highly\
+  \ available, low-latency stack that processes and stores this data, and serves them\
+  \ to dashboards and alerting tools. We aim to grow this to hundreds of millions\
+  \ per second, and it&#39;s critical that as we grow, we improve our performance,\
+  \ increase our reliability, and, of course, do it efficiently and effectively.&lt;/p&gt;\
+  \ &lt;p&gt;The Internal Engineering Platform (IEP) delivered by the Platform group\
+  \ provides application engineers with the tools, systems and Kubernetes clusters\
+  \ they need to build, deploy and run their workloads. Platform roles at Grafana\
+  \ Labs have an eye for engineers with a passion for performance and reliability,\
+  \ and who enjoy taking projects from conception to production. We organize ourselves\
+  \ into squads to allow focus on: cloud infrastructure and capacity management; security;\
+  \ engineering productivity; monitoring and sustainability; and US Federal compliance.&lt;/p&gt;\
+  \ &lt;p&gt;Because we deploy production services, we have on-call rotations to ensure\
+  \ the health of the system. Everyone at Grafana Labs tries to incorporate and use\
+  \ our product line up into their day-to-day, so being on call is an important way\
+  \ to understand our system and how people use our products.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ You\u2019ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are hiring for the\
+  \ Platform InfraCore squad. This squad provides and owns automation of the provisioning\
+  \ of CSP resources, including networking, Kubernetes clusters and specific CSP resources\
+  \ required by our application teams.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We\u2019re part\
+  \ of a Platform Engineering group that manages infrastructure for the teams that\
+  \ are building some of the most cherished Platform tools - Grafana, Mimir, Loki,\
+  \ Tempo, Pyroscope to name a few.&lt;/p&gt; &lt;p&gt;We invest heavily in developer\
+  \ productivity. You can use modern AI coding assistants as part of your daily workflow\
+  \ (your choice of tools, within security guidelines), backed by a company-funded\
+  \ usage budget so you can iterate quickly without unnecessary friction.&lt;br&gt;&lt;br&gt;We\
+  \ encourage pragmatic AI-assisted development: faster prototyping, test generation,\
+  \ refactors, documentation, and incident follow-ups\u2014always paired with strong\
+  \ code review and quality standards.&lt;br&gt;&lt;br&gt;You\u2019ll also have access\
+  \ to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro)&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;You enjoy working with engineers, as well as with the management structures\
+  \ that are there to support you and enable you and your team to do your very best.&amp;nbsp;&lt;/li&gt;\
+  \ &lt;li&gt;You are &lt;strong&gt;comfortable working in a remote-first company&lt;/strong&gt;;\
+  \ communication is key. For us, working together means being collaborative, friendly,\
+  \ kind, and respectful. We operate by consensus, you can contribute to a discussion\
+  \ but then commit to the team decision.&lt;/li&gt; &lt;li&gt;As such, being such\
+  \ a highly distributed company, means we would love someone who is keen on working\
+  \ with &lt;strong&gt;distributed systems&lt;/strong&gt;, too.&lt;/li&gt; &lt;li&gt;You\
+  \ are eager to &lt;strong&gt;learn and grow&lt;/strong&gt;. There is a lot of room\
+  \ for growth and development, and the team has quite a lot of knowledge to share\
+  \ for those who are wanting to learn.&amp;nbsp;&lt;/li&gt; &lt;li&gt;You approach\
+  \ development &lt;strong&gt;holistically&lt;/strong&gt;. The team owns the full\
+  \ life cycle of our code; from writing design docs, to looking at developer feedback,\
+  \ and integration testing. We appreciate engineers who enjoy looking at the big\
+  \ picture, and also notice the details of the brush strokes. The Platform team mainly\
+  \ works with Go, Python, and Shell.&lt;/li&gt; &lt;li&gt;You have experience with\
+  \ &lt;strong&gt;operating your code&lt;/strong&gt;. Since a lot of operators and\
+  \ developers use our software, having some grounding in both of these spaces really\
+  \ helps us with building better platforms for our users.&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kubernetes\
+  \ cluster provisioning and lifecycle management.&lt;/li&gt; &lt;li&gt;Management\
+  \ of cluster networking components: load balancing, NAT, DNS, CNIs, network policies,\
+  \ private connectivity for customers, cross-cluster communication.&lt;/li&gt; &lt;li&gt;Management\
+  \ of scheduling and autoscaling.&lt;/li&gt; &lt;li&gt;Maintaining Crossplane compositions\
+  \ and Terraform modules for CSP resources common to our users. As well the management\
+  \ of versioning and compatibility for Crossplane and Terraform core as well as providers.&lt;/li&gt;\
+  \ &lt;li&gt;Work with our users (Grafana Cloud application teams) to help understand\
+  \ their needs and ensure we\u2019re investing in the right capabilities.&lt;/li&gt;\
+  \ &lt;li&gt;Participation in the Platform department Infrastructure wing on-call\
+  \ rotation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points For:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You\u2019ve worked in or on open source, or other community-based\
+  \ projects previously. At Grafana Labs, \u201COSS is in our DNA\u201D.&lt;/li&gt;\
+  \ &lt;li&gt;Experience with a few CSPs. We run Grafana Cloud on AWS, GCP, and Azure\
+  \ using each\u2019s managed Kubernetes service - EKS, GKE, AKS.&lt;/li&gt; &lt;li&gt;Experience\
+  \ operating and managing workloads on Kubernetes. We use Tanka for configuration\
+  \ management with Jsonnet.&lt;/li&gt; &lt;li&gt;Familiarity with Kubernetes scheduling\
+  \ and projects like Karpenter.&lt;/li&gt; &lt;li&gt;Terraform and/or Crossplane\
+  \ experience. We have mixed usage - each has its strengths.&lt;/li&gt; &lt;li&gt;Enjoys\
+  \ programming in Go. We love building our own tools, utilities, exporters, etc.\
+  \ that suit our needs and otherwise don\u2019t exist (and open sourcing them).&lt;/li&gt;\
+  \ &lt;li&gt;Likes to think about operational maturity. Find anything particularly\
+  \ interesting about the CNCF Platform Engineering Maturity Model?&lt;/li&gt; &lt;li&gt;Maybe\
+  \ there\u2019s something missing in this job description that you think you might\
+  \ bring to our table? Feel free to let us know!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A\
+  \ few of our upcoming projects:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;Improving K8s efficiency. Considerations include processor architecture,\
+  \ CSP capacity, machine selection, multi-AZ utilization.&lt;/li&gt; &lt;li&gt;K8s\
+  \ cluster lifecycle automation. Grafana Cloud regions are mapped to CSP regions\
+  \ - we already utilize many and plan to utilize many more. We\u2019re always maturing\
+  \ our approach to operating at an increasingly greater scale.&lt;/li&gt; &lt;li&gt;Terraform\
+  \ ease of use. Mentioned above is Terraform and Crossplane. Our Crossplane delivery\
+  \ strategy is strong! As is our Terraform delivery, but we have a bit of work to\
+  \ do to get it where we want it to be for ourselves and our internal users.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In the United States, the Base compensation range for this role is USD&amp;nbsp;&lt;span\
+  \ data-sheets-root=&quot;1&quot;&gt;127,651&lt;/span&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;-\
+  \ USD &lt;span data-sheets-root=&quot;1&quot;&gt;153,180&lt;/span&gt;. Actual compensation\
+  \ may vary based on level, experience, and skillset as assessed in the interview\
+  \ process. Benefits include equity, bonus (if applicable) and other benefits listed&amp;nbsp;&lt;a\
+  \ href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+  \ &lt;p&gt;All of our roles include Restricted Stock Units (RSUs), giving every\
+  \ team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014\
+  RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;\
+  \ &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges\
+  \ are country specific. If you are applying for this role from a different location\
+  \ than listed above, your recruiter will discuss your specific market\u2019s defined\
+  \ pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity,\
+  \ and we would be interested in applicants from USA time zones only at this time.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;h2&gt;Senior Software Engineer - Platform InfraCore&lt;/h2&gt; &lt;h4&gt;&lt;strong&gt;The\
+  \ Opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;About\
+  \ our Platform:&lt;/strong&gt;&lt;br&gt;Grafana Cloud moves millions of metrics,\
+  \ log lines, and traces per second from our customers&#39; environments into a highly\
+  \ available, low-latency stack that processes and stores this data, and serves them\
+  \ to dashboards and alerting tools. We aim to grow this to hundreds of millions\
+  \ per second, and it&#39;s critical that as we grow, we improve our performance,\
+  \ increase our reliability, and, of course, do it efficiently and effectively.&lt;/p&gt;\
+  \ &lt;p&gt;The Internal Engineering Platform (IEP) delivered by the Platform group\
+  \ provides application engineers with the tools, systems and Kubernetes clusters\
+  \ they need to build, deploy and run their workloads. Platform roles at Grafana\
+  \ Labs have an eye for engineers with a passion for performance and reliability,\
+  \ and who enjoy taking projects from conception to production. We organize ourselves\
+  \ into squads to allow focus on: cloud infrastructure and capacity management; security;\
+  \ engineering productivity; monitoring and sustainability; and US Federal compliance.&lt;/p&gt;\
+  \ &lt;p&gt;Because we deploy production services, we have on-call rotations to ensure\
+  \ the health of the system. Everyone at Grafana Labs tries to incorporate and use\
+  \ our product line up into their day-to-day, so being on call is an important way\
+  \ to understand our system and how people use our products.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ You\u2019ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are hiring for the\
+  \ Platform InfraCore squad. This squad provides and owns automation of the provisioning\
+  \ of CSP resources, including networking, Kubernetes clusters and specific CSP resources\
+  \ required by our application teams.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We\u2019re part\
+  \ of a Platform Engineering group that manages infrastructure for the teams that\
+  \ are building some of the most cherished Platform tools - Grafana, Mimir, Loki,\
+  \ Tempo, Pyroscope to name a few.&lt;/p&gt; &lt;p&gt;We invest heavily in developer\
+  \ productivity. You can use modern AI coding assistants as part of your daily workflow\
+  \ (your choice of tools, within security guidelines), backed by a company-funded\
+  \ usage budget so you can iterate quickly without unnecessary friction.&lt;br&gt;&lt;br&gt;We\
+  \ encourage pragmatic AI-assisted development: faster prototyping, test generation,\
+  \ refactors, documentation, and incident follow-ups\u2014always paired with strong\
+  \ code review and quality standards.&lt;br&gt;&lt;br&gt;You\u2019ll also have access\
+  \ to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro)&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;You enjoy working with engineers, as well as with the management structures\
+  \ that are there to support you and enable you and your team to do your very best.&amp;nbsp;&lt;/li&gt;\
+  \ &lt;li&gt;You are &lt;strong&gt;comfortable working in a remote-first company&lt;/strong&gt;;\
+  \ communication is key. For us, working together means being collaborative, friendly,\
+  \ kind, and respectful. We operate by consensus, you can contribute to a discussion\
+  \ but then commit to the team decision.&lt;/li&gt; &lt;li&gt;As such, being such\
+  \ a highly distributed company, means we would love someone who is keen on working\
+  \ with &lt;strong&gt;distributed systems&lt;/strong&gt;, too.&lt;/li&gt; &lt;li&gt;You\
+  \ are eager to &lt;strong&gt;learn and grow&lt;/strong&gt;. There is a lot of room\
+  \ for growth and development, and the team has quite a lot of knowledge to share\
+  \ for those who are wanting to learn.&amp;nbsp;&lt;/li&gt; &lt;li&gt;You approach\
+  \ development &lt;strong&gt;holistically&lt;/strong&gt;. The team owns the full\
+  \ life cycle of our code; from writing design docs, to looking at developer feedback,\
+  \ and integration testing. We appreciate engineers who enjoy looking at the big\
+  \ picture, and also notice the details of the brush strokes. The Platform team mainly\
+  \ works with Go, Python, and Shell.&lt;/li&gt; &lt;li&gt;You have experience with\
+  \ &lt;strong&gt;operating your code&lt;/strong&gt;. Since a lot of operators and\
+  \ developers use our software, having some grounding in both of these spaces really\
+  \ helps us with building better platforms for our users.&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kubernetes\
+  \ cluster provisioning and lifecycle management.&lt;/li&gt; &lt;li&gt;Management\
+  \ of cluster networking components: load balancing, NAT, DNS, CNIs, network policies,\
+  \ private connectivity for customers, cross-cluster communication.&lt;/li&gt; &lt;li&gt;Management\
+  \ of scheduling and autoscaling.&lt;/li&gt; &lt;li&gt;Maintaining Crossplane compositions\
+  \ and Terraform modules for CSP resources common to our users. As well the management\
+  \ of versioning and compatibility for Crossplane and Terraform core as well as providers.&lt;/li&gt;\
+  \ &lt;li&gt;Work with our users (Grafana Cloud application teams) to help understand\
+  \ their needs and ensure we\u2019re investing in the right capabilities.&lt;/li&gt;\
+  \ &lt;li&gt;Participation in the Platform department Infrastructure wing on-call\
+  \ rotation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points For:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;You\u2019ve worked in or on open source, or other community-based\
+  \ projects previously. At Grafana Labs, \u201COSS is in our DNA\u201D.&lt;/li&gt;\
+  \ &lt;li&gt;Experience with a few CSPs. We run Grafana Cloud on AWS, GCP, and Azure\
+  \ using each\u2019s managed Kubernetes service - EKS, GKE, AKS.&lt;/li&gt; &lt;li&gt;Experience\
+  \ operating and managing workloads on Kubernetes. We use Tanka for configuration\
+  \ management with Jsonnet.&lt;/li&gt; &lt;li&gt;Familiarity with Kubernetes scheduling\
+  \ and projects like Karpenter.&lt;/li&gt; &lt;li&gt;Terraform and/or Crossplane\
+  \ experience. We have mixed usage - each has its strengths.&lt;/li&gt; &lt;li&gt;Enjoys\
+  \ programming in Go. We love building our own tools, utilities, exporters, etc.\
+  \ that suit our needs and otherwise don\u2019t exist (and open sourcing them).&lt;/li&gt;\
+  \ &lt;li&gt;Likes to think about operational maturity. Find anything particularly\
+  \ interesting about the CNCF Platform Engineering Maturity Model?&lt;/li&gt; &lt;li&gt;Maybe\
+  \ there\u2019s something missing in this job description that you think you might\
+  \ bring to our table? Feel free to let us know!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A\
+  \ few of our upcoming projects:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+  \ &lt;li&gt;Improving K8s efficiency. Considerations include processor architecture,\
+  \ CSP capacity, machine selection, multi-AZ utilization.&lt;/li&gt; &lt;li&gt;K8s\
+  \ cluster lifecycle automation. Grafana Cloud regions are mapped to CSP regions\
+  \ - we already utilize many and plan to utilize many more. We\u2019re always maturing\
+  \ our approach to operating at an increasingly greater scale.&lt;/li&gt; &lt;li&gt;Terraform\
+  \ ease of use. Mentioned above is Terraform and Crossplane. Our Crossplane delivery\
+  \ strategy is strong! As is our Terraform delivery, but we have a bit of work to\
+  \ do to get it where we want it to be for ourselves and our internal users.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;In the United States, the Base compensation range for this role is USD&amp;nbsp;&lt;span\
+  \ data-sheets-root=&quot;1&quot;&gt;127,651&lt;/span&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;-\
+  \ USD &lt;span data-sheets-root=&quot;1&quot;&gt;153,180&lt;/span&gt;. Actual compensation\
+  \ may vary based on level, experience, and skillset as assessed in the interview\
+  \ process. Benefits include equity, bonus (if applicable) and other benefits listed&amp;nbsp;&lt;a\
+  \ href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+  \ &lt;p&gt;All of our roles include Restricted Stock Units (RSUs), giving every\
+  \ team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014\
+  RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;\
+  \ &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges\
+  \ are country specific. If you are applying for this role from a different location\
+  \ than listed above, your recruiter will discuss your specific market\u2019s defined\
+  \ pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+keywords_required:
+- aws
+- azure
+- claude
+- gcp
+- go
+- kubernetes
+- python
+- rag
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 92
+fit_score_human: 100
+fit_score_strategic: 96
+fit_score_final: 96
+fit_recommendation: apply
+fit_summary: Grafana Labs scores 96 with recommendation apply for role family Platform
+  / DevOps Engineer.
+risks:
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with aws, azure, claude, gcp, go.
+- 'Role family aligns with preferred target: Platform / DevOps Engineer.'
+- Strong quantified delivery evidence is available for this role family.
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:59:42+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source grafana_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 17
+  core_skills_match: 20
+  experience_relevance: 20
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 7
+  logistics_fit: 8
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 10
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - United States
+  label: Remote (United States)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote united states (remote) software engineer - platform infracore | usa\
+    \ | remote &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;grafana labs is\
+    \ a remote-first, open-source powerhouse. there are more than 20m users of grafana,\
+    \ the open source visualization tool, around the globe, monitoring everything\
+    \ from beehives to climate change in the alps. the instantly recognizable dashboards\
+    \ have been spotted everywhere from a nasa launch and minecraft hq to wimbledon\
+    \ and the tour de france. grafana labs also helps more than 3,000 companies --\
+    \ including bloomberg, jpmorgan chase, and ebay -- manage their observability\
+    \ strategies with the grafana lgtm stack, which can be run fully managed with\
+    \ &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;grafana cloud&lt;/a&gt;\
+    \ or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;grafana\
+    \ enterprise stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;grafana\
+    \ mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;grafana\
+    \ loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;grafana\
+    \ tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying true\
+    \ to what makes us different: an open-source legacy, a global collaborative culture,\
+    \ and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;this\
+    \ is a remote opportunity, and we would be interested in applicants from usa time\
+    \ zones only at this time.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;senior\
+    \ software engineer - platform infracore&lt;/h2&gt; &lt;h4&gt;&lt;strong&gt;the\
+    \ opportunity:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;about\
+    \ our platform:&lt;/strong&gt;&lt;br&gt;grafana cloud moves millions of metrics,\
+    \ log lines, and traces per second from our customers&#39; environments into a\
+    \ highly available, low-latency stack that processes and stores this data, and\
+    \ serves them to dashboards and alerting tools. we aim to grow this to hundreds\
+    \ of millions per second, and it&#39;s critical that as we grow, we improve our\
+    \ performance, increase our reliability, and, of course, do it efficiently and\
+    \ effectively.&lt;/p&gt; &lt;p&gt;the internal engineering platform (iep) delivered\
+    \ by the platform group provides application engineers with the tools, systems\
+    \ and kubernetes clusters they need to build, deploy and run their workloads.\
+    \ platform roles at grafana labs have an eye for engineers with a passion for\
+    \ performance and reliability, and who enjoy taking projects from conception to\
+    \ production. we organize ourselves into squads to allow focus on: cloud infrastructure\
+    \ and capacity management; security; engineering productivity; monitoring and\
+    \ sustainability; and us federal compliance.&lt;/p&gt; &lt;p&gt;because we deploy\
+    \ production services, we have on-call rotations to ensure the health of the system.\
+    \ everyone at grafana labs tries to incorporate and use our product line up into\
+    \ their day-to-day, so being on call is an important way to understand our system\
+    \ and how people use our products.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what you\u2019\
+    ll be doing:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;we are hiring for the platform\
+    \ infracore squad. this squad provides and owns automation of the provisioning\
+    \ of csp resources, including networking, kubernetes clusters and specific csp\
+    \ resources required by our application teams.&amp;nbsp;&lt;/p&gt; &lt;p&gt;we\u2019\
+    re part of a platform engineering group that manages infrastructure for the teams\
+    \ that are building some of the most cherished platform tools - grafana, mimir,\
+    \ loki, tempo, pyroscope to name a few.&lt;/p&gt; &lt;p&gt;we invest heavily in\
+    \ developer productivity. you can use modern ai coding assistants as part of your\
+    \ daily workflow (your choice of tools, within security guidelines), backed by\
+    \ a company-funded usage budget so you can iterate quickly without unnecessary\
+    \ friction.&lt;br&gt;&lt;br&gt;we encourage pragmatic ai-assisted development:\
+    \ faster prototyping, test generation, refactors, documentation, and incident\
+    \ follow-ups\u2014always paired with strong code review and quality standards.&lt;br&gt;&lt;br&gt;you\u2019\
+    ll also have access to frontier models (e.g., gpt-codex 5/3, claude opus 4.6,\
+    \ gemini 3 pro)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what makes you a great fit:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;you enjoy working with engineers, as well as with the management\
+    \ structures that are there to support you and enable you and your team to do\
+    \ your very best.&amp;nbsp;&lt;/li&gt; &lt;li&gt;you are &lt;strong&gt;comfortable\
+    \ working in a remote-first company&lt;/strong&gt;; communication is key. for\
+    \ us, working together means being collaborative, friendly, kind, and respectful.\
+    \ we operate by consensus, you can contribute to a discussion but then commit\
+    \ to the team decision.&lt;/li&gt; &lt;li&gt;as such, being such a highly distributed\
+    \ company, means we would love someone who is keen on working with &lt;strong&gt;distributed\
+    \ systems&lt;/strong&gt;, too.&lt;/li&gt; &lt;li&gt;you are eager to &lt;strong&gt;learn\
+    \ and grow&lt;/strong&gt;. there is a lot of room for growth and development,\
+    \ and the team has quite a lot of knowledge to share for those who are wanting\
+    \ to learn.&amp;nbsp;&lt;/li&gt; &lt;li&gt;you approach development &lt;strong&gt;holistically&lt;/strong&gt;.\
+    \ the team owns the full life cycle of our code; from writing design docs, to\
+    \ looking at developer feedback, and integration testing. we appreciate engineers\
+    \ who enjoy looking at the big picture, and also notice the details of the brush\
+    \ strokes. the platform team mainly works with go, python, and shell.&lt;/li&gt;\
+    \ &lt;li&gt;you have experience with &lt;strong&gt;operating your code&lt;/strong&gt;.\
+    \ since a lot of operators and developers use our software, having some grounding\
+    \ in both of these spaces really helps us with building better platforms for our\
+    \ users.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;requirements:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;kubernetes cluster provisioning and lifecycle management.&lt;/li&gt;\
+    \ &lt;li&gt;management of cluster networking components: load balancing, nat,\
+    \ dns, cnis, network policies, private connectivity for customers, cross-cluster\
+    \ communication.&lt;/li&gt; &lt;li&gt;management of scheduling and autoscaling.&lt;/li&gt;\
+    \ &lt;li&gt;maintaining crossplane compositions and terraform modules for csp\
+    \ resources common to our users. as well the management of versioning and compatibility\
+    \ for crossplane and terraform core as well as providers.&lt;/li&gt; &lt;li&gt;work\
+    \ with our users (grafana cloud application teams) to help understand their needs\
+    \ and ensure we\u2019re investing in the right capabilities.&lt;/li&gt; &lt;li&gt;participation\
+    \ in the platform department infrastructure wing on-call rotation.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;bonus points for:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;you\u2019ve worked in or on open source, or other community-based\
+    \ projects previously. at grafana labs, \u201Coss is in our dna\u201D.&lt;/li&gt;\
+    \ &lt;li&gt;experience with a few csps. we run grafana cloud on aws, gcp, and\
+    \ azure using each\u2019s managed kubernetes service - eks, gke, aks.&lt;/li&gt;\
+    \ &lt;li&gt;experience operating and managing workloads on kubernetes. we use\
+    \ tanka for configuration management with jsonnet.&lt;/li&gt; &lt;li&gt;familiarity\
+    \ with kubernetes scheduling and projects like karpenter.&lt;/li&gt; &lt;li&gt;terraform\
+    \ and/or crossplane experience. we have mixed usage - each has its strengths.&lt;/li&gt;\
+    \ &lt;li&gt;enjoys programming in go. we love building our own tools, utilities,\
+    \ exporters, etc. that suit our needs and otherwise don\u2019t exist (and open\
+    \ sourcing them).&lt;/li&gt; &lt;li&gt;likes to think about operational maturity.\
+    \ find anything particularly interesting about the cncf platform engineering maturity\
+    \ model?&lt;/li&gt; &lt;li&gt;maybe there\u2019s something missing in this job\
+    \ description that you think you might bring to our table? feel free to let us\
+    \ know!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;a few of our upcoming projects:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;improving k8s efficiency. considerations include processor\
+    \ architecture, csp capacity, machine selection, multi-az utilization.&lt;/li&gt;\
+    \ &lt;li&gt;k8s cluster lifecycle automation. grafana cloud regions are mapped\
+    \ to csp regions - we already utilize many and plan to utilize many more. we\u2019\
+    re always maturing our approach to operating at an increasingly greater scale.&lt;/li&gt;\
+    \ &lt;li&gt;terraform ease of use. mentioned above is terraform and crossplane.\
+    \ our crossplane delivery strategy is strong! as is our terraform delivery, but\
+    \ we have a bit of work to do to get it where we want it to be for ourselves and\
+    \ our internal users.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;compensation\
+    \ &amp;amp; rewards:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;in the united states, the\
+    \ base compensation range for this role is usd&amp;nbsp;&lt;span data-sheets-root=&quot;1&quot;&gt;127,651&lt;/span&gt;&lt;span\
+    \ data-sheets-root=&quot;1&quot;&gt;&amp;nbsp;&lt;/span&gt;- usd &lt;span data-sheets-root=&quot;1&quot;&gt;153,180&lt;/span&gt;.\
+    \ actual compensation may vary based on level, experience, and skillset as assessed\
+    \ in the interview process. benefits include equity, bonus (if applicable) and\
+    \ other benefits listed&amp;nbsp;&lt;a href=&quot;https://grafana.com/about/careers/#jobs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+    \ &lt;p&gt;all of our roles include restricted stock units (rsus), giving every\
+    \ team member ownership in grafana labs&#39; success. we believe in shared outcomes\u2014\
+    rsus help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation\
+    \ ranges are country specific. if you are applying for this role from a different\
+    \ location than listed above, your recruiter will discuss your specific market\u2019\
+    s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;why you\u2019ll thrive at grafana labs:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100%\
+    \ remote, global culture -&amp;nbsp;&lt;/strong&gt;as a remote-only company, we\
+    \ bring together talent from around the world, united by a culture of collaboration\
+    \ and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;scaling organization&lt;/strong&gt;\
+    \ \u2013 tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;transparent communication&lt;/strong&gt; \u2013 expect\
+    \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;innovation-driven&lt;/strong&gt;\
+    \ \u2013 autonomy and support to ship great work and try new things.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;open source roots&lt;/strong&gt; \u2013 built on community-driven\
+    \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;empowered\
+    \ teams&lt;/strong&gt; \u2013 high trust, low ego culture that values outcomes\
+    \ over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;career growth pathways&lt;/strong&gt;\
+    \ \u2013 defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;approachable\
+    \ leadership&lt;/strong&gt; \u2013 transparent execs who are involved, visible,\
+    \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;passionate people&lt;/strong&gt;\
+    \ \u2013 join a team of smart, supportive folks who care deeply about what they\
+    \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;in-person onboarding &lt;/strong&gt;-\
+    \ we want you to thrive from day 1 with your fellow new \u2018grafanistas\u2019\
+    \ to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;balance\
+    \ is key&lt;/strong&gt; - we operate a global annual leave policy of 30 days per\
+    \ annum. 3 days of your annual leave entitlement are reserved for grafana shutdown\
+    \ days to allow the team to really disconnect. &lt;em&gt;*we will comply with\
+    \ local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;equal\
+    \ opportunity employer:&lt;/strong&gt; we will recruit, train, compensate and\
+    \ promote regardless of race, religion, color, national origin, gender, disability,\
+    \ age, veteran status, and all the other fascinating characteristics that make\
+    \ us different and unique. we believe that equality and diversity builds a strong\
+    \ organization and we\u2019re working hard to make sure that\u2019s the foundation\
+    \ of our organization as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;grafana\
+    \ labs may utilize ai tools in its recruitment process to assist in matching information\
+    \ provided in cvs to job postings. the recruitment team will continue to review\
+    \ inbound cvs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;#li-remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;for information\
+    \ about how your personal data is used once you\u2019ve applied to a job, check\
+    \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T21:00:00+00:00'

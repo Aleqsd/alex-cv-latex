@@ -1,0 +1,61 @@
+version: 1
+role_families:
+  software_engineer:
+    keywords:
+      - software engineer
+      - backend
+      - full-stack
+      - full stack
+      - product engineer
+      - web applications
+      - api
+      - apis
+      - services
+  backend_engineer:
+    keywords:
+      - backend engineer
+      - backend
+      - api
+      - services
+      - microservices
+      - distributed systems
+      - data pipelines
+  founding_engineer:
+    keywords:
+      - founding engineer
+      - founding
+      - startup
+      - 0-to-1
+      - zero to one
+      - early stage
+      - build from scratch
+      - seed
+      - series a
+  platform_devops_engineer:
+    keywords:
+      - platform engineer
+      - devops engineer
+      - ci/cd
+      - release engineering
+      - developer tooling
+      - infrastructure
+      - reliability
+      - automation
+      - kubernetes
+status_groups:
+  active:
+    - discovered
+    - screened
+    - scored
+    - shortlisted
+    - tailoring_in_progress
+    - ready_to_apply
+    - applied
+    - follow_up_due
+    - recruiter_contact
+    - interviewing
+  closed:
+    - rejected
+    - withdrawn
+    - offer
+    - accepted

@@ -1,0 +1,539 @@
+id: gitlab-staff-backend-engineer-software-supply-chain-security-secrets-management-8432235002
+company_name: GitLab
+job_title: 'Staff Backend Engineer, Software Supply Chain Security: Secrets Management'
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: gitlab_greenhouse
+external_job_id: '8432235002'
+source_url: https://job-boards.greenhouse.io/gitlab/jobs/8432235002
+source_date: '2026-03-15T20:42:03+00:00'
+posted_at: '2026-03-10T20:50:49-04:00'
+last_seen_at: '2026-03-15T20:56:01+00:00'
+location: Remote
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/gitlab/jobs/8432235002
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is\
+  \ the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;An\
+  \ overview of this role&lt;/h4&gt; &lt;p&gt;You&#39;ll join GitLab&#39;s Software\
+  \ Supply Chain Security stage as the &lt;span class=&quot;textBold&quot;&gt;Staff\
+  \ Engineer, Secrets Management&lt;/span&gt;, providing technical leadership for\
+  \ GitLab&#39;s strategic investment in integrated secrets management. You&#39;ll\
+  \ set the technical direction for GitLab Secrets Manager, our OpenBao-powered solution\
+  \ that helps customers securely store, distribute, and manage the lifecycle of secrets\
+  \ used across CI/CD pipelines. This role sits at the intersection of the GitLab\
+  \ platform and the OpenBao open source project: you&#39;ll drive architecture decisions\
+  \ for multi-tenant secrets management at scale, guide integration into GitLab, and\
+  \ contribute upstream so we can deliver capabilities customers can trust.&lt;/p&gt;\
+  \ &lt;p&gt;In your first year, your success will look like a clear, scalable architecture\
+  \ for GitLab Secrets Manager, reliable performance that meets GitLab.com needs in\
+  \ partnership with Infrastructure teams, and strong cross-team alignment across\
+  \ Pipeline Security, Authentication, and Platform. You&#39;ll also represent GitLab\
+  \ in OpenBao&#39;s governance and technical discussions, helping ensure our product\
+  \ direction and upstream contributions reinforce each other.&lt;/p&gt; &lt;h4&gt;How\
+  \ we interview&lt;/h4&gt; &lt;p&gt;Our process includes technical interviews and\
+  \ stakeholder conversations focused on how you partner across functions and drive\
+  \ alignment.&lt;/p&gt; &lt;p&gt;You should expect questions about how you collaborate\
+  \ with cross-functional partners and communicate tradeoffs in ambiguous, high-impact\
+  \ work.&lt;/p&gt; &lt;h4&gt;What you&#39;ll do&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Lead\
+  \ the technical strategy for GitLab Secrets Manager, setting architecture direction\
+  \ for secure, multi-tenant secrets management at scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Own\
+  \ the integration between GitLab and OpenBao, including namespaces, authentication\
+  \ mechanisms, and policy management.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Collaborate\
+  \ with Pipeline Security, Authentication, and Platform teams to propose, review,\
+  \ and deliver cross-team secrets management improvements.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Partner\
+  \ with GitLab.com Infrastructure teams to ensure secrets management meets reliability,\
+  \ performance, and operational requirements.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Represent\
+  \ GitLab in the OpenBao open source project by contributing features upstream, participating\
+  \ in technical steering discussions, and maintaining strong technical credibility.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;Mentor and advise engineers on secrets management,\
+  \ cryptographic systems, and secure architecture patterns, raising the quality and\
+  \ consistency of designs and implementations.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Interface\
+  \ with engineering managers and senior leadership to scope initiatives, clarify\
+  \ tradeoffs, and unblock delivery across teams.&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Engage\
+  \ with customers and external stakeholders to understand real-world needs and communicate\
+  \ GitLab&#39;s secrets management capabilities and roadmap direction.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h4&gt;What you&#39;ll bring&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Experience\
+  \ designing and operating secrets management systems (for example, HashiCorp Vault,\
+  \ OpenBao, or cloud-native offerings), including secure storage, access control,\
+  \ and audit logging.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Ability to lead architecture\
+  \ decisions for resilient, multi-tenant services that handle secrets operations\
+  \ at scale, including high availability and cluster management patterns.&lt;/li&gt;\
+  \ &lt;li value=&quot;3&quot;&gt;Working knowledge of cryptographic and key management\
+  \ concepts, such as encryption in transit and at rest, key derivation, and hardware\
+  \ security module (HSM) or PKCS#11 integrations.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Experience\
+  \ implementing authentication and authorization integrations, such as JSON Web Token\
+  \ (JWT) or OpenID Connect (OIDC), mutual Transport Layer Security (mTLS), and certificate-based\
+  \ authentication.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Proficiency building\
+  \ product integrations in Go (within the OpenBao or Vault ecosystem) and Ruby on\
+  \ Rails for GitLab platform integration.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Experience\
+  \ contributing to open source projects and working effectively with distributed\
+  \ governance, balancing upstream needs with product requirements.&lt;/li&gt; &lt;li\
+  \ value=&quot;7&quot;&gt;Demonstrated ability to operate with high autonomy, drive\
+  \ strategy, and serve as a trusted partner to senior leaders (including constructively\
+  \ challenging assumptions and tradeoffs).&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Strong\
+  \ communication and collaboration skills to influence across teams and levels, including\
+  \ mentoring engineers and working in a fully remote, asynchronous environment.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h4&gt;About the team&lt;/h4&gt; &lt;p&gt;The Secrets Management\
+  \ team sits within the Pipeline Security group in GitLab&#39;s Software Supply Chain\
+  \ Security stage. We own GitLab Secrets Manager, an OpenBao-powered capability that\
+  \ helps teams securely store, distribute, and manage the lifecycle of secrets used\
+  \ across continuous integration and continuous delivery (CI/CD) pipelines. The team\
+  \ works closely with Authentication, Authorization, Compliance, and Platform counterparts\
+  \ to deliver secure defaults, reliable operations for GitLab.com, and product-grade\
+  \ integration between GitLab and OpenBao (including namespaces, authentication,\
+  \ and policy management). Our core challenge is building multi-tenant secrets management\
+  \ at scale while balancing upstream open source collaboration with the needs of\
+  \ GitLab customers.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div\
+  \ class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;The\
+  \ base salary range for this role\u2019s listed level is currently for residents\
+  \ of the&amp;nbsp;United States only. This range is intended to reflect the role&#39;s\
+  \ base salary rate in locations throughout the US.&amp;nbsp;Grade level and salary\
+  \ ranges are determined through interviews and a review of education, experience,\
+  \ knowledge, skills, abilities of the applicant, equity with other team members,\
+  \ alignment with market data,&amp;nbsp;and geographic location.&amp;nbsp;The base\
+  \ salary range does not include any bonuses, equity, or benefits. See more information\
+  \ on our &lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLBeneUS&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+  \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+  \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+  \ Sales roles are also eligible for incentive pay targeted at up to 100% of the\
+  \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United\
+  \ States Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$131,600&lt;/span&gt;&lt;span\
+  \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$282,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab\
+  \ is the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;An\
+  \ overview of this role&lt;/h4&gt; &lt;p&gt;You&#39;ll join GitLab&#39;s Software\
+  \ Supply Chain Security stage as the &lt;span class=&quot;textBold&quot;&gt;Staff\
+  \ Engineer, Secrets Management&lt;/span&gt;, providing technical leadership for\
+  \ GitLab&#39;s strategic investment in integrated secrets management. You&#39;ll\
+  \ set the technical direction for GitLab Secrets Manager, our OpenBao-powered solution\
+  \ that helps customers securely store, distribute, and manage the lifecycle of secrets\
+  \ used across CI/CD pipelines. This role sits at the intersection of the GitLab\
+  \ platform and the OpenBao open source project: you&#39;ll drive architecture decisions\
+  \ for multi-tenant secrets management at scale, guide integration into GitLab, and\
+  \ contribute upstream so we can deliver capabilities customers can trust.&lt;/p&gt;\
+  \ &lt;p&gt;In your first year, your success will look like a clear, scalable architecture\
+  \ for GitLab Secrets Manager, reliable performance that meets GitLab.com needs in\
+  \ partnership with Infrastructure teams, and strong cross-team alignment across\
+  \ Pipeline Security, Authentication, and Platform. You&#39;ll also represent GitLab\
+  \ in OpenBao&#39;s governance and technical discussions, helping ensure our product\
+  \ direction and upstream contributions reinforce each other.&lt;/p&gt; &lt;h4&gt;How\
+  \ we interview&lt;/h4&gt; &lt;p&gt;Our process includes technical interviews and\
+  \ stakeholder conversations focused on how you partner across functions and drive\
+  \ alignment.&lt;/p&gt; &lt;p&gt;You should expect questions about how you collaborate\
+  \ with cross-functional partners and communicate tradeoffs in ambiguous, high-impact\
+  \ work.&lt;/p&gt; &lt;h4&gt;What you&#39;ll do&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Lead\
+  \ the technical strategy for GitLab Secrets Manager, setting architecture direction\
+  \ for secure, multi-tenant secrets management at scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Own\
+  \ the integration between GitLab and OpenBao, including namespaces, authentication\
+  \ mechanisms, and policy management.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Collaborate\
+  \ with Pipeline Security, Authentication, and Platform teams to propose, review,\
+  \ and deliver cross-team secrets management improvements.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Partner\
+  \ with GitLab.com Infrastructure teams to ensure secrets management meets reliability,\
+  \ performance, and operational requirements.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Represent\
+  \ GitLab in the OpenBao open source project by contributing features upstream, participating\
+  \ in technical steering discussions, and maintaining strong technical credibility.&lt;/li&gt;\
+  \ &lt;li value=&quot;6&quot;&gt;Mentor and advise engineers on secrets management,\
+  \ cryptographic systems, and secure architecture patterns, raising the quality and\
+  \ consistency of designs and implementations.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Interface\
+  \ with engineering managers and senior leadership to scope initiatives, clarify\
+  \ tradeoffs, and unblock delivery across teams.&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Engage\
+  \ with customers and external stakeholders to understand real-world needs and communicate\
+  \ GitLab&#39;s secrets management capabilities and roadmap direction.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h4&gt;What you&#39;ll bring&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Experience\
+  \ designing and operating secrets management systems (for example, HashiCorp Vault,\
+  \ OpenBao, or cloud-native offerings), including secure storage, access control,\
+  \ and audit logging.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Ability to lead architecture\
+  \ decisions for resilient, multi-tenant services that handle secrets operations\
+  \ at scale, including high availability and cluster management patterns.&lt;/li&gt;\
+  \ &lt;li value=&quot;3&quot;&gt;Working knowledge of cryptographic and key management\
+  \ concepts, such as encryption in transit and at rest, key derivation, and hardware\
+  \ security module (HSM) or PKCS#11 integrations.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Experience\
+  \ implementing authentication and authorization integrations, such as JSON Web Token\
+  \ (JWT) or OpenID Connect (OIDC), mutual Transport Layer Security (mTLS), and certificate-based\
+  \ authentication.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Proficiency building\
+  \ product integrations in Go (within the OpenBao or Vault ecosystem) and Ruby on\
+  \ Rails for GitLab platform integration.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Experience\
+  \ contributing to open source projects and working effectively with distributed\
+  \ governance, balancing upstream needs with product requirements.&lt;/li&gt; &lt;li\
+  \ value=&quot;7&quot;&gt;Demonstrated ability to operate with high autonomy, drive\
+  \ strategy, and serve as a trusted partner to senior leaders (including constructively\
+  \ challenging assumptions and tradeoffs).&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Strong\
+  \ communication and collaboration skills to influence across teams and levels, including\
+  \ mentoring engineers and working in a fully remote, asynchronous environment.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h4&gt;About the team&lt;/h4&gt; &lt;p&gt;The Secrets Management\
+  \ team sits within the Pipeline Security group in GitLab&#39;s Software Supply Chain\
+  \ Security stage. We own GitLab Secrets Manager, an OpenBao-powered capability that\
+  \ helps teams securely store, distribute, and manage the lifecycle of secrets used\
+  \ across continuous integration and continuous delivery (CI/CD) pipelines. The team\
+  \ works closely with Authentication, Authorization, Compliance, and Platform counterparts\
+  \ to deliver secure defaults, reliable operations for GitLab.com, and product-grade\
+  \ integration between GitLab and OpenBao (including namespaces, authentication,\
+  \ and policy management). Our core challenge is building multi-tenant secrets management\
+  \ at scale while balancing upstream open source collaboration with the needs of\
+  \ GitLab customers.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div\
+  \ class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;The\
+  \ base salary range for this role\u2019s listed level is currently for residents\
+  \ of the&amp;nbsp;United States only. This range is intended to reflect the role&#39;s\
+  \ base salary rate in locations throughout the US.&amp;nbsp;Grade level and salary\
+  \ ranges are determined through interviews and a review of education, experience,\
+  \ knowledge, skills, abilities of the applicant, equity with other team members,\
+  \ alignment with market data,&amp;nbsp;and geographic location.&amp;nbsp;The base\
+  \ salary range does not include any bonuses, equity, or benefits. See more information\
+  \ on our &lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLBeneUS&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+  \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+  \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+  \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/GLequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;Arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+  \ Sales roles are also eligible for incentive pay targeted at up to 100% of the\
+  \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United\
+  \ States Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$131,600&lt;/span&gt;&lt;span\
+  \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$282,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+keywords_required:
+- ci/cd
+- go
+- rag
+- recruiting
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: staff
+fit_score_ats: 86
+fit_score_human: 77
+fit_score_strategic: 68
+fit_score_final: 68
+fit_recommendation: skip
+fit_summary: GitLab scores 68 with recommendation skip for role family Backend Engineer.
+risks:
+- Offer may require broader staff-level organizational influence.
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with ci/cd, go, rag, recruiting, reliability.
+- 'Role family aligns with preferred target: Backend Engineer.'
+- 'Remote fit is acceptable under current constraints: Remote (Explicit).'
+status: archived
+status_history:
+- timestamp: '2026-03-15T20:42:03+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source gitlab_greenhouse.
+- timestamp: '2026-03-15T20:59:36+00:00'
+  from: discovered
+  to: archived
+  note: Archived automatically because the current fit recommendation is skip.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 2
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 4
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 6
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: explicit_unknown_scope
+  regions: []
+  label: Remote (Explicit)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote remote staff backend engineer, software supply chain security: secrets\
+    \ management &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;gitlab is the\
+    \ intelligent orchestration platform for devsecops. gitlab enables organizations\
+    \ to increase developer productivity, improve operational efficiency, reduce security\
+    \ and compliance risk, and accelerate digital transformation. more than 50 million\
+    \ registered users and more than 50% of the fortune 100* trust gitlab to ship\
+    \ better, more secure software faster.&lt;/p&gt; &lt;p&gt;the same principles\
+    \ built into our products are reflected in how our team works: we embrace ai as\
+    \ a core productivity multiplier, with all team members expected to incorporate\
+    \ ai into their daily workflows to drive efficiency, innovation, and impact. gitlab\
+    \ is where careers accelerate, innovation flourishes, and every voice is valued.\
+    \ our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+    \ and continuous knowledge exchange, enabling our team members to reach their\
+    \ full potential while collaborating with industry leaders to solve complex problems.\
+    \ &lt;a href=&quot;https://www.youtube.com/watch?v=ouzib5zszqi&quot;&gt;co-create\
+    \ the future with us&lt;/a&gt; as we build technology that transforms how the\
+    \ world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;fortune 500\xAE is a\
+    \ registered trademark of fortune media ip limited, used under license. claim\
+    \ based on gitlab data. fortune 100 refers to the top 20% ranked companies in\
+    \ the 2025 fortune 500 list, published in june 2025. fortune and fortune media\
+    \ ip limited are not affiliated with, and do not endorse products or services\
+    \ of gitlab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;an overview of this role&lt;/h4&gt;\
+    \ &lt;p&gt;you&#39;ll join gitlab&#39;s software supply chain security stage as\
+    \ the &lt;span class=&quot;textbold&quot;&gt;staff engineer, secrets management&lt;/span&gt;,\
+    \ providing technical leadership for gitlab&#39;s strategic investment in integrated\
+    \ secrets management. you&#39;ll set the technical direction for gitlab secrets\
+    \ manager, our openbao-powered solution that helps customers securely store, distribute,\
+    \ and manage the lifecycle of secrets used across ci/cd pipelines. this role sits\
+    \ at the intersection of the gitlab platform and the openbao open source project:\
+    \ you&#39;ll drive architecture decisions for multi-tenant secrets management\
+    \ at scale, guide integration into gitlab, and contribute upstream so we can deliver\
+    \ capabilities customers can trust.&lt;/p&gt; &lt;p&gt;in your first year, your\
+    \ success will look like a clear, scalable architecture for gitlab secrets manager,\
+    \ reliable performance that meets gitlab.com needs in partnership with infrastructure\
+    \ teams, and strong cross-team alignment across pipeline security, authentication,\
+    \ and platform. you&#39;ll also represent gitlab in openbao&#39;s governance and\
+    \ technical discussions, helping ensure our product direction and upstream contributions\
+    \ reinforce each other.&lt;/p&gt; &lt;h4&gt;how we interview&lt;/h4&gt; &lt;p&gt;our\
+    \ process includes technical interviews and stakeholder conversations focused\
+    \ on how you partner across functions and drive alignment.&lt;/p&gt; &lt;p&gt;you\
+    \ should expect questions about how you collaborate with cross-functional partners\
+    \ and communicate tradeoffs in ambiguous, high-impact work.&lt;/p&gt; &lt;h4&gt;what\
+    \ you&#39;ll do&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;lead the technical\
+    \ strategy for gitlab secrets manager, setting architecture direction for secure,\
+    \ multi-tenant secrets management at scale.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;own\
+    \ the integration between gitlab and openbao, including namespaces, authentication\
+    \ mechanisms, and policy management.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;collaborate\
+    \ with pipeline security, authentication, and platform teams to propose, review,\
+    \ and deliver cross-team secrets management improvements.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;partner\
+    \ with gitlab.com infrastructure teams to ensure secrets management meets reliability,\
+    \ performance, and operational requirements.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;represent\
+    \ gitlab in the openbao open source project by contributing features upstream,\
+    \ participating in technical steering discussions, and maintaining strong technical\
+    \ credibility.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;mentor and advise engineers\
+    \ on secrets management, cryptographic systems, and secure architecture patterns,\
+    \ raising the quality and consistency of designs and implementations.&lt;/li&gt;\
+    \ &lt;li value=&quot;7&quot;&gt;interface with engineering managers and senior\
+    \ leadership to scope initiatives, clarify tradeoffs, and unblock delivery across\
+    \ teams.&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;engage with customers and external\
+    \ stakeholders to understand real-world needs and communicate gitlab&#39;s secrets\
+    \ management capabilities and roadmap direction.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;what\
+    \ you&#39;ll bring&lt;/h4&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;experience\
+    \ designing and operating secrets management systems (for example, hashicorp vault,\
+    \ openbao, or cloud-native offerings), including secure storage, access control,\
+    \ and audit logging.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;ability to lead\
+    \ architecture decisions for resilient, multi-tenant services that handle secrets\
+    \ operations at scale, including high availability and cluster management patterns.&lt;/li&gt;\
+    \ &lt;li value=&quot;3&quot;&gt;working knowledge of cryptographic and key management\
+    \ concepts, such as encryption in transit and at rest, key derivation, and hardware\
+    \ security module (hsm) or pkcs#11 integrations.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;experience\
+    \ implementing authentication and authorization integrations, such as json web\
+    \ token (jwt) or openid connect (oidc), mutual transport layer security (mtls),\
+    \ and certificate-based authentication.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;proficiency\
+    \ building product integrations in go (within the openbao or vault ecosystem)\
+    \ and ruby on rails for gitlab platform integration.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;experience\
+    \ contributing to open source projects and working effectively with distributed\
+    \ governance, balancing upstream needs with product requirements.&lt;/li&gt; &lt;li\
+    \ value=&quot;7&quot;&gt;demonstrated ability to operate with high autonomy, drive\
+    \ strategy, and serve as a trusted partner to senior leaders (including constructively\
+    \ challenging assumptions and tradeoffs).&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;strong\
+    \ communication and collaboration skills to influence across teams and levels,\
+    \ including mentoring engineers and working in a fully remote, asynchronous environment.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;h4&gt;about the team&lt;/h4&gt; &lt;p&gt;the secrets management\
+    \ team sits within the pipeline security group in gitlab&#39;s software supply\
+    \ chain security stage. we own gitlab secrets manager, an openbao-powered capability\
+    \ that helps teams securely store, distribute, and manage the lifecycle of secrets\
+    \ used across continuous integration and continuous delivery (ci/cd) pipelines.\
+    \ the team works closely with authentication, authorization, compliance, and platform\
+    \ counterparts to deliver secure defaults, reliable operations for gitlab.com,\
+    \ and product-grade integration between gitlab and openbao (including namespaces,\
+    \ authentication, and policy management). our core challenge is building multi-tenant\
+    \ secrets management at scale while balancing upstream open source collaboration\
+    \ with the needs of gitlab customers.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div\
+    \ class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;the\
+    \ base salary range for this role\u2019s listed level is currently for residents\
+    \ of the&amp;nbsp;united states only. this range is intended to reflect the role&#39;s\
+    \ base salary rate in locations throughout the us.&amp;nbsp;grade level and salary\
+    \ ranges are determined through interviews and a review of education, experience,\
+    \ knowledge, skills, abilities of the applicant, equity with other team members,\
+    \ alignment with market data,&amp;nbsp;and geographic location.&amp;nbsp;the base\
+    \ salary range does not include any bonuses, equity, or benefits. see more information\
+    \ on our &lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;\
+    \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/glbeneus&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;benefits&lt;/a&gt;&lt;span\
+    \ data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:&#39;arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;\
+    \ and &lt;/span&gt;&lt;a class=&quot;waffle-rich-text-link&quot; href=&quot;https://about.gitlab.com/handbook/stock-options/&quot;\
+    \ data-sheets-formula-bar-text-link=&quot;https://bit.ly/glequity&quot; data-sheets-formula-bar-text-style=&quot;font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;&#39;arial&#39;&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;equity&lt;/a&gt;.\
+    \ sales roles are also eligible for incentive pay targeted at up to 100% of the\
+    \ offered base salary.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;united\
+    \ states salary range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$131,600&lt;/span&gt;&lt;span\
+    \ class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$282,000 usd&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;how gitlab will\
+    \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;benefits\
+    \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;flexible\
+    \ paid time off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=definition%20of%20the%20tmrg%20%2d%20team%20member%20resource%20groups,-tmrgs%20are%20voluntary&amp;amp;text=the%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;team\
+    \ member resource groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;equity\
+    \ compensation &amp;amp; employee stock purchase plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;growth\
+    \ and development fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;parental\
+    \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;home\
+    \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;please note that we\
+    \ welcome interest from candidates with varying levels of experience; many successful\
+    \ candidates do not meet every single requirement. additionally, studies have\
+    \ shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+    \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+    \ qualification. if you&#39;re excited about this role, please apply and allow\
+    \ our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;country\
+    \ hiring guidelines: &lt;/strong&gt;gitlab hires new team members in countries\
+    \ around the world. all of our roles are remote, however some roles may carry\
+    \ specific location-based eligibility requirements. our talent acquisition team\
+    \ can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;privacy policy: &lt;/strong&gt;please review our &lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;recruitment privacy policy.&lt;/a&gt; your privacy\
+    \ is important to us.&lt;/p&gt; &lt;p&gt;gitlab is proud to be an equal opportunity\
+    \ workplace and is an affirmative action employer. gitlab\u2019s policies and\
+    \ practices relating to recruitment, employment, career development and advancement,\
+    \ promotion, and retirement are based solely on merit, regardless of race, color,\
+    \ religion, ancestry, sex (including pregnancy, lactation, sexual orientation,\
+    \ gender identity, or gender expression), national origin, age, citizenship, marital\
+    \ status, mental or physical disability, genetic information (including family\
+    \ medical history), discharge status from the military, protected veteran status\
+    \ (which includes disabled veterans, recently separated veterans, active duty\
+    \ wartime or campaign badge veterans, and armed forces service medal veterans),\
+    \ or any other basis protected by law. gitlab will not tolerate discrimination\
+    \ or harassment based on any of these characteristics. see also&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+    \ target=&quot;_blank&quot;&gt;gitlab\u2019s eeo policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+    \ target=&quot;_blank&quot;&gt;eeo is the law&lt;/a&gt;. if you have a disability\
+    \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+    \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+    \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+    \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T20:59:59+00:00'

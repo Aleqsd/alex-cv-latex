@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pipeline - Job Search Dashboard</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/dashboard/styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="shell">
+      <nav class="topnav">
+        <a class="brand" href="/dashboard/">Job Search OS</a>
+        <div class="navlinks">
+          <a href="/dashboard/">Overview</a>
+          <a href="/dashboard/offers.html">Offers</a>
+          <a class="active" href="/dashboard/pipeline.html">Pipeline</a>
+          <a href="/dashboard/profile.html">Profile</a>
+        </div>
+      </nav>
+
+      <section class="page-hero">
+        <p class="eyebrow">Pipeline</p>
+        <h1>What is active, blocked, or waiting on action.</h1>
+        <p class="lede">This view is meant to keep the search operational instead of purely informational.</p>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Status Flow</p>
+            <h2>Application stages</h2>
+          </div>
+        </div>
+        <div class="pipeline" id="pipeline"></div>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Kanban</p>
+            <h2>Flow by current status</h2>
+          </div>
+          <p class="section-note">A compressed board to see where offers are clustering and what needs intervention first.</p>
+        </div>
+        <div class="kanban-board" id="kanban-board"></div>
+      </section>
+
+      <section class="split-layout">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Execution Queue</p>
+              <h2>Highest-priority next actions</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="action-list"></div>
+        </article>
+
+        <article class="panel emphasis">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Coverage</p>
+              <h2>Role family spread</h2>
+            </div>
+          </div>
+          <div class="role-breakdown" id="role-breakdown"></div>
+        </article>
+      </section>
+
+      <section class="split-layout lower">
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Batch Run</p>
+              <h2>Commands to move the queue forward</h2>
+            </div>
+          </div>
+          <div class="decision-cards" id="batch-actions"></div>
+          <div class="empty-state action-output hidden" id="pipeline-action-output"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading tight">
+            <div>
+              <p class="eyebrow">Apply Flow</p>
+              <h2>What happens next</h2>
+            </div>
+          </div>
+          <ul class="plain-list" id="pipeline-checklist"></ul>
+        </article>
+      </section>
+    </main>
+
+    <script src="/dashboard/pipeline.js" type="module"></script>
+  </body>
+</html>

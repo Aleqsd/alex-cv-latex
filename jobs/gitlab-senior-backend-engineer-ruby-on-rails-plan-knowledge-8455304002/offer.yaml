@@ -1,0 +1,477 @@
+id: gitlab-senior-backend-engineer-ruby-on-rails-plan-knowledge-8455304002
+company_name: GitLab
+job_title: 'Senior Backend Engineer (Ruby on Rails), Plan: Knowledge'
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: gitlab_greenhouse
+external_job_id: '8455304002'
+source_url: https://job-boards.greenhouse.io/gitlab/jobs/8455304002
+source_date: '2026-03-15T20:42:03+00:00'
+posted_at: '2026-03-11T11:47:53-04:00'
+last_seen_at: '2026-03-15T20:42:03+00:00'
+location: Remote, Americas; Remote, APAC; Remote, EMEA
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/gitlab/jobs/8455304002
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is\
+  \ the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An\
+  \ overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior Backend Engineer\
+  \ (Ruby on Rails) on the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/knowledge/&quot;&gt;Plan:\
+  \ Knowledge group&lt;/a&gt;, you&#39;ll help shape how teams plan, document, and\
+  \ share knowledge in GitLab. You&#39;ll build and improve the backend systems behind\
+  \ Wiki, Pages, Markdown, and text editors, while also helping design AI-powered\
+  \ capabilities such as the &lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;planner\
+  \ agent &lt;/a&gt;and Model Context Protocol (MCP) integrations that connect GitLab&#39;s\
+  \ GraphQL APIs with external tools. In this role, you&#39;ll work closely with frontend\
+  \ engineers, Product, UX, and Security to create reliable, scalable systems that\
+  \ support both technical and non-technical users across GitLab&#39;s planning experience.\
+  \ As part of GitLab&#39;s AI-first culture, you&#39;ll also use the Duo Agent Platform\
+  \ in your daily workflow to improve productivity and support faster iteration.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Some examples of our projects:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Building&lt;/strong&gt; AI agents such as the\
+  \ planner agent to support planning and knowledge management workflows&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Architecting&lt;/strong&gt; MCP integrations that expose\
+  \ GitLab GraphQL APIs to external AI tools and platforms&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Lead&lt;/strong&gt; backend architecture for Wiki, Pages,\
+  \ Markdown, and text editor capabilities used across GitLab.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;\
+  \ and build AI agents that support planning and knowledge management workflows.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Architect&lt;/strong&gt; MCP integrations that connect\
+  \ GitLab GraphQL APIs with external AI platforms and tools.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Drive&lt;/strong&gt;\
+  \ improvements in reliability and performance across application code, PostgreSQL\
+  \ queries, Redis usage, and background jobs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Develop&lt;/strong&gt;\
+  \ and evolve GraphQL APIs that are clear for frontend engineers and support scalable\
+  \ product experiences.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Collaborate&lt;/strong&gt;\
+  \ with frontend engineers, Product, UX, and Security to break down complex work\
+  \ into shippable iterations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mentor&lt;/strong&gt;\
+  \ engineers through code review, technical discussions, and shared backend best\
+  \ practices.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt; incident\
+  \ response and production debugging, then turn learnings into lasting system improvements.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Strong experience&lt;/strong&gt; building and\
+  \ maintaining backend applications with &lt;strong&gt;Ruby on Rails&lt;/strong&gt;,\
+  \ including core components such as ActiveRecord and Redis.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt;\
+  \ designing and supporting &lt;strong&gt;GraphQL&lt;/strong&gt; APIs with attention\
+  \ to usability, maintainability, and performance.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;\
+  \ of &lt;strong&gt;PostgreSQL&lt;/strong&gt; query design, optimization, and scaling\
+  \ in high-traffic production systems.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt;\
+  \ building or integrating &lt;strong&gt;AI agents&lt;/strong&gt;, intelligent workflows,\
+  \ or related platform capabilities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Familiarity&lt;/strong&gt;\
+  \ with &lt;strong&gt;Model Context Protocol (MCP)&lt;/strong&gt; or similar patterns\
+  \ for connecting APIs to external tools and platforms.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ability&lt;/strong&gt;\
+  \ to investigate production issues, debug complex systems, and improve reliability\
+  \ over time.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt; leading\
+  \ technical decisions, mentoring engineers, and contributing to engineering standards\
+  \ across a team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Clear communication&lt;/strong&gt;\
+  \ and cross-functional collaboration skills, with openness to candidates who bring\
+  \ transferable experience from adjacent backend or platform work.&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The\
+  \ Plan: Knowledge group owns core knowledge management experiences in GitLab, including&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/project/wiki/&quot;&gt; Wiki&lt;/a&gt;,&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/project/pages/&quot;&gt; Pages&lt;/a&gt;,&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/markdown/&quot;&gt; Markdown&lt;/a&gt;,\
+  \ and&lt;a href=&quot;https://docs.gitlab.com/user/rich_text_editor/&quot;&gt; Text\
+  \ Editors&lt;/a&gt;, and is expanding those foundations with AI-powered capabilities\
+  \ such as the&lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;\
+  \ planner agent&lt;/a&gt; and MCP-based integrations. The team includes 6 engineers\
+  \ and works with a Product Manager, Engineering Manager, Product Designer, and Technical\
+  \ Writer. Like many teams at GitLab, they collaborate asynchronously across regions\
+  \ and work closely with the broader&lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/&quot;&gt;\
+  \ Plan stage&lt;/a&gt; to solve backend scale, editing experience, and AI integration\
+  \ challenges in one shared platform. For more on the team&#39;s direction, see the&lt;a\
+  \ href=&quot;https://about.gitlab.com/direction/plan/&quot;&gt; Plan: Knowledge\
+  \ Direction Page&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab\
+  \ is the intelligent orchestration platform for DevSecOps. GitLab enables organizations\
+  \ to increase developer productivity, improve operational efficiency, reduce security\
+  \ and compliance risk, and accelerate digital transformation. More than 50 million\
+  \ registered users and more than 50% of the Fortune 100* trust GitLab to ship better,\
+  \ more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into\
+  \ our products are reflected in how our team works: we embrace AI as a core productivity\
+  \ multiplier, with all team members expected to incorporate AI into their daily\
+  \ workflows to drive efficiency, innovation, and impact. GitLab is where careers\
+  \ accelerate, innovation flourishes, and every voice is valued. Our high-performance\
+  \ culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+  \ and continuous knowledge exchange, enabling our team members to reach their full\
+  \ potential while collaborating with industry leaders to solve complex problems.\
+  \ &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create\
+  \ the future with us&lt;/a&gt; as we build technology that transforms how the world\
+  \ develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500\xAE is a registered\
+  \ trademark of Fortune Media IP Limited, used under license. Claim based on GitLab\
+  \ data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500\
+  \ list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated\
+  \ with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An\
+  \ overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior Backend Engineer\
+  \ (Ruby on Rails) on the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/knowledge/&quot;&gt;Plan:\
+  \ Knowledge group&lt;/a&gt;, you&#39;ll help shape how teams plan, document, and\
+  \ share knowledge in GitLab. You&#39;ll build and improve the backend systems behind\
+  \ Wiki, Pages, Markdown, and text editors, while also helping design AI-powered\
+  \ capabilities such as the &lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;planner\
+  \ agent &lt;/a&gt;and Model Context Protocol (MCP) integrations that connect GitLab&#39;s\
+  \ GraphQL APIs with external tools. In this role, you&#39;ll work closely with frontend\
+  \ engineers, Product, UX, and Security to create reliable, scalable systems that\
+  \ support both technical and non-technical users across GitLab&#39;s planning experience.\
+  \ As part of GitLab&#39;s AI-first culture, you&#39;ll also use the Duo Agent Platform\
+  \ in your daily workflow to improve productivity and support faster iteration.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Some examples of our projects:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Building&lt;/strong&gt; AI agents such as the\
+  \ planner agent to support planning and knowledge management workflows&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Architecting&lt;/strong&gt; MCP integrations that expose\
+  \ GitLab GraphQL APIs to external AI tools and platforms&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Lead&lt;/strong&gt; backend architecture for Wiki, Pages,\
+  \ Markdown, and text editor capabilities used across GitLab.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;\
+  \ and build AI agents that support planning and knowledge management workflows.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Architect&lt;/strong&gt; MCP integrations that connect\
+  \ GitLab GraphQL APIs with external AI platforms and tools.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Drive&lt;/strong&gt;\
+  \ improvements in reliability and performance across application code, PostgreSQL\
+  \ queries, Redis usage, and background jobs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Develop&lt;/strong&gt;\
+  \ and evolve GraphQL APIs that are clear for frontend engineers and support scalable\
+  \ product experiences.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Collaborate&lt;/strong&gt;\
+  \ with frontend engineers, Product, UX, and Security to break down complex work\
+  \ into shippable iterations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mentor&lt;/strong&gt;\
+  \ engineers through code review, technical discussions, and shared backend best\
+  \ practices.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt; incident\
+  \ response and production debugging, then turn learnings into lasting system improvements.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Strong experience&lt;/strong&gt; building and\
+  \ maintaining backend applications with &lt;strong&gt;Ruby on Rails&lt;/strong&gt;,\
+  \ including core components such as ActiveRecord and Redis.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt;\
+  \ designing and supporting &lt;strong&gt;GraphQL&lt;/strong&gt; APIs with attention\
+  \ to usability, maintainability, and performance.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;\
+  \ of &lt;strong&gt;PostgreSQL&lt;/strong&gt; query design, optimization, and scaling\
+  \ in high-traffic production systems.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt;\
+  \ building or integrating &lt;strong&gt;AI agents&lt;/strong&gt;, intelligent workflows,\
+  \ or related platform capabilities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Familiarity&lt;/strong&gt;\
+  \ with &lt;strong&gt;Model Context Protocol (MCP)&lt;/strong&gt; or similar patterns\
+  \ for connecting APIs to external tools and platforms.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ability&lt;/strong&gt;\
+  \ to investigate production issues, debug complex systems, and improve reliability\
+  \ over time.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt; leading\
+  \ technical decisions, mentoring engineers, and contributing to engineering standards\
+  \ across a team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Clear communication&lt;/strong&gt;\
+  \ and cross-functional collaboration skills, with openness to candidates who bring\
+  \ transferable experience from adjacent backend or platform work.&lt;/li&gt; &lt;/ul&gt;\
+  \ &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The\
+  \ Plan: Knowledge group owns core knowledge management experiences in GitLab, including&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/project/wiki/&quot;&gt; Wiki&lt;/a&gt;,&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/project/pages/&quot;&gt; Pages&lt;/a&gt;,&lt;a\
+  \ href=&quot;https://docs.gitlab.com/user/markdown/&quot;&gt; Markdown&lt;/a&gt;,\
+  \ and&lt;a href=&quot;https://docs.gitlab.com/user/rich_text_editor/&quot;&gt; Text\
+  \ Editors&lt;/a&gt;, and is expanding those foundations with AI-powered capabilities\
+  \ such as the&lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;\
+  \ planner agent&lt;/a&gt; and MCP-based integrations. The team includes 6 engineers\
+  \ and works with a Product Manager, Engineering Manager, Product Designer, and Technical\
+  \ Writer. Like many teams at GitLab, they collaborate asynchronously across regions\
+  \ and work closely with the broader&lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/&quot;&gt;\
+  \ Plan stage&lt;/a&gt; to solve backend scale, editing experience, and AI integration\
+  \ challenges in one shared platform. For more on the team&#39;s direction, see the&lt;a\
+  \ href=&quot;https://about.gitlab.com/direction/plan/&quot;&gt; Plan: Knowledge\
+  \ Direction Page&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab will\
+  \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits\
+  \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;Flexible\
+  \ Paid Time Off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=Definition%20of%20the%20TMRG%20%2D%20Team%20Member%20Resource%20Groups,-TMRGs%20are%20voluntary&amp;amp;text=The%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;Team\
+  \ Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity\
+  \ Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth\
+  \ and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental\
+  \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;Home\
+  \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome\
+  \ interest from candidates with varying levels of experience; many successful candidates\
+  \ do not meet every single requirement. Additionally, studies have shown that people\
+  \ from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+  \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+  \ qualification. If you&#39;re excited about this role, please apply and allow our\
+  \ recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country\
+  \ Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around\
+  \ the world. All of our roles are remote, however some roles may carry specific\
+  \ location-based eligibility requirements. Our Talent Acquisition team can help\
+  \ answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a\
+  \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy\
+  \ is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity\
+  \ workplace and is an affirmative action employer. GitLab\u2019s policies and practices\
+  \ relating to recruitment, employment, career development and advancement, promotion,\
+  \ and retirement are based solely on merit, regardless of race, color, religion,\
+  \ ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity,\
+  \ or gender expression), national origin, age, citizenship, marital status, mental\
+  \ or physical disability, genetic information (including family medical history),\
+  \ discharge status from the military, protected veteran status (which includes disabled\
+  \ veterans, recently separated veterans, active duty wartime or campaign badge veterans,\
+  \ and Armed Forces service medal veterans), or any other basis protected by law.\
+  \ GitLab will not tolerate discrimination or harassment based on any of these characteristics.\
+  \ See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+  \ target=&quot;_blank&quot;&gt;GitLab\u2019s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+  \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+  \ target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability\
+  \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+  \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+  \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+  \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+keywords_required:
+- apis
+- recruiting
+- reliability
+- rust
+- sql
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 35
+fit_score_human: 100
+fit_score_strategic: 20
+fit_score_final: 35
+fit_recommendation: skip
+fit_summary: GitLab scores 35 with recommendation skip for role family Backend Engineer.
+risks:
+- Remote scope appears incompatible with the current search geography.
+strengths:
+- Direct keyword overlap with apis, recruiting, reliability, rust, sql.
+- 'Role family aligns with preferred target: Backend Engineer.'
+status: archived
+status_history:
+- timestamp: '2026-03-15T20:42:03+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source gitlab_greenhouse.
+- timestamp: '2026-03-15T20:45:53+00:00'
+  from: discovered
+  to: archived
+  note: 'Blocked by location constraint: remote work is restricted outside the current
+    search geography.'
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 0
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 5
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: regional
+  regions:
+  - EMEA
+  - Americas
+  - APAC
+  label: Remote (Europe / EMEA)
+  eligible: false
+  explicit: true
+  reason: Remote scope appears incompatible with the current search geography.
+  raw: "remote remote, americas; remote, apac; remote, emea senior backend engineer\
+    \ (ruby on rails), plan: knowledge &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;gitlab\
+    \ is the intelligent orchestration platform for devsecops. gitlab enables organizations\
+    \ to increase developer productivity, improve operational efficiency, reduce security\
+    \ and compliance risk, and accelerate digital transformation. more than 50 million\
+    \ registered users and more than 50% of the fortune 100* trust gitlab to ship\
+    \ better, more secure software faster.&lt;/p&gt; &lt;p&gt;the same principles\
+    \ built into our products are reflected in how our team works: we embrace ai as\
+    \ a core productivity multiplier, with all team members expected to incorporate\
+    \ ai into their daily workflows to drive efficiency, innovation, and impact. gitlab\
+    \ is where careers accelerate, innovation flourishes, and every voice is valued.\
+    \ our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt;\
+    \ and continuous knowledge exchange, enabling our team members to reach their\
+    \ full potential while collaborating with industry leaders to solve complex problems.\
+    \ &lt;a href=&quot;https://www.youtube.com/watch?v=ouzib5zszqi&quot;&gt;co-create\
+    \ the future with us&lt;/a&gt; as we build technology that transforms how the\
+    \ world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;fortune 500\xAE is a\
+    \ registered trademark of fortune media ip limited, used under license. claim\
+    \ based on gitlab data. fortune 100 refers to the top 20% ranked companies in\
+    \ the 2025 fortune 500 list, published in june 2025. fortune and fortune media\
+    \ ip limited are not affiliated with, and do not endorse products or services\
+    \ of gitlab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;an overview\
+    \ of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;as a senior backend engineer\
+    \ (ruby on rails) on the &lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/knowledge/&quot;&gt;plan:\
+    \ knowledge group&lt;/a&gt;, you&#39;ll help shape how teams plan, document, and\
+    \ share knowledge in gitlab. you&#39;ll build and improve the backend systems\
+    \ behind wiki, pages, markdown, and text editors, while also helping design ai-powered\
+    \ capabilities such as the &lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;planner\
+    \ agent &lt;/a&gt;and model context protocol (mcp) integrations that connect gitlab&#39;s\
+    \ graphql apis with external tools. in this role, you&#39;ll work closely with\
+    \ frontend engineers, product, ux, and security to create reliable, scalable systems\
+    \ that support both technical and non-technical users across gitlab&#39;s planning\
+    \ experience. as part of gitlab&#39;s ai-first culture, you&#39;ll also use the\
+    \ duo agent platform in your daily workflow to improve productivity and support\
+    \ faster iteration.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;some examples of our projects:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;building&lt;/strong&gt; ai agents such as\
+    \ the planner agent to support planning and knowledge management workflows&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;architecting&lt;/strong&gt; mcp integrations that expose\
+    \ gitlab graphql apis to external ai tools and platforms&lt;/li&gt; &lt;/ul&gt;\
+    \ &lt;h2&gt;&lt;strong&gt;what you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;\
+    \ &lt;li&gt;&lt;strong&gt;lead&lt;/strong&gt; backend architecture for wiki, pages,\
+    \ markdown, and text editor capabilities used across gitlab.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;design&lt;/strong&gt;\
+    \ and build ai agents that support planning and knowledge management workflows.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;architect&lt;/strong&gt; mcp integrations that connect\
+    \ gitlab graphql apis with external ai platforms and tools.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;drive&lt;/strong&gt;\
+    \ improvements in reliability and performance across application code, postgresql\
+    \ queries, redis usage, and background jobs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;develop&lt;/strong&gt;\
+    \ and evolve graphql apis that are clear for frontend engineers and support scalable\
+    \ product experiences.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;collaborate&lt;/strong&gt;\
+    \ with frontend engineers, product, ux, and security to break down complex work\
+    \ into shippable iterations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;mentor&lt;/strong&gt;\
+    \ engineers through code review, technical discussions, and shared backend best\
+    \ practices.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;support&lt;/strong&gt; incident\
+    \ response and production debugging, then turn learnings into lasting system improvements.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;what you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;strong experience&lt;/strong&gt; building\
+    \ and maintaining backend applications with &lt;strong&gt;ruby on rails&lt;/strong&gt;,\
+    \ including core components such as activerecord and redis.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;experience&lt;/strong&gt;\
+    \ designing and supporting &lt;strong&gt;graphql&lt;/strong&gt; apis with attention\
+    \ to usability, maintainability, and performance.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;knowledge&lt;/strong&gt;\
+    \ of &lt;strong&gt;postgresql&lt;/strong&gt; query design, optimization, and scaling\
+    \ in high-traffic production systems.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;experience&lt;/strong&gt;\
+    \ building or integrating &lt;strong&gt;ai agents&lt;/strong&gt;, intelligent\
+    \ workflows, or related platform capabilities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;familiarity&lt;/strong&gt;\
+    \ with &lt;strong&gt;model context protocol (mcp)&lt;/strong&gt; or similar patterns\
+    \ for connecting apis to external tools and platforms.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ability&lt;/strong&gt;\
+    \ to investigate production issues, debug complex systems, and improve reliability\
+    \ over time.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;experience&lt;/strong&gt; leading\
+    \ technical decisions, mentoring engineers, and contributing to engineering standards\
+    \ across a team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;clear communication&lt;/strong&gt;\
+    \ and cross-functional collaboration skills, with openness to candidates who bring\
+    \ transferable experience from adjacent backend or platform work.&lt;/li&gt; &lt;/ul&gt;\
+    \ &lt;h2&gt;&lt;strong&gt;about the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;the\
+    \ plan: knowledge group owns core knowledge management experiences in gitlab,\
+    \ including&lt;a href=&quot;https://docs.gitlab.com/user/project/wiki/&quot;&gt;\
+    \ wiki&lt;/a&gt;,&lt;a href=&quot;https://docs.gitlab.com/user/project/pages/&quot;&gt;\
+    \ pages&lt;/a&gt;,&lt;a href=&quot;https://docs.gitlab.com/user/markdown/&quot;&gt;\
+    \ markdown&lt;/a&gt;, and&lt;a href=&quot;https://docs.gitlab.com/user/rich_text_editor/&quot;&gt;\
+    \ text editors&lt;/a&gt;, and is expanding those foundations with ai-powered capabilities\
+    \ such as the&lt;a href=&quot;https://docs.gitlab.com/user/duo_agent_platform/agents/foundational_agents/planner/&quot;&gt;\
+    \ planner agent&lt;/a&gt; and mcp-based integrations. the team includes 6 engineers\
+    \ and works with a product manager, engineering manager, product designer, and\
+    \ technical writer. like many teams at gitlab, they collaborate asynchronously\
+    \ across regions and work closely with the broader&lt;a href=&quot;https://handbook.gitlab.com/handbook/engineering/devops/dev/plan/&quot;&gt;\
+    \ plan stage&lt;/a&gt; to solve backend scale, editing experience, and ai integration\
+    \ challenges in one shared platform. for more on the team&#39;s direction, see\
+    \ the&lt;a href=&quot;https://about.gitlab.com/direction/plan/&quot;&gt; plan:\
+    \ knowledge direction page&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;how gitlab will\
+    \ support you&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;benefits\
+    \ to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/paid-time-off/&quot;&gt;flexible\
+    \ paid time off&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/erg-guide/#:~:text=definition%20of%20the%20tmrg%20%2d%20team%20member%20resource%20groups,-tmrgs%20are%20voluntary&amp;amp;text=the%20purpose%20for%20this%20type,developing%20the%20sense%20of%20belonging.&quot;&gt;team\
+    \ member resource groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;equity\
+    \ compensation &amp;amp; employee stock purchase plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;growth\
+    \ and development fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;parental\
+    \ leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/finance/expenses/#equipment&quot;&gt;home\
+    \ office&lt;/a&gt; support&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;please note that we\
+    \ welcome interest from candidates with varying levels of experience; many successful\
+    \ candidates do not meet every single requirement. additionally, studies have\
+    \ shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented\
+    \ groups&lt;/a&gt; are less likely to apply to a job unless they meet every single\
+    \ qualification. if you&#39;re excited about this role, please apply and allow\
+    \ our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;country\
+    \ hiring guidelines: &lt;/strong&gt;gitlab hires new team members in countries\
+    \ around the world. all of our roles are remote, however some roles may carry\
+    \ specific location-based eligibility requirements. our talent acquisition team\
+    \ can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;privacy policy: &lt;/strong&gt;please review our &lt;a\
+    \ href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;recruitment privacy policy.&lt;/a&gt; your privacy\
+    \ is important to us.&lt;/p&gt; &lt;p&gt;gitlab is proud to be an equal opportunity\
+    \ workplace and is an affirmative action employer. gitlab\u2019s policies and\
+    \ practices relating to recruitment, employment, career development and advancement,\
+    \ promotion, and retirement are based solely on merit, regardless of race, color,\
+    \ religion, ancestry, sex (including pregnancy, lactation, sexual orientation,\
+    \ gender identity, or gender expression), national origin, age, citizenship, marital\
+    \ status, mental or physical disability, genetic information (including family\
+    \ medical history), discharge status from the military, protected veteran status\
+    \ (which includes disabled veterans, recently separated veterans, active duty\
+    \ wartime or campaign badge veterans, and armed forces service medal veterans),\
+    \ or any other basis protected by law. gitlab will not tolerate discrimination\
+    \ or harassment based on any of these characteristics. see also&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot;\
+    \ target=&quot;_blank&quot;&gt;gitlab\u2019s eeo policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a\
+    \ href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot;\
+    \ target=&quot;_blank&quot;&gt;eeo is the law&lt;/a&gt;. if you have a disability\
+    \ or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot;\
+    \ target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during\
+    \ the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot;\
+    \ target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T20:59:59+00:00'

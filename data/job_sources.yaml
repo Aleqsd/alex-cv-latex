@@ -1,0 +1,537 @@
+version: 1
+sources:
+  - id: gitlab_greenhouse
+    enabled: true
+    company_name: GitLab
+    provider: greenhouse
+    board_token: gitlab
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 86
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - devops
+      - reliability
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - recruiter
+    require_keywords:
+      - python
+      - go
+      - typescript
+      - ci/cd
+      - gitlab ci
+      - release
+      - backend
+    notes: Official GitLab Greenhouse board. Strong fit for remote software and CI/CD-oriented platform roles.
+
+  - id: mixmax_greenhouse
+    enabled: true
+    company_name: Mixmax
+    provider: greenhouse
+    board_token: mixmax
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 85
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - full stack
+      - full-stack
+      - platform
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+    require_keywords:
+      - python
+      - typescript
+      - react
+      - backend
+      - api
+      - product
+    notes: Official Mixmax Greenhouse board. Often posts remote engineering roles across Europe and LATAM.
+
+  - id: aircall_lever
+    enabled: true
+    company_name: Aircall
+    provider: lever
+    board_token: aircall
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 85
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - devops
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+    require_keywords:
+      - python
+      - go
+      - typescript
+      - ci/cd
+      - automation
+      - developer productivity
+      - backend
+    notes: Official Aircall Lever board. Good source for scale-up backend and engineering-productivity roles in Europe.
+
+  - id: collabora_lever
+    enabled: true
+    company_name: Collabora
+    provider: lever
+    board_token: collabora
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 84
+    allow_title_terms:
+      - engineer
+      - developer
+      - software
+      - backend
+      - infrastructure
+      - devops
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+    require_keywords:
+      - python
+      - backend
+      - cloud
+      - automation
+      - ci/cd
+    notes: Official Collabora Lever board. Frequently includes remote engineering roles with developer tooling and CI/CD overlap.
+
+  - id: jobandtalent_lever
+    enabled: true
+    company_name: Job&Talent
+    provider: lever
+    board_token: jobandtalent
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 84
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - devops
+      - reliability
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+    require_keywords:
+      - python
+      - go
+      - typescript
+      - ci/cd
+      - release
+      - automation
+    notes: Official Job&Talent Lever board. Useful for backend and delivery/platform roles with remote EMEA coverage.
+
+  - id: n8n_ashby
+    enabled: true
+    company_name: n8n
+    provider: ashby
+    board_token: n8n
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 86
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - full stack
+      - full-stack
+      - platform
+      - devops
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+    require_keywords:
+      - typescript
+      - react
+      - node
+      - backend
+      - api
+      - automation
+    notes: Official n8n Ashby board. Strong startup/scale-up source for remote Europe software engineering roles.
+
+  - id: emma_sleep_lever
+    enabled: true
+    company_name: Emma
+    provider: lever
+    board_token: emma-sleep
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 84
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - full stack
+      - full-stack
+      - devops
+      - platform
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+      - data scientist
+    require_keywords:
+      - python
+      - go
+      - typescript
+      - backend
+      - ci/cd
+      - automation
+    notes: Official Emma Lever board. Good source for remote-first software and delivery engineering roles.
+
+  - id: viabill_lever
+    enabled: true
+    company_name: ViaBill
+    provider: lever
+    board_token: viabill
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 84
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - devops
+      - release
+      - platform
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+    require_keywords:
+      - ci/cd
+      - github actions
+      - release
+      - automation
+      - backend
+    notes: Official ViaBill Lever board. Good fit for CI/CD-heavy DevOps and software roles.
+
+  - id: twingate_lever
+    enabled: true
+    company_name: Twingate
+    provider: lever
+    board_token: twingate
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 85
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - devops
+      - platform
+      - productivity
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+      - security researcher
+    require_keywords:
+      - ci/cd
+      - automation
+      - developer productivity
+      - backend
+      - go
+    notes: Official Twingate Lever board. Useful for remote engineering systems, backend, and CI/CD-adjacent roles.
+
+  - id: remote_greenhouse
+    enabled: true
+    company_name: Remote
+    provider: greenhouse
+    board_token: remotecom
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 88
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - site reliability
+      - sre
+      - devops
+    deny_title_terms:
+      - manager
+      - leader
+      - designer
+      - analyst
+      - internship
+      - support
+      - recruiter
+      - frontend
+      - front-end
+    require_keywords:
+      - backend
+      - api
+      - python
+      - typescript
+      - go
+      - ci/cd
+      - automation
+      - reliability
+    notes: Official Remote Greenhouse board. Strong source for fully remote backend and reliability roles with explicit regional remote scopes.
+
+  - id: mozilla_greenhouse
+    enabled: true
+    company_name: Mozilla
+    provider: greenhouse
+    board_token: mozilla
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 88
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - site reliability
+      - sre
+      - automation
+      - operations
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - product
+      - marketing
+      - mobile
+    require_keywords:
+      - backend
+      - software
+      - automation
+      - developer tools
+      - ci/cd
+      - reliability
+    notes: Official Mozilla Greenhouse board. Good source for remote engineering roles with explicit country coverage across Europe.
+
+  - id: sourcegraph_greenhouse
+    enabled: true
+    company_name: Sourcegraph
+    provider: greenhouse
+    board_token: sourcegraph91
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 87
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - developer
+      - infrastructure
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - sales
+      - support
+      - marketing
+    require_keywords:
+      - backend
+      - go
+      - typescript
+      - developer tools
+      - platform
+      - automation
+      - api
+    notes: Official Sourcegraph Greenhouse board. Strong fit for developer tooling and remote software engineering roles.
+
+  - id: metawealth_lever
+    enabled: true
+    company_name: MetaWealth
+    provider: lever
+    board_token: metawealth
+    company_stage: series_a
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 88
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - full stack
+      - full-stack
+      - devops
+      - platform
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+      - mobile
+      - frontend
+      - blockchain
+    require_keywords:
+      - backend
+      - api
+      - go
+      - node
+      - typescript
+      - aws
+      - ci/cd
+      - automation
+    notes: Official MetaWealth Lever board. Has explicit Remote/Europe-only backend and DevOps roles.
+
+  - id: yuno_lever
+    enabled: true
+    company_name: Yuno
+    provider: lever
+    board_token: yuno
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 88
+    allow_title_terms:
+      - engineer
+      - backend
+      - software
+      - platform
+      - site reliability
+      - sre
+      - devops
+    deny_title_terms:
+      - manager
+      - designer
+      - analyst
+      - internship
+      - support
+      - data
+      - frontend
+    require_keywords:
+      - backend
+      - api
+      - go
+      - python
+      - ci/cd
+      - automation
+      - reliability
+    notes: Official Yuno Lever board. Remote Europe engineering roles with stronger backend and reliability overlap.
+
+  - id: canonical_greenhouse
+    enabled: true
+    company_name: Canonical
+    provider: greenhouse
+    board_token: canonical
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 89
+    allow_title_terms:
+      - software engineer
+      - backend
+      - golang
+      - platform
+      - devops
+      - site reliability
+      - sre
+      - automation
+    deny_title_terms:
+      - manager
+      - leader
+      - designer
+      - analyst
+      - internship
+      - support
+      - sales
+      - account
+      - frontend
+      - front-end
+      - mobile
+    require_keywords:
+      - backend
+      - go
+      - python
+      - ci/cd
+      - automation
+      - release
+      - developer tools
+      - platform
+    notes: Official Canonical Greenhouse board. Good source for home-based EMEA software and CI/CD-adjacent platform roles.
+
+  - id: grafana_greenhouse
+    enabled: true
+    company_name: Grafana Labs
+    provider: greenhouse
+    board_token: grafanalabs
+    company_stage: scale_up
+    remote_policy_hint: remote
+    location_hint: ""
+    auto_prepare_min_score: 89
+    allow_title_terms:
+      - backend
+      - software engineer
+      - site reliability
+      - sre
+      - platform
+      - infrastructure
+      - devops
+    deny_title_terms:
+      - manager
+      - leader
+      - architect
+      - analyst
+      - internship
+      - support
+      - sales
+      - frontend
+      - front-end
+      - mobile
+    require_keywords:
+      - backend
+      - go
+      - python
+      - reliability
+      - automation
+      - ci/cd
+      - platform
+    notes: Official Grafana Labs Greenhouse board. Explicit country-remote backend and SRE roles across Europe.

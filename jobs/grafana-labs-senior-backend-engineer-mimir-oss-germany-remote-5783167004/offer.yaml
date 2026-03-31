@@ -1,0 +1,466 @@
+id: grafana-labs-senior-backend-engineer-mimir-oss-germany-remote-5783167004
+company_name: Grafana Labs
+job_title: Senior Backend Engineer | Mimir OSS | Germany | Remote
+normalized_role_family: backend_engineer
+source: auto_discovery
+source_provider: greenhouse
+discovery_source: grafana_greenhouse
+external_job_id: '5783167004'
+source_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5783167004
+source_date: '2026-03-15T20:59:37+00:00'
+posted_at: '2026-03-12T11:40:25-04:00'
+last_seen_at: '2026-03-15T20:59:37+00:00'
+location: Germany (Remote)
+remote_policy: remote
+employment_type: full_time
+company_stage: scale_up
+salary_range: ''
+application_url: https://job-boards.greenhouse.io/grafanalabs/jobs/5783167004
+application_platform: ''
+application_questions: []
+page_signals: {}
+job_description_raw: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity\
+  \ and we would be interested in applicants based in Spain, Germany, the UK or Sweden\
+  \ at this time.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Opportunity:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;As a Mimir Engineer you\u2019ll join one of these two sub-squads: Query\
+  \ or Storage. Together, they maintain the open source &lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;Grafana\
+  \ Mimir OSS project&lt;/a&gt; and operate Grafana Cloud Metrics across three major\
+  \ cloud providers. This role offers the opportunity to work on large-scale, high-performance\
+  \ distributed systems where efficiency, resilience, and reliability are essential\
+  \ to keeping our metrics offerings competitive and smooth at massive volumes.&lt;/p&gt;\
+  \ &lt;p&gt;Mimir engineers work across a variety of streams. You\u2019ll typically\
+  \ collaborate with another engineer on a larger project while also driving performance\
+  \ and reliability improvements identified from operating the system in production.\
+  \ In this role, you\u2019ll write and review PRs and design documents, help guide\
+  \ automated release rollouts, and participate in the on-call rotation for the systems\
+  \ you own. This is a chance to directly shape, optimize, and scale one of the industry\u2019\
+  s most advanced metrics platforms.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You\u2019\
+  ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Take an active role in\
+  \ influencing our roadmap and your own career objectives&amp;nbsp;&lt;/li&gt; &lt;li&gt;Work\
+  \ with your team to deliver new features solving customer problems and enhancing\
+  \ operations on a large database at scale&lt;/li&gt; &lt;li&gt;Drive projects from\
+  \ initial idea all the way to operations once it is in the hands of customers&lt;/li&gt;\
+  \ &lt;li&gt;Embrace our open-source culture and contribute to other projects that\
+  \ may not directly fall within your team\u2019s scope&lt;/li&gt; &lt;li&gt;Design,\
+  \ build, operate, and maintain critical systems, owning the reliability, performance,\
+  \ and availability&lt;/li&gt; &lt;li&gt;Be a part of your team\u2019s follow-the-sun\
+  \ on-call rotations and take ownership of the services you\u2019re running&lt;/li&gt;\
+  \ &lt;li&gt;Support other team members, participate in design discussions and collaborate\
+  \ with the team&lt;/li&gt; &lt;li&gt;Learn new skills by gaining a deeper understanding\
+  \ of our cloud product and our customers and getting to know the codebase of a large\
+  \ distributed system&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We invest heavily in developer\
+  \ productivity. You can use modern AI coding assistants as part of your daily workflow\
+  \ (your choice of tools, within security guidelines), backed by a company-funded\
+  \ usage budget so you can iterate quickly without unnecessary friction.&lt;br&gt;We\
+  \ encourage pragmatic AI-assisted development: faster prototyping, test generation,\
+  \ refactors, documentation, and incident follow-ups\u2014always paired with strong\
+  \ code review and quality standards.&lt;br&gt;You\u2019ll also have access to frontier\
+  \ models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Pragmatism:\
+  \ You are able to take on complex challenges and break them down to achieve short\
+  \ feedback loops: to analyze, design, and build modular solutions, deliver MVPs,\
+  \ gather data and feedback and then progress iteratively&lt;/li&gt; &lt;li&gt;Collaboration\
+  \ and communication: The smallest unit we have is a squad. You\u2019ll be working\
+  \ with your teammates in a fully remote setup. Good communication skills are a must.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Solid experience with at least one programming\
+  \ language. We use Go, but if you have familiarity with Python, C, C++, Rust or\
+  \ similar then that translates well&lt;/li&gt; &lt;li&gt;Some experience with delivering\
+  \ projects from gathering requirements, brainstorming ideas all the way to shipping\
+  \ a product to the customer\u2019s hands in a self-driven way&lt;/li&gt; &lt;li&gt;Some\
+  \ experience with developing software that runs in the Cloud &lt;em&gt;or&lt;/em&gt;\
+  \ some experience with systems engineering&lt;/li&gt; &lt;li&gt;Some experience\
+  \ with being on-call and following the DevOps model&lt;/li&gt; &lt;li&gt;Experience\
+  \ writing clean, robust, and performant software that is easily maintained by others&lt;/li&gt;\
+  \ &lt;li&gt;Familiarity with observability systems, know when to use metrics, logs,\
+  \ traces, to debug a problem.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus\
+  \ Points For:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience working with\
+  \ Kubernetes&lt;/li&gt; &lt;li&gt;Experience working with queue systems, e.g. the\
+  \ Kafka protocol&lt;/li&gt; &lt;li&gt;Been a user of Grafana and Prometheus in operational\
+  \ roles (including on-call for your team at a previous employer or just using these\
+  \ tools on hobby/homelab projects)&lt;/li&gt; &lt;li&gt;Exposure to microservices\
+  \ architecture and distributed systems, or a desire to learn&lt;/li&gt; &lt;li&gt;Familiarity\
+  \ with the concept of infrastructure as code&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;In\
+  \ Germany, the compensation range for this role is EUR 97,034 - EUR 116,441. Actual\
+  \ compensation may vary based on level, experience, and skillset as assessed throughout\
+  \ the interview process. All of our roles include Restricted Stock Units (RSUs),\
+  \ giving every team member ownership in Grafana Labs&#39; success. We believe in\
+  \ shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+job_description_clean: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana\
+  \ Labs is a remote-first, open-source powerhouse. There are more than 20M users\
+  \ of Grafana, the open source visualization tool, around the globe, monitoring everything\
+  \ from beehives to climate change in the Alps. The instantly recognizable dashboards\
+  \ have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon\
+  \ and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including\
+  \ Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with\
+  \ the Grafana LGTM Stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;Grafana\
+  \ Cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;Grafana\
+  \ Enterprise Stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;Grafana\
+  \ Mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;Grafana\
+  \ Loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;Grafana\
+  \ Tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true\
+  \ to what makes us different: an open-source legacy, a global collaborative culture,\
+  \ and a passion for meaningful work. Our team thrives in an innovation-driven environment\
+  \ where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You\
+  \ may not meet every requirement, and that\u2019s okay. If this role excites you,\
+  \ we\u2019d love you to raise your hand for what could be a truly career-defining\
+  \ opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This is a remote opportunity\
+  \ and we would be interested in applicants based in Spain, Germany, the UK or Sweden\
+  \ at this time.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Opportunity:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;p&gt;As a Mimir Engineer you\u2019ll join one of these two sub-squads: Query\
+  \ or Storage. Together, they maintain the open source &lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;Grafana\
+  \ Mimir OSS project&lt;/a&gt; and operate Grafana Cloud Metrics across three major\
+  \ cloud providers. This role offers the opportunity to work on large-scale, high-performance\
+  \ distributed systems where efficiency, resilience, and reliability are essential\
+  \ to keeping our metrics offerings competitive and smooth at massive volumes.&lt;/p&gt;\
+  \ &lt;p&gt;Mimir engineers work across a variety of streams. You\u2019ll typically\
+  \ collaborate with another engineer on a larger project while also driving performance\
+  \ and reliability improvements identified from operating the system in production.\
+  \ In this role, you\u2019ll write and review PRs and design documents, help guide\
+  \ automated release rollouts, and participate in the on-call rotation for the systems\
+  \ you own. This is a chance to directly shape, optimize, and scale one of the industry\u2019\
+  s most advanced metrics platforms.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You\u2019\
+  ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Take an active role in\
+  \ influencing our roadmap and your own career objectives&amp;nbsp;&lt;/li&gt; &lt;li&gt;Work\
+  \ with your team to deliver new features solving customer problems and enhancing\
+  \ operations on a large database at scale&lt;/li&gt; &lt;li&gt;Drive projects from\
+  \ initial idea all the way to operations once it is in the hands of customers&lt;/li&gt;\
+  \ &lt;li&gt;Embrace our open-source culture and contribute to other projects that\
+  \ may not directly fall within your team\u2019s scope&lt;/li&gt; &lt;li&gt;Design,\
+  \ build, operate, and maintain critical systems, owning the reliability, performance,\
+  \ and availability&lt;/li&gt; &lt;li&gt;Be a part of your team\u2019s follow-the-sun\
+  \ on-call rotations and take ownership of the services you\u2019re running&lt;/li&gt;\
+  \ &lt;li&gt;Support other team members, participate in design discussions and collaborate\
+  \ with the team&lt;/li&gt; &lt;li&gt;Learn new skills by gaining a deeper understanding\
+  \ of our cloud product and our customers and getting to know the codebase of a large\
+  \ distributed system&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We invest heavily in developer\
+  \ productivity. You can use modern AI coding assistants as part of your daily workflow\
+  \ (your choice of tools, within security guidelines), backed by a company-funded\
+  \ usage budget so you can iterate quickly without unnecessary friction.&lt;br&gt;We\
+  \ encourage pragmatic AI-assisted development: faster prototyping, test generation,\
+  \ refactors, documentation, and incident follow-ups\u2014always paired with strong\
+  \ code review and quality standards.&lt;br&gt;You\u2019ll also have access to frontier\
+  \ models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What\
+  \ Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Pragmatism:\
+  \ You are able to take on complex challenges and break them down to achieve short\
+  \ feedback loops: to analyze, design, and build modular solutions, deliver MVPs,\
+  \ gather data and feedback and then progress iteratively&lt;/li&gt; &lt;li&gt;Collaboration\
+  \ and communication: The smallest unit we have is a squad. You\u2019ll be working\
+  \ with your teammates in a fully remote setup. Good communication skills are a must.&lt;/li&gt;\
+  \ &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Solid experience with at least one programming\
+  \ language. We use Go, but if you have familiarity with Python, C, C++, Rust or\
+  \ similar then that translates well&lt;/li&gt; &lt;li&gt;Some experience with delivering\
+  \ projects from gathering requirements, brainstorming ideas all the way to shipping\
+  \ a product to the customer\u2019s hands in a self-driven way&lt;/li&gt; &lt;li&gt;Some\
+  \ experience with developing software that runs in the Cloud &lt;em&gt;or&lt;/em&gt;\
+  \ some experience with systems engineering&lt;/li&gt; &lt;li&gt;Some experience\
+  \ with being on-call and following the DevOps model&lt;/li&gt; &lt;li&gt;Experience\
+  \ writing clean, robust, and performant software that is easily maintained by others&lt;/li&gt;\
+  \ &lt;li&gt;Familiarity with observability systems, know when to use metrics, logs,\
+  \ traces, to debug a problem.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus\
+  \ Points For:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience working with\
+  \ Kubernetes&lt;/li&gt; &lt;li&gt;Experience working with queue systems, e.g. the\
+  \ Kafka protocol&lt;/li&gt; &lt;li&gt;Been a user of Grafana and Prometheus in operational\
+  \ roles (including on-call for your team at a previous employer or just using these\
+  \ tools on hobby/homelab projects)&lt;/li&gt; &lt;li&gt;Exposure to microservices\
+  \ architecture and distributed systems, or a desire to learn&lt;/li&gt; &lt;li&gt;Familiarity\
+  \ with the concept of infrastructure as code&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;In\
+  \ Germany, the compensation range for this role is EUR 97,034 - EUR 116,441. Actual\
+  \ compensation may vary based on level, experience, and skillset as assessed throughout\
+  \ the interview process. All of our roles include Restricted Stock Units (RSUs),\
+  \ giving every team member ownership in Grafana Labs&#39; success. We believe in\
+  \ shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+  \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation\
+  \ ranges are country specific. If you are applying for this role from a different\
+  \ location than listed above, your recruiter will discuss your specific market\u2019\
+  s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt;\
+  \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote,\
+  \ Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together\
+  \ talent from around the world, united by a culture of collaboration and shared\
+  \ purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt;\
+  \ \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect\
+  \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt;\
+  \ \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven\
+  \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt;\
+  \ \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt;\
+  \ &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities\
+  \ to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable\
+  \ Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible,\
+  \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt;\
+  \ \u2013 Join a team of smart, supportive folks who care deeply about what they\
+  \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We\
+  \ want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to\
+  \ learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance\
+  \ is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per\
+  \ annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown\
+  \ Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local\
+  \ legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal\
+  \ Opportunity Employer:&lt;/strong&gt; We will recruit, train, compensate and promote\
+  \ regardless of race, religion, color, national origin, gender, disability, age,\
+  \ veteran status, and all the other fascinating characteristics that make us different\
+  \ and unique. We believe that equality and diversity builds a strong organization\
+  \ and we\u2019re working hard to make sure that\u2019s the foundation of our organization\
+  \ as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana\
+  \ Labs may utilize AI tools in its recruitment process to assist in matching information\
+  \ provided in CVs to job postings. The recruitment team will continue to review\
+  \ inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+  \ &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information\
+  \ about how your personal data is used once you\u2019ve applied to a job, check\
+  \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+  \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+  \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+keywords_required:
+- c++
+- claude
+- go
+- kubernetes
+- python
+- rag
+- reliability
+- rust
+keywords_preferred: []
+responsibilities: []
+must_haves: []
+nice_to_haves: []
+seniority_estimate: senior
+fit_score_ats: 98
+fit_score_human: 100
+fit_score_strategic: 96
+fit_score_final: 98
+fit_recommendation: apply
+fit_summary: Grafana Labs scores 98 with recommendation apply for role family Backend
+  Engineer.
+risks:
+- Offer does not explicitly state full remote work.
+strengths:
+- Direct keyword overlap with c++, claude, go, kubernetes, python.
+- 'Role family aligns with preferred target: Backend Engineer.'
+- 'Remote fit is acceptable under current constraints: Remote (Germany).'
+status: discovered
+status_history:
+- timestamp: '2026-03-15T20:59:37+00:00'
+  from: ''
+  to: discovered
+  note: Offer discovered automatically from source grafana_greenhouse.
+decision: undecided
+decision_reason: ''
+decision_confidence: ''
+customization_notes: []
+post_application_notes: []
+subscores:
+  role_family_match: 20
+  core_skills_match: 20
+  experience_relevance: 17
+  seniority_alignment: 9
+  domain_relevance: 5
+  achievement_relevance: 6
+  logistics_fit: 8
+  strategic_fit: 5
+confidence: high
+evidence_quality:
+  direct: 8
+  adjacent: 0
+  weak: 0
+  unsupported: 0
+remote_profile:
+  policy: remote
+  scope: country_limited
+  regions:
+  - Germany
+  label: Remote (Germany)
+  eligible: true
+  explicit: true
+  reason: ''
+  raw: "remote germany (remote) senior backend engineer | mimir oss | germany | remote\
+    \ &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;grafana labs is a remote-first,\
+    \ open-source powerhouse. there are more than 20m users of grafana, the open source\
+    \ visualization tool, around the globe, monitoring everything from beehives to\
+    \ climate change in the alps. the instantly recognizable dashboards have been\
+    \ spotted everywhere from a nasa launch and minecraft hq to wimbledon and the\
+    \ tour de france. grafana labs also helps more than 3,000 companies -- including\
+    \ bloomberg, jpmorgan chase, and ebay -- manage their observability strategies\
+    \ with the grafana lgtm stack, which can be run fully managed with &lt;a href=&quot;https://grafana.com/products/cloud/&quot;&gt;grafana\
+    \ cloud&lt;/a&gt; or self-managed with the &lt;a href=&quot;https://grafana.com/products/enterprise/&quot;&gt;grafana\
+    \ enterprise stack&lt;/a&gt;, both featuring scalable metrics (&lt;a href=&quot;https://grafana.com/oss/mimir/&quot;&gt;grafana\
+    \ mimir&lt;/a&gt;), logs (&lt;a href=&quot;https://grafana.com/oss/loki/&quot;&gt;grafana\
+    \ loki&lt;/a&gt;), and traces (&lt;a href=&quot;https://grafana.com/oss/tempo/&quot;&gt;grafana\
+    \ tempo&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;we\u2019re scaling fast and staying true\
+    \ to what makes us different: an open-source legacy, a global collaborative culture,\
+    \ and a passion for meaningful work. our team thrives in an innovation-driven\
+    \ environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\
+    \ &lt;p&gt;you may not meet every requirement, and that\u2019s okay. if this role\
+    \ excites you, we\u2019d love you to raise your hand for what could be a truly\
+    \ career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;this\
+    \ is a remote opportunity and we would be interested in applicants based in spain,\
+    \ germany, the uk or sweden at this time.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;the\
+    \ opportunity:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;as a mimir engineer you\u2019\
+    ll join one of these two sub-squads: query or storage. together, they maintain\
+    \ the open source &lt;a href=&quot;https://github.com/grafana/mimir&quot;&gt;grafana\
+    \ mimir oss project&lt;/a&gt; and operate grafana cloud metrics across three major\
+    \ cloud providers. this role offers the opportunity to work on large-scale, high-performance\
+    \ distributed systems where efficiency, resilience, and reliability are essential\
+    \ to keeping our metrics offerings competitive and smooth at massive volumes.&lt;/p&gt;\
+    \ &lt;p&gt;mimir engineers work across a variety of streams. you\u2019ll typically\
+    \ collaborate with another engineer on a larger project while also driving performance\
+    \ and reliability improvements identified from operating the system in production.\
+    \ in this role, you\u2019ll write and review prs and design documents, help guide\
+    \ automated release rollouts, and participate in the on-call rotation for the\
+    \ systems you own. this is a chance to directly shape, optimize, and scale one\
+    \ of the industry\u2019s most advanced metrics platforms.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what\
+    \ you\u2019ll be doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;take an\
+    \ active role in influencing our roadmap and your own career objectives&amp;nbsp;&lt;/li&gt;\
+    \ &lt;li&gt;work with your team to deliver new features solving customer problems\
+    \ and enhancing operations on a large database at scale&lt;/li&gt; &lt;li&gt;drive\
+    \ projects from initial idea all the way to operations once it is in the hands\
+    \ of customers&lt;/li&gt; &lt;li&gt;embrace our open-source culture and contribute\
+    \ to other projects that may not directly fall within your team\u2019s scope&lt;/li&gt;\
+    \ &lt;li&gt;design, build, operate, and maintain critical systems, owning the\
+    \ reliability, performance, and availability&lt;/li&gt; &lt;li&gt;be a part of\
+    \ your team\u2019s follow-the-sun on-call rotations and take ownership of the\
+    \ services you\u2019re running&lt;/li&gt; &lt;li&gt;support other team members,\
+    \ participate in design discussions and collaborate with the team&lt;/li&gt; &lt;li&gt;learn\
+    \ new skills by gaining a deeper understanding of our cloud product and our customers\
+    \ and getting to know the codebase of a large distributed system&lt;/li&gt; &lt;/ul&gt;\
+    \ &lt;p&gt;we invest heavily in developer productivity. you can use modern ai\
+    \ coding assistants as part of your daily workflow (your choice of tools, within\
+    \ security guidelines), backed by a company-funded usage budget so you can iterate\
+    \ quickly without unnecessary friction.&lt;br&gt;we encourage pragmatic ai-assisted\
+    \ development: faster prototyping, test generation, refactors, documentation,\
+    \ and incident follow-ups\u2014always paired with strong code review and quality\
+    \ standards.&lt;br&gt;you\u2019ll also have access to frontier models (e.g., gpt-codex\
+    \ 5/3, claude opus 4.6, gemini 3 pro).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;what makes\
+    \ you a great fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;pragmatism: you\
+    \ are able to take on complex challenges and break them down to achieve short\
+    \ feedback loops: to analyze, design, and build modular solutions, deliver mvps,\
+    \ gather data and feedback and then progress iteratively&lt;/li&gt; &lt;li&gt;collaboration\
+    \ and communication: the smallest unit we have is a squad. you\u2019ll be working\
+    \ with your teammates in a fully remote setup. good communication skills are a\
+    \ must.&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;solid experience with at least\
+    \ one programming language. we use go, but if you have familiarity with python,\
+    \ c, c++, rust or similar then that translates well&lt;/li&gt; &lt;li&gt;some\
+    \ experience with delivering projects from gathering requirements, brainstorming\
+    \ ideas all the way to shipping a product to the customer\u2019s hands in a self-driven\
+    \ way&lt;/li&gt; &lt;li&gt;some experience with developing software that runs\
+    \ in the cloud &lt;em&gt;or&lt;/em&gt; some experience with systems engineering&lt;/li&gt;\
+    \ &lt;li&gt;some experience with being on-call and following the devops model&lt;/li&gt;\
+    \ &lt;li&gt;experience writing clean, robust, and performant software that is\
+    \ easily maintained by others&lt;/li&gt; &lt;li&gt;familiarity with observability\
+    \ systems, know when to use metrics, logs, traces, to debug a problem.&lt;/li&gt;\
+    \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;bonus points for:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;experience working with kubernetes&lt;/li&gt; &lt;li&gt;experience\
+    \ working with queue systems, e.g. the kafka protocol&lt;/li&gt; &lt;li&gt;been\
+    \ a user of grafana and prometheus in operational roles (including on-call for\
+    \ your team at a previous employer or just using these tools on hobby/homelab\
+    \ projects)&lt;/li&gt; &lt;li&gt;exposure to microservices architecture and distributed\
+    \ systems, or a desire to learn&lt;/li&gt; &lt;li&gt;familiarity with the concept\
+    \ of infrastructure as code&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;in germany, the compensation\
+    \ range for this role is eur 97,034 - eur 116,441. actual compensation may vary\
+    \ based on level, experience, and skillset as assessed throughout the interview\
+    \ process. all of our roles include restricted stock units (rsus), giving every\
+    \ team member ownership in grafana labs&#39; success. we believe in shared outcomes\u2014\
+    rsus help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div\
+    \ class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*compensation\
+    \ ranges are country specific. if you are applying for this role from a different\
+    \ location than listed above, your recruiter will discuss your specific market\u2019\
+    s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;&lt;strong&gt;why you\u2019ll thrive at grafana labs:&lt;/strong&gt;&lt;/p&gt;\
+    \ &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100%\
+    \ remote, global culture -&amp;nbsp;&lt;/strong&gt;as a remote-only company, we\
+    \ bring together talent from around the world, united by a culture of collaboration\
+    \ and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;scaling organization&lt;/strong&gt;\
+    \ \u2013 tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;transparent communication&lt;/strong&gt; \u2013 expect\
+    \ open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;innovation-driven&lt;/strong&gt;\
+    \ \u2013 autonomy and support to ship great work and try new things.&lt;/li&gt;\
+    \ &lt;li&gt;&lt;strong&gt;open source roots&lt;/strong&gt; \u2013 built on community-driven\
+    \ values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;empowered\
+    \ teams&lt;/strong&gt; \u2013 high trust, low ego culture that values outcomes\
+    \ over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;career growth pathways&lt;/strong&gt;\
+    \ \u2013 defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;approachable\
+    \ leadership&lt;/strong&gt; \u2013 transparent execs who are involved, visible,\
+    \ and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;passionate people&lt;/strong&gt;\
+    \ \u2013 join a team of smart, supportive folks who care deeply about what they\
+    \ do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;in-person onboarding &lt;/strong&gt;-\
+    \ we want you to thrive from day 1 with your fellow new \u2018grafanistas\u2019\
+    \ to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;balance\
+    \ is key&lt;/strong&gt; - we operate a global annual leave policy of 30 days per\
+    \ annum. 3 days of your annual leave entitlement are reserved for grafana shutdown\
+    \ days to allow the team to really disconnect. &lt;em&gt;*we will comply with\
+    \ local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;equal\
+    \ opportunity employer:&lt;/strong&gt; we will recruit, train, compensate and\
+    \ promote regardless of race, religion, color, national origin, gender, disability,\
+    \ age, veteran status, and all the other fascinating characteristics that make\
+    \ us different and unique. we believe that equality and diversity builds a strong\
+    \ organization and we\u2019re working hard to make sure that\u2019s the foundation\
+    \ of our organization as we grow.&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;grafana\
+    \ labs may utilize ai tools in its recruitment process to assist in matching information\
+    \ provided in cvs to job postings. the recruitment team will continue to review\
+    \ inbound cvs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt;\
+    \ &lt;p&gt;#li-remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;for information\
+    \ about how your personal data is used once you\u2019ve applied to a job, check\
+    \ out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot;\
+    \ target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt;\
+    \ &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;"
+updated_at: '2026-03-15T21:00:00+00:00'
